@@ -23,7 +23,7 @@ support better estimating and risk management decisions.
   at 20%+
 
 ### Dashboard Preview
-![Construction Dashboard](Screen Shot 2026-07-17 at 8.10.43 PM.png)
+![Construction Dashboard](FMCG-ScreenShot.png)
 
 ---
 
