@@ -56,4 +56,4 @@ product prioritization, and regional expansion.
 ### Dashboard Preview
 ![FMCG Dashboard](FMCG_Screen_Shot.png)
 
-**Live Report:** [[View on Power BI](https://app.powerbi.com/groups/me/reports/9c191a00-58b6-40cc-81b6-c53bb403017c/86321e940d39626e4a70?bookmarkGuid=89a9c485-6bcf-4148-bc32-2c29a81d3017&bookmarkUsage=1&ctid=6bd75f60-d7d3-48ba-b1ce-d21f2a43dd6a&portalSessionId=5ea017ce-e072-42ef-bdb1-6ec81254b894&fromEntryPoint=export)](#)
+**Live Report:** [[View on Power BI](https://app.powerbi.com/groups/me/reports/9c191a00-58b6-40cc-81b6-c53bb403017c/86321e940d39626e4a70?bookmarkGuid=89a9c485-6bcf-4148-bc32-2c29a81d3017&bookmarkUsage=1&ctid=6bd75f60-d7d3-48ba-b1ce-d21f2a43dd6a&portalSessionId=5ea017ce-e072-42ef-bdb1-6ec81254b894&fromEntryPoint=export)]
