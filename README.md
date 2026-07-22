@@ -23,7 +23,7 @@ support better estimating and risk management decisions.
   at 20%+
 
 ### Dashboard Preview
-![Dashboard](construction_dashboard_screenshot.png)
+![Screen Shot 2026-07-17 at 8.10.43 PM.png](construction_dashboard_screenshot.png)
 
 ---
 
