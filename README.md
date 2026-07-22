@@ -9,49 +9,41 @@ Data analytics and business intelligence portfolio projects.
 **Industry:** Construction
 
 ### Business Problem
-Identify cost overrun patterns and schedule performance 
-trends across a GTA construction project portfolio to 
-support better estimating and risk management decisions.
+Identify cost overrun patterns and schedule performance trends across a GTA construction project portfolio to support better estimating and risk management decisions.
 
 ### Key Findings
-- Residential High-Rise projects showed highest cost 
-  overrun at 17% average variance
+- Residential High-Rise projects showed highest cost overrun at 17% average variance
 - Infrastructure projects most on-budget at 3.5% variance
 - Low-risk projects overrunning more than High-risk ones 
   — suggesting risk classification methodology needs review
-- Brampton and Vaughan had highest regional cost overruns 
-  at 20%+
+- Brampton and Vaughan had highest regional cost overruns at 20%+
 
 ### Dashboard Preview
 ![Construction Dashboard](Construction-ScreenShot.png)
 
 ---
 
-## Project 2 — FMCG Sales Performance Dashboard
+## Project 2 — CPG / FMCG Sales Performance Dashboard
 
 **Tools:** Power BI · DAX  
 **Dataset:** FMCG Sales & Profit 2023–2025 (Kaggle, 18,240 rows)  
 **Industry:** Consumer Packaged Goods (CPG) / FMCG  
 
 ### Business Problem
-Analyze 3 years of global FMCG sales data to identify 
-revenue trends, profit margin performance by brand, 
-promotional effectiveness, and regional sales distribution 
-— enabling data-driven decisions on marketing spend, 
-product prioritization, and regional expansion.
+Analyze 3 years of global FMCG sales data to identify revenue trends, profit margin performance by brand, 
+promotional effectiveness, and regional sales distribution — enabling data-driven decisions on marketing spend, product prioritization, and regional expansion.
 
 ### Key Findings
-- [Add your top revenue region after checking dashboard]
-- [Add highest margin brand]
-- [Add most effective promotion type by units sold]
-- [Add YoY revenue growth trend]
+- 🏆 Top performing region: Europe
+- 💰 Highest margin brand: BrightSmile
+- 📊 Most effective promotion type: No Promo
+- 📈 YoY revenue growth trend: 53.17%
 
 ### Features
 - Interactive slicers for Year, Product Category, and Region
 - Power BI AI visuals — Key Influencers and Anomaly Detection
 - DAX measure for Year-over-Year revenue growth calculation
-- 5 KPI cards — Total Revenue, Total Profit, Avg Margin %, 
-  Units Sold, YoY Growth %
+- 5 KPI cards — Total Revenue, Total Profit, Avg Margin %, Units Sold, YoY Growth %
 
 ### Dashboard Preview
 ![FMCG Dashboard](FMCG_Screen_Shot.png)
