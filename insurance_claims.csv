@@ -1,0 +1,1010 @@
+Claim_ID,Policy_ID,Policy_Type,Claim_Type,Province,City,Agent_ID,Agent_Name,Claim_Date,Claim_Amount_CAD,Settlement_Amount_CAD,Settlement_Ratio_Pct,Claim_Status,Resolution_Days,Fraud_Flag,Year,Quarter,Month,Month_Name
+CLM-00001,POL-00001,Auto,Glass,ON,Toronto,AGT011,Jennifer Lee,2023-05-15,38612.18,23514.42,60.9,Closed,38,No,2023,Q2,5,May
+CLM-00002,POL-00009,Commercial,Property Damage,BC,Richmond,AGT003,Maria Santos,2024-05-08,101078.81,60923.67,60.3,Closed,174,No,2024,Q2,5,May
+CLM-00003,POL-00009,Commercial,Business Interruption,BC,Richmond,AGT003,Maria Santos,2024-04-12,119722.64,,,Open,,No,2024,Q2,4,April
+CLM-00004,POL-00010,Commercial,Business Interruption,ON,Ottawa,AGT001,Sarah Chen,2023-02-21,182544.92,,,Open,,No,2023,Q1,2,February
+CLM-00005,POL-00011,Commercial,Property Damage,ON,London,AGT007,Aisha Mohammed,2022-10-17,177085.55,,,Open,,No,2022,Q4,10,October
+CLM-00006,POL-00011,Commercial,Business Interruption,ON,London,AGT007,Aisha Mohammed,2022-08-20,131231.31,,,Pending Review,,No,2022,Q3,8,August
+CLM-00007,POL-00014,Disability,Long Term,ON,Toronto,AGT014,Raj Sharma,2024-04-01,15454.82,11020.4,71.3,Closed,111,No,2024,Q2,4,April
+CLM-00008,POL-00016,Life,Disability,ON,London,AGT014,Raj Sharma,2023-10-25,286156.35,180232.87,63.0,Closed,128,No,2023,Q4,10,October
+CLM-00009,POL-00021,Auto,Collision,ON,Ottawa,AGT002,James Okafor,2023-03-30,6273.28,,,Pending Review,,No,2023,Q1,3,March
+CLM-00010,POL-00022,Auto,Collision,AB,Calgary,AGT004,David Kim,2022-06-06,23899.33,21108.63,88.3,Closed,142,No,2022,Q2,6,June
+CLM-00011,POL-00022,Auto,Theft,AB,Calgary,AGT004,David Kim,2022-04-16,8973.86,3928.3,43.8,Closed,39,No,2022,Q2,4,April
+CLM-00012,POL-00025,Home,Fire,QC,Montreal,AGT006,Mark Johnson,2024-03-27,42047.66,27298.22,64.9,Closed,55,No,2024,Q1,3,March
+CLM-00013,POL-00025,Home,Theft,QC,Montreal,AGT006,Mark Johnson,2024-03-23,2913.81,1454.09,49.9,Closed,135,No,2024,Q1,3,March
+CLM-00014,POL-00026,Commercial,Liability,ON,Toronto,AGT014,Raj Sharma,2024-11-08,98615.52,,,Open,,No,2024,Q4,11,November
+CLM-00015,POL-00031,Auto,Glass,AB,Lethbridge,AGT004,David Kim,2024-01-07,36841.73,,,Open,,No,2024,Q1,1,January
+CLM-00016,POL-00035,Travel,Medical,BC,Richmond,AGT003,Maria Santos,2024-02-07,9752.22,4928.08,50.5,Closed,58,No,2024,Q1,2,February
+CLM-00017,POL-00041,Life,Disability,QC,Montreal,AGT006,Mark Johnson,2022-12-03,479836.76,453822.37,94.6,Closed,108,No,2022,Q4,12,December
+CLM-00018,POL-00047,Auto,Theft,ON,Toronto,AGT005,Lisa Patel,2023-05-03,40403.44,24042.53,59.5,Closed,65,No,2023,Q2,5,May
+CLM-00019,POL-00048,Travel,Trip Cancellation,ON,Hamilton,AGT002,James Okafor,2022-10-04,6384.56,4427.45,69.3,Closed,129,No,2022,Q4,10,October
+CLM-00020,POL-00048,Travel,Trip Cancellation,ON,Hamilton,AGT002,James Okafor,2022-11-27,3857.6,1588.31,41.2,Closed,67,No,2022,Q4,11,November
+CLM-00021,POL-00051,Commercial,Business Interruption,ON,London,AGT007,Aisha Mohammed,2023-01-13,90565.22,46376.35,51.2,Closed,20,No,2023,Q1,1,January
+CLM-00022,POL-00052,Home,Wind,ON,Ottawa,AGT005,Lisa Patel,2024-03-01,61019.9,,,Open,,No,2024,Q1,3,March
+CLM-00023,POL-00052,Home,Water Damage,ON,Ottawa,AGT005,Lisa Patel,2023-12-01,46786.71,,,Disputed,,No,2023,Q4,12,December
+CLM-00024,POL-00053,Disability,Short Term,AB,Lethbridge,AGT004,David Kim,2022-05-24,5772.06,,,Open,,No,2022,Q2,5,May
+CLM-00025,POL-00055,Commercial,Liability,AB,Calgary,AGT010,Ahmed Hassan,2024-07-01,153394.37,,,Open,,No,2024,Q3,7,July
+CLM-00026,POL-00055,Commercial,Business Interruption,AB,Calgary,AGT010,Ahmed Hassan,2024-05-14,103174.84,94732.44,91.8,Closed,178,No,2024,Q2,5,May
+CLM-00027,POL-00058,Travel,Medical,QC,Gatineau,AGT015,Nicole Dubois,2023-07-21,12020.64,,,Open,,No,2023,Q3,7,July
+CLM-00028,POL-00059,Life,Critical Illness,QC,Gatineau,AGT008,Pierre Tremblay,2024-11-20,156329.3,98911.22,63.3,Closed,149,No,2024,Q4,11,November
+CLM-00029,POL-00060,Disability,Short Term,QC,Montreal,AGT008,Pierre Tremblay,2023-01-20,28714.64,26509.47,92.3,Closed,26,Yes,2023,Q1,1,January
+CLM-00030,POL-00062,Commercial,Business Interruption,AB,Lethbridge,AGT004,David Kim,2024-06-08,151109.26,120646.39,79.8,Closed,53,No,2024,Q2,6,June
+CLM-00031,POL-00062,Commercial,Property Damage,AB,Lethbridge,AGT004,David Kim,2024-05-18,16054.29,,,Disputed,,No,2024,Q2,5,May
+CLM-00032,POL-00063,Commercial,Liability,QC,Laval,AGT006,Mark Johnson,2024-08-20,23121.2,22669.15,98.0,Closed,15,No,2024,Q3,8,August
+CLM-00033,POL-00064,Life,Disability,QC,Quebec City,AGT008,Pierre Tremblay,2022-04-28,465794.38,454647.17,97.6,Closed,172,No,2022,Q2,4,April
+CLM-00034,POL-00067,Commercial,Liability,ON,Ottawa,AGT007,Aisha Mohammed,2022-12-08,25378.58,24058.16,94.8,Closed,161,No,2022,Q4,12,December
+CLM-00035,POL-00068,Disability,Long Term,QC,Quebec City,AGT006,Mark Johnson,2024-03-06,28107.27,14581.23,51.9,Closed,57,Yes,2024,Q1,3,March
+CLM-00036,POL-00070,Travel,Lost Baggage,QC,Quebec City,AGT006,Mark Johnson,2024-11-27,2846.8,,,Open,,No,2024,Q4,11,November
+CLM-00037,POL-00071,Travel,Trip Cancellation,QC,Laval,AGT015,Nicole Dubois,2023-11-14,2806.83,1274.47,45.4,Closed,145,No,2023,Q4,11,November
+CLM-00038,POL-00071,Travel,Medical,QC,Laval,AGT015,Nicole Dubois,2023-05-06,13844.55,12680.31,91.6,Closed,86,No,2023,Q2,5,May
+CLM-00039,POL-00074,Auto,Theft,ON,Hamilton,AGT014,Raj Sharma,2023-03-10,31677.84,,,Pending Review,,No,2023,Q1,3,March
+CLM-00040,POL-00074,Auto,Collision,ON,Hamilton,AGT014,Raj Sharma,2023-04-11,36338.62,,,Open,,No,2023,Q2,4,April
+CLM-00041,POL-00079,Disability,Short Term,AB,Lethbridge,AGT004,David Kim,2023-11-18,9712.93,6355.34,65.4,Closed,86,No,2023,Q4,11,November
+CLM-00042,POL-00080,Disability,Short Term,AB,Red Deer,AGT004,David Kim,2024-01-31,25697.58,14277.94,55.6,Closed,42,Yes,2024,Q1,1,January
+CLM-00043,POL-00080,Disability,Short Term,AB,Red Deer,AGT004,David Kim,2023-10-19,13828.87,8533.71,61.7,Closed,62,No,2023,Q4,10,October
+CLM-00044,POL-00081,Life,Death Benefit,QC,Gatineau,AGT006,Mark Johnson,2022-10-05,249401.56,207733.67,83.3,Closed,112,No,2022,Q4,10,October
+CLM-00045,POL-00083,Life,Disability,ON,Mississauga,AGT002,James Okafor,2022-10-22,342542.42,322220.06,94.1,Closed,69,No,2022,Q4,10,October
+CLM-00046,POL-00083,Life,Disability,ON,Mississauga,AGT002,James Okafor,2022-08-18,334280.63,,,Open,,No,2022,Q3,8,August
+CLM-00047,POL-00084,Life,Disability,ON,Brampton,AGT001,Sarah Chen,2023-01-26,213434.05,,,Pending Review,,No,2023,Q1,1,January
+CLM-00048,POL-00087,Commercial,Liability,ON,Brampton,AGT002,James Okafor,2024-07-16,120073.97,104107.52,86.7,Closed,75,No,2024,Q3,7,July
+CLM-00049,POL-00089,Auto,Theft,ON,London,AGT005,Lisa Patel,2022-08-26,37736.27,20779.84,55.1,Closed,31,No,2022,Q3,8,August
+CLM-00050,POL-00089,Auto,Collision,ON,London,AGT005,Lisa Patel,2023-02-23,35978.03,25490.79,70.9,Closed,9,No,2023,Q1,2,February
+CLM-00051,POL-00091,Disability,Short Term,QC,Laval,AGT015,Nicole Dubois,2024-11-06,15691.56,10266.72,65.4,Closed,6,No,2024,Q4,11,November
+CLM-00052,POL-00093,Disability,Short Term,QC,Laval,AGT008,Pierre Tremblay,2023-06-02,29277.63,24083.26,82.3,Closed,53,No,2023,Q2,6,June
+CLM-00053,POL-00095,Travel,Medical,NS,Dartmouth,AGT013,Emma Thompson,2024-08-03,5115.66,,,Open,,No,2024,Q3,8,August
+CLM-00054,POL-00097,Life,Death Benefit,ON,Mississauga,AGT014,Raj Sharma,2024-03-18,366829.13,152187.9,41.5,Closed,49,No,2024,Q1,3,March
+CLM-00055,POL-00103,Home,Theft,BC,Richmond,AGT003,Maria Santos,2024-01-27,16718.22,,,Disputed,,No,2024,Q1,1,January
+CLM-00056,POL-00104,Life,Critical Illness,ON,Hamilton,AGT014,Raj Sharma,2023-09-18,464886.16,,,Disputed,,No,2023,Q3,9,September
+CLM-00057,POL-00104,Life,Death Benefit,ON,Hamilton,AGT014,Raj Sharma,2024-03-03,208955.18,91615.3,43.8,Closed,38,No,2024,Q1,3,March
+CLM-00058,POL-00105,Home,Theft,AB,Lethbridge,AGT010,Ahmed Hassan,2023-06-22,32835.76,21518.53,65.5,Closed,87,No,2023,Q2,6,June
+CLM-00059,POL-00108,Auto,Liability,AB,Red Deer,AGT010,Ahmed Hassan,2023-08-24,6032.39,3326.2,55.1,Closed,170,No,2023,Q3,8,August
+CLM-00060,POL-00111,Disability,Long Term,ON,Mississauga,AGT002,James Okafor,2023-05-02,18076.73,,,Open,,No,2023,Q2,5,May
+CLM-00061,POL-00111,Disability,Short Term,ON,Mississauga,AGT002,James Okafor,2023-08-02,3184.31,2440.25,76.6,Closed,153,No,2023,Q3,8,August
+CLM-00062,POL-00118,Life,Disability,ON,Hamilton,AGT011,Jennifer Lee,2025-01-15,104125.07,67550.7,64.9,Closed,77,No,2025,Q1,1,January
+CLM-00063,POL-00120,Disability,Short Term,MB,Winnipeg,AGT012,Carlos Rivera,2024-06-14,15580.6,11570.32,74.3,Closed,47,No,2024,Q2,6,June
+CLM-00064,POL-00121,Auto,Glass,MB,Winnipeg,AGT012,Carlos Rivera,2023-08-16,30303.05,22941.62,75.7,Closed,32,No,2023,Q3,8,August
+CLM-00065,POL-00121,Auto,Collision,MB,Winnipeg,AGT012,Carlos Rivera,2023-03-12,3481.3,3110.64,89.4,Closed,113,No,2023,Q1,3,March
+CLM-00066,POL-00122,Travel,Lost Baggage,QC,Laval,AGT015,Nicole Dubois,2023-06-04,7018.98,,,Open,,No,2023,Q2,6,June
+CLM-00067,POL-00123,Commercial,Business Interruption,QC,Montreal,AGT006,Mark Johnson,2022-08-05,133556.45,,,Open,,No,2022,Q3,8,August
+CLM-00068,POL-00124,Auto,Glass,NS,Dartmouth,AGT013,Emma Thompson,2023-01-21,25934.53,,,Disputed,,No,2023,Q1,1,January
+CLM-00069,POL-00127,Auto,Collision,ON,Hamilton,AGT005,Lisa Patel,2024-04-20,33027.57,23862.46,72.3,Closed,77,No,2024,Q2,4,April
+CLM-00070,POL-00128,Travel,Medical,MB,Brandon,AGT012,Carlos Rivera,2022-09-16,14563.52,,,Disputed,,No,2022,Q3,9,September
+CLM-00071,POL-00128,Travel,Medical,MB,Brandon,AGT012,Carlos Rivera,2023-03-27,11415.92,,,Disputed,,No,2023,Q1,3,March
+CLM-00072,POL-00130,Auto,Glass,QC,Laval,AGT006,Mark Johnson,2022-12-23,17134.07,16440.21,96.0,Closed,18,No,2022,Q4,12,December
+CLM-00073,POL-00130,Auto,Glass,QC,Laval,AGT006,Mark Johnson,2022-11-13,2583.59,1768.69,68.5,Closed,26,No,2022,Q4,11,November
+CLM-00074,POL-00130,Auto,Theft,QC,Laval,AGT006,Mark Johnson,2022-09-25,17421.12,7858.26,45.1,Closed,26,No,2022,Q3,9,September
+CLM-00075,POL-00135,Commercial,Business Interruption,ON,Hamilton,AGT002,James Okafor,2024-03-10,87577.53,82523.17,94.2,Closed,103,No,2024,Q1,3,March
+CLM-00076,POL-00137,Auto,Weather Damage,ON,London,AGT007,Aisha Mohammed,2023-12-02,10705.51,,,Disputed,,No,2023,Q4,12,December
+CLM-00077,POL-00138,Travel,Trip Cancellation,BC,Burnaby,AGT003,Maria Santos,2023-12-07,13513.89,10613.76,78.5,Closed,75,No,2023,Q4,12,December
+CLM-00078,POL-00139,Commercial,Property Damage,BC,Kelowna,AGT009,Karen Williams,2024-08-09,156910.98,,,Open,,No,2024,Q3,8,August
+CLM-00079,POL-00140,Home,Liability,ON,Hamilton,AGT007,Aisha Mohammed,2024-10-01,74171.94,60910.49,82.1,Closed,159,No,2024,Q4,10,October
+CLM-00080,POL-00144,Travel,Medical,QC,Montreal,AGT006,Mark Johnson,2022-09-27,1158.45,471.45,40.7,Closed,29,No,2022,Q3,9,September
+CLM-00081,POL-00151,Disability,Short Term,ON,London,AGT005,Lisa Patel,2023-08-14,9445.71,,,Open,,No,2023,Q3,8,August
+CLM-00082,POL-00153,Home,Wind,QC,Gatineau,AGT008,Pierre Tremblay,2024-03-03,12955.76,12858.77,99.3,Closed,157,No,2024,Q1,3,March
+CLM-00083,POL-00154,Disability,Short Term,ON,Hamilton,AGT002,James Okafor,2022-06-26,10397.19,,,Open,,No,2022,Q2,6,June
+CLM-00084,POL-00154,Disability,Long Term,ON,Hamilton,AGT002,James Okafor,2022-06-03,20513.07,20354.74,99.2,Closed,44,No,2022,Q2,6,June
+CLM-00085,POL-00156,Auto,Liability,MB,Brandon,AGT012,Carlos Rivera,2022-09-26,40302.69,,,Pending Review,,No,2022,Q3,9,September
+CLM-00086,POL-00157,Disability,Long Term,ON,Ottawa,AGT014,Raj Sharma,2023-05-29,11308.62,10155.54,89.8,Closed,45,No,2023,Q2,5,May
+CLM-00087,POL-00160,Disability,Long Term,NS,Dartmouth,AGT013,Emma Thompson,2024-04-01,10900.74,4566.75,41.9,Closed,77,No,2024,Q2,4,April
+CLM-00088,POL-00162,Commercial,Liability,ON,Hamilton,AGT005,Lisa Patel,2023-06-24,179832.26,172425.83,95.9,Closed,135,No,2023,Q2,6,June
+CLM-00089,POL-00162,Commercial,Business Interruption,ON,Hamilton,AGT005,Lisa Patel,2023-02-13,109956.83,93661.77,85.2,Closed,142,No,2023,Q1,2,February
+CLM-00090,POL-00166,Commercial,Liability,ON,Hamilton,AGT005,Lisa Patel,2024-03-30,85671.4,77847.42,90.9,Closed,60,No,2024,Q1,3,March
+CLM-00091,POL-00174,Life,Critical Illness,AB,Edmonton,AGT004,David Kim,2024-09-19,363415.68,265195.79,73.0,Closed,132,No,2024,Q3,9,September
+CLM-00092,POL-00174,Life,Disability,AB,Edmonton,AGT004,David Kim,2024-05-08,451635.44,205122.66,45.4,Closed,69,No,2024,Q2,5,May
+CLM-00093,POL-00174,Life,Death Benefit,AB,Edmonton,AGT004,David Kim,2024-12-13,105852.57,50900.33,48.1,Closed,49,No,2024,Q4,12,December
+CLM-00094,POL-00176,Disability,Short Term,ON,Toronto,AGT005,Lisa Patel,2023-06-11,11835.31,5233.93,44.2,Closed,177,No,2023,Q2,6,June
+CLM-00095,POL-00176,Disability,Long Term,ON,Toronto,AGT005,Lisa Patel,2023-11-05,7799.96,4591.31,58.9,Closed,168,No,2023,Q4,11,November
+CLM-00096,POL-00178,Auto,Liability,QC,Laval,AGT015,Nicole Dubois,2023-05-20,22105.11,9493.95,42.9,Closed,169,No,2023,Q2,5,May
+CLM-00097,POL-00179,Auto,Weather Damage,ON,Ottawa,AGT001,Sarah Chen,2024-04-15,8462.28,4874.19,57.6,Closed,99,No,2024,Q2,4,April
+CLM-00098,POL-00179,Auto,Glass,ON,Ottawa,AGT001,Sarah Chen,2024-04-09,27795.88,18312.04,65.9,Closed,86,No,2024,Q2,4,April
+CLM-00099,POL-00179,Auto,Theft,ON,Ottawa,AGT001,Sarah Chen,2024-08-03,1138.8,995.65,87.4,Closed,111,No,2024,Q3,8,August
+CLM-00100,POL-00181,Home,Liability,ON,Ottawa,AGT001,Sarah Chen,2023-11-21,36599.08,,,Open,,No,2023,Q4,11,November
+CLM-00101,POL-00181,Home,Liability,ON,Ottawa,AGT001,Sarah Chen,2024-03-09,64615.91,26966.47,41.7,Closed,97,No,2024,Q1,3,March
+CLM-00102,POL-00185,Travel,Lost Baggage,BC,Kelowna,AGT009,Karen Williams,2023-10-29,4480.02,2083.38,46.5,Closed,157,No,2023,Q4,10,October
+CLM-00103,POL-00187,Auto,Liability,QC,Quebec City,AGT006,Mark Johnson,2023-08-31,7631.75,3907.78,51.2,Closed,78,No,2023,Q3,8,August
+CLM-00104,POL-00187,Auto,Liability,QC,Quebec City,AGT006,Mark Johnson,2023-03-21,43412.86,,,Open,,No,2023,Q1,3,March
+CLM-00105,POL-00191,Home,Fire,ON,Ottawa,AGT007,Aisha Mohammed,2023-10-30,8291.71,,,Disputed,,No,2023,Q4,10,October
+CLM-00106,POL-00195,Auto,Glass,QC,Quebec City,AGT006,Mark Johnson,2024-06-24,1168.12,799.87,68.5,Closed,104,No,2024,Q2,6,June
+CLM-00107,POL-00195,Auto,Glass,QC,Quebec City,AGT006,Mark Johnson,2024-04-15,6189.42,5723.8,92.5,Closed,155,No,2024,Q2,4,April
+CLM-00108,POL-00198,Home,Wind,ON,London,AGT001,Sarah Chen,2023-10-06,11657.89,,,Open,,No,2023,Q4,10,October
+CLM-00109,POL-00198,Home,Fire,ON,London,AGT001,Sarah Chen,2023-06-28,12634.7,5894.65,46.7,Closed,55,No,2023,Q2,6,June
+CLM-00110,POL-00201,Life,Disability,BC,Burnaby,AGT009,Karen Williams,2024-07-26,314933.99,,,Open,,No,2024,Q3,7,July
+CLM-00111,POL-00205,Disability,Long Term,BC,Kelowna,AGT003,Maria Santos,2024-09-09,5581.67,,,Open,,No,2024,Q3,9,September
+CLM-00112,POL-00210,Commercial,Liability,ON,Toronto,AGT011,Jennifer Lee,2023-10-25,54620.61,43242.74,79.2,Closed,122,No,2023,Q4,10,October
+CLM-00113,POL-00213,Auto,Theft,BC,Kelowna,AGT009,Karen Williams,2024-01-29,7360.29,6092.52,82.8,Closed,140,No,2024,Q1,1,January
+CLM-00114,POL-00217,Life,Critical Illness,QC,Gatineau,AGT015,Nicole Dubois,2024-09-09,393870.77,214950.14,54.6,Closed,167,No,2024,Q3,9,September
+CLM-00115,POL-00219,Travel,Lost Baggage,BC,Richmond,AGT009,Karen Williams,2024-04-29,8175.66,,,Open,,No,2024,Q2,4,April
+CLM-00116,POL-00219,Travel,Lost Baggage,BC,Richmond,AGT009,Karen Williams,2024-05-16,386.71,,,Open,,No,2024,Q2,5,May
+CLM-00117,POL-00222,Travel,Medical,BC,Burnaby,AGT003,Maria Santos,2023-11-21,691.36,,,Open,,No,2023,Q4,11,November
+CLM-00118,POL-00222,Travel,Medical,BC,Burnaby,AGT003,Maria Santos,2023-03-15,4148.13,3883.8,93.6,Closed,61,No,2023,Q1,3,March
+CLM-00119,POL-00223,Travel,Lost Baggage,ON,Brampton,AGT014,Raj Sharma,2024-05-14,11860.02,10012.04,84.4,Closed,104,No,2024,Q2,5,May
+CLM-00120,POL-00223,Travel,Trip Cancellation,ON,Brampton,AGT014,Raj Sharma,2024-01-07,7809.99,3437.77,44.0,Closed,47,No,2024,Q1,1,January
+CLM-00121,POL-00226,Home,Liability,NS,Dartmouth,AGT013,Emma Thompson,2023-01-25,17611.02,12698.39,72.1,Closed,19,No,2023,Q1,1,January
+CLM-00122,POL-00229,Travel,Lost Baggage,BC,Richmond,AGT003,Maria Santos,2023-04-01,11383.65,,,Open,,No,2023,Q2,4,April
+CLM-00123,POL-00230,Travel,Lost Baggage,AB,Red Deer,AGT004,David Kim,2023-07-06,7784.89,4307.18,55.3,Closed,101,No,2023,Q3,7,July
+CLM-00124,POL-00237,Auto,Liability,ON,Toronto,AGT011,Jennifer Lee,2022-12-04,26255.5,12594.95,48.0,Closed,73,No,2022,Q4,12,December
+CLM-00125,POL-00237,Auto,Weather Damage,ON,Toronto,AGT011,Jennifer Lee,2023-04-08,17269.48,7285.26,42.2,Closed,156,No,2023,Q2,4,April
+CLM-00126,POL-00237,Auto,Weather Damage,ON,Toronto,AGT011,Jennifer Lee,2023-05-13,8288.81,3973.0,47.9,Closed,145,No,2023,Q2,5,May
+CLM-00127,POL-00238,Auto,Glass,ON,Mississauga,AGT014,Raj Sharma,2023-11-23,35759.52,17542.5,49.1,Closed,168,No,2023,Q4,11,November
+CLM-00128,POL-00239,Life,Death Benefit,AB,Calgary,AGT010,Ahmed Hassan,2024-08-07,474665.66,,,Pending Review,,No,2024,Q3,8,August
+CLM-00129,POL-00239,Life,Death Benefit,AB,Calgary,AGT010,Ahmed Hassan,2024-01-16,370260.81,271855.67,73.4,Closed,40,No,2024,Q1,1,January
+CLM-00130,POL-00240,Life,Death Benefit,AB,Calgary,AGT004,David Kim,2023-06-07,57324.85,46719.69,81.5,Closed,114,No,2023,Q2,6,June
+CLM-00131,POL-00249,Auto,Weather Damage,MB,Brandon,AGT012,Carlos Rivera,2023-08-30,8926.11,5625.5,63.0,Closed,18,No,2023,Q3,8,August
+CLM-00132,POL-00251,Travel,Medical,MB,Winnipeg,AGT012,Carlos Rivera,2023-08-28,9689.07,4370.08,45.1,Closed,15,No,2023,Q3,8,August
+CLM-00133,POL-00256,Auto,Glass,QC,Montreal,AGT015,Nicole Dubois,2023-04-13,14579.45,11747.66,80.6,Closed,3,No,2023,Q2,4,April
+CLM-00134,POL-00260,Travel,Trip Cancellation,ON,Brampton,AGT001,Sarah Chen,2023-01-14,14163.18,13759.5,97.1,Closed,115,No,2023,Q1,1,January
+CLM-00135,POL-00260,Travel,Medical,ON,Brampton,AGT001,Sarah Chen,2022-12-13,13563.5,5800.38,42.8,Closed,174,No,2022,Q4,12,December
+CLM-00136,POL-00261,Travel,Lost Baggage,QC,Gatineau,AGT006,Mark Johnson,2023-07-26,6016.21,,,Disputed,,No,2023,Q3,7,July
+CLM-00137,POL-00263,Travel,Trip Cancellation,ON,Brampton,AGT007,Aisha Mohammed,2023-06-03,1688.46,,,Disputed,,No,2023,Q2,6,June
+CLM-00138,POL-00264,Disability,Long Term,ON,Brampton,AGT002,James Okafor,2022-06-04,23644.16,20242.36,85.6,Closed,143,No,2022,Q2,6,June
+CLM-00139,POL-00271,Life,Critical Illness,ON,Ottawa,AGT011,Jennifer Lee,2024-02-18,301113.53,214399.88,71.2,Closed,33,No,2024,Q1,2,February
+CLM-00140,POL-00273,Disability,Long Term,ON,Toronto,AGT014,Raj Sharma,2022-02-17,7057.08,4743.21,67.2,Closed,119,No,2022,Q1,2,February
+CLM-00141,POL-00275,Travel,Medical,ON,Toronto,AGT001,Sarah Chen,2022-11-06,2163.98,,,Open,,No,2022,Q4,11,November
+CLM-00142,POL-00278,Disability,Short Term,QC,Quebec City,AGT008,Pierre Tremblay,2024-07-07,17492.29,,,Disputed,,No,2024,Q3,7,July
+CLM-00143,POL-00285,Auto,Weather Damage,NS,Dartmouth,AGT013,Emma Thompson,2024-07-15,31919.95,25618.27,80.3,Closed,78,No,2024,Q3,7,July
+CLM-00144,POL-00287,Home,Liability,ON,Ottawa,AGT002,James Okafor,2024-06-21,12427.62,,,Open,,No,2024,Q2,6,June
+CLM-00145,POL-00289,Travel,Trip Cancellation,BC,Kelowna,AGT009,Karen Williams,2022-09-01,5147.16,3873.65,75.3,Closed,70,No,2022,Q3,9,September
+CLM-00146,POL-00290,Auto,Glass,QC,Gatineau,AGT006,Mark Johnson,2023-11-17,15924.21,9175.36,57.6,Closed,14,No,2023,Q4,11,November
+CLM-00147,POL-00291,Home,Water Damage,BC,Richmond,AGT003,Maria Santos,2022-12-14,10979.95,10121.17,92.2,Closed,3,No,2022,Q4,12,December
+CLM-00148,POL-00291,Home,Fire,BC,Richmond,AGT003,Maria Santos,2023-07-02,6006.18,,,Disputed,,No,2023,Q3,7,July
+CLM-00149,POL-00292,Commercial,Property Damage,ON,Ottawa,AGT007,Aisha Mohammed,2023-05-05,46198.06,,,Open,,No,2023,Q2,5,May
+CLM-00150,POL-00298,Home,Wind,BC,Burnaby,AGT003,Maria Santos,2022-11-18,42093.48,,,Open,,No,2022,Q4,11,November
+CLM-00151,POL-00300,Auto,Liability,NS,Halifax,AGT013,Emma Thompson,2024-01-07,3725.72,3595.17,96.5,Closed,98,Yes,2024,Q1,1,January
+CLM-00152,POL-00301,Disability,Short Term,ON,London,AGT011,Jennifer Lee,2024-11-03,4561.07,,,Pending Review,,No,2024,Q4,11,November
+CLM-00153,POL-00303,Auto,Collision,ON,Hamilton,AGT001,Sarah Chen,2022-10-30,14516.76,,,Open,,No,2022,Q4,10,October
+CLM-00154,POL-00303,Auto,Theft,ON,Hamilton,AGT001,Sarah Chen,2022-05-20,42641.69,39115.94,91.7,Closed,148,No,2022,Q2,5,May
+CLM-00155,POL-00304,Travel,Trip Cancellation,QC,Quebec City,AGT008,Pierre Tremblay,2023-07-16,8986.0,7263.31,80.8,Closed,126,No,2023,Q3,7,July
+CLM-00156,POL-00307,Commercial,Business Interruption,ON,London,AGT011,Jennifer Lee,2024-09-23,62141.94,55084.91,88.6,Closed,148,No,2024,Q3,9,September
+CLM-00157,POL-00307,Commercial,Business Interruption,ON,London,AGT011,Jennifer Lee,2024-07-05,113289.92,,,Disputed,,No,2024,Q3,7,July
+CLM-00158,POL-00308,Home,Fire,ON,London,AGT001,Sarah Chen,2024-11-29,33660.15,,,Pending Review,,No,2024,Q4,11,November
+CLM-00159,POL-00311,Travel,Lost Baggage,MB,Brandon,AGT012,Carlos Rivera,2024-04-30,1423.11,,,Open,,No,2024,Q2,4,April
+CLM-00160,POL-00312,Travel,Lost Baggage,QC,Quebec City,AGT006,Mark Johnson,2024-03-02,10027.02,,,Open,,No,2024,Q1,3,March
+CLM-00161,POL-00313,Travel,Lost Baggage,BC,Surrey,AGT009,Karen Williams,2023-05-13,5527.16,,,Open,,No,2023,Q2,5,May
+CLM-00162,POL-00313,Travel,Medical,BC,Surrey,AGT009,Karen Williams,2023-07-02,6426.02,,,Disputed,,No,2023,Q3,7,July
+CLM-00163,POL-00314,Commercial,Property Damage,QC,Montreal,AGT006,Mark Johnson,2024-10-14,119715.77,,,Open,,No,2024,Q4,10,October
+CLM-00164,POL-00319,Commercial,Business Interruption,QC,Montreal,AGT006,Mark Johnson,2022-11-16,193964.2,,,Disputed,,No,2022,Q4,11,November
+CLM-00165,POL-00320,Home,Wind,QC,Gatineau,AGT006,Mark Johnson,2024-10-10,74233.95,61080.64,82.3,Closed,117,No,2024,Q4,10,October
+CLM-00166,POL-00321,Travel,Medical,ON,Brampton,AGT005,Lisa Patel,2024-07-09,3248.65,,,Open,,No,2024,Q3,7,July
+CLM-00167,POL-00321,Travel,Trip Cancellation,ON,Brampton,AGT005,Lisa Patel,2024-03-13,1785.67,,,Open,,No,2024,Q1,3,March
+CLM-00168,POL-00321,Travel,Medical,ON,Brampton,AGT005,Lisa Patel,2024-03-09,1676.0,754.2,45.0,Closed,132,No,2024,Q1,3,March
+CLM-00169,POL-00324,Disability,Long Term,ON,Ottawa,AGT011,Jennifer Lee,2023-05-20,21095.36,,,Open,,No,2023,Q2,5,May
+CLM-00170,POL-00324,Disability,Long Term,ON,Ottawa,AGT011,Jennifer Lee,2023-06-19,22078.43,13745.36,62.3,Closed,71,No,2023,Q2,6,June
+CLM-00171,POL-00329,Home,Liability,ON,Hamilton,AGT001,Sarah Chen,2022-07-10,29230.21,28563.39,97.7,Closed,109,No,2022,Q3,7,July
+CLM-00172,POL-00329,Home,Fire,ON,Hamilton,AGT001,Sarah Chen,2022-12-09,26241.1,,,Disputed,,No,2022,Q4,12,December
+CLM-00173,POL-00333,Disability,Long Term,ON,Toronto,AGT007,Aisha Mohammed,2022-12-28,2895.74,,,Pending Review,,No,2022,Q4,12,December
+CLM-00174,POL-00342,Life,Death Benefit,ON,Brampton,AGT007,Aisha Mohammed,2023-11-30,71665.02,70915.43,99.0,Closed,176,No,2023,Q4,11,November
+CLM-00175,POL-00344,Life,Disability,AB,Calgary,AGT010,Ahmed Hassan,2024-09-23,103332.87,58533.99,56.6,Closed,11,No,2024,Q3,9,September
+CLM-00176,POL-00345,Commercial,Liability,ON,Toronto,AGT007,Aisha Mohammed,2022-09-16,17559.85,12742.42,72.6,Closed,27,No,2022,Q3,9,September
+CLM-00177,POL-00348,Travel,Trip Cancellation,ON,London,AGT005,Lisa Patel,2023-07-16,11447.48,6252.37,54.6,Closed,148,No,2023,Q3,7,July
+CLM-00178,POL-00350,Auto,Liability,ON,Toronto,AGT001,Sarah Chen,2023-06-28,25838.05,19289.79,74.7,Closed,104,No,2023,Q2,6,June
+CLM-00179,POL-00351,Home,Wind,QC,Gatineau,AGT015,Nicole Dubois,2023-12-03,38722.55,,,Open,,No,2023,Q4,12,December
+CLM-00180,POL-00354,Travel,Medical,ON,London,AGT005,Lisa Patel,2023-08-22,10000.74,7422.21,74.2,Closed,151,No,2023,Q3,8,August
+CLM-00181,POL-00354,Travel,Medical,ON,London,AGT005,Lisa Patel,2023-02-16,503.57,320.06,63.6,Closed,43,No,2023,Q1,2,February
+CLM-00182,POL-00355,Home,Fire,NS,Halifax,AGT013,Emma Thompson,2023-10-12,6757.4,3564.6,52.8,Closed,68,No,2023,Q4,10,October
+CLM-00183,POL-00356,Life,Disability,QC,Montreal,AGT015,Nicole Dubois,2024-02-19,164647.03,123364.71,74.9,Closed,172,No,2024,Q1,2,February
+CLM-00184,POL-00357,Commercial,Liability,AB,Lethbridge,AGT004,David Kim,2022-07-15,171922.24,,,Open,,Yes,2022,Q3,7,July
+CLM-00185,POL-00361,Auto,Glass,BC,Kelowna,AGT003,Maria Santos,2022-09-15,25232.47,16360.8,64.8,Closed,6,No,2022,Q3,9,September
+CLM-00186,POL-00362,Commercial,Property Damage,NS,Halifax,AGT013,Emma Thompson,2023-06-19,159942.77,123117.51,77.0,Closed,176,No,2023,Q2,6,June
+CLM-00187,POL-00363,Home,Liability,MB,Winnipeg,AGT012,Carlos Rivera,2023-02-14,44962.2,44477.19,98.9,Closed,147,No,2023,Q1,2,February
+CLM-00188,POL-00363,Home,Water Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-04-29,47880.11,36204.93,75.6,Closed,45,No,2023,Q2,4,April
+CLM-00189,POL-00365,Commercial,Property Damage,AB,Calgary,AGT004,David Kim,2024-07-26,160481.2,149383.38,93.1,Closed,97,No,2024,Q3,7,July
+CLM-00190,POL-00366,Life,Critical Illness,ON,Hamilton,AGT014,Raj Sharma,2024-05-16,450467.66,368005.87,81.7,Closed,116,No,2024,Q2,5,May
+CLM-00191,POL-00368,Travel,Medical,ON,Mississauga,AGT001,Sarah Chen,2024-05-08,2877.8,,,Pending Review,,No,2024,Q2,5,May
+CLM-00192,POL-00368,Travel,Medical,ON,Mississauga,AGT001,Sarah Chen,2024-10-18,5418.06,,,Open,,No,2024,Q4,10,October
+CLM-00193,POL-00375,Life,Disability,NS,Dartmouth,AGT013,Emma Thompson,2025-02-06,297770.5,,,Disputed,,No,2025,Q1,2,February
+CLM-00194,POL-00379,Auto,Collision,NS,Dartmouth,AGT013,Emma Thompson,2024-05-25,32042.92,,,Open,,No,2024,Q2,5,May
+CLM-00195,POL-00383,Travel,Trip Cancellation,ON,London,AGT001,Sarah Chen,2024-06-26,9208.12,,,Disputed,,No,2024,Q2,6,June
+CLM-00196,POL-00385,Disability,Long Term,QC,Quebec City,AGT006,Mark Johnson,2022-12-31,26254.51,,,Pending Review,,No,2022,Q4,12,December
+CLM-00197,POL-00385,Disability,Short Term,QC,Quebec City,AGT006,Mark Johnson,2022-08-26,2034.14,1030.45,50.7,Closed,78,No,2022,Q3,8,August
+CLM-00198,POL-00385,Disability,Short Term,QC,Quebec City,AGT006,Mark Johnson,2022-09-20,20549.59,10136.95,49.3,Closed,74,No,2022,Q3,9,September
+CLM-00199,POL-00391,Commercial,Liability,AB,Edmonton,AGT004,David Kim,2024-02-15,117568.49,,,Open,,No,2024,Q1,2,February
+CLM-00200,POL-00391,Commercial,Property Damage,AB,Edmonton,AGT004,David Kim,2024-04-16,12042.56,6318.91,52.5,Closed,41,No,2024,Q2,4,April
+CLM-00201,POL-00391,Commercial,Property Damage,AB,Edmonton,AGT004,David Kim,2024-04-01,144803.21,,,Disputed,,No,2024,Q2,4,April
+CLM-00202,POL-00392,Auto,Collision,AB,Calgary,AGT004,David Kim,2023-09-09,40483.75,34637.19,85.6,Closed,109,No,2023,Q3,9,September
+CLM-00203,POL-00392,Auto,Liability,AB,Calgary,AGT004,David Kim,2024-02-08,11779.22,,,Open,,No,2024,Q1,2,February
+CLM-00204,POL-00401,Life,Disability,AB,Red Deer,AGT010,Ahmed Hassan,2024-06-12,60312.99,29983.97,49.7,Closed,109,No,2024,Q2,6,June
+CLM-00205,POL-00401,Life,Critical Illness,AB,Red Deer,AGT010,Ahmed Hassan,2024-08-25,184342.09,169431.3,91.9,Closed,43,No,2024,Q3,8,August
+CLM-00206,POL-00402,Travel,Trip Cancellation,ON,Ottawa,AGT014,Raj Sharma,2025-01-27,3869.53,3789.11,97.9,Closed,73,No,2025,Q1,1,January
+CLM-00207,POL-00402,Travel,Trip Cancellation,ON,Ottawa,AGT014,Raj Sharma,2024-09-11,2600.59,,,Open,,No,2024,Q3,9,September
+CLM-00208,POL-00404,Travel,Trip Cancellation,NS,Dartmouth,AGT013,Emma Thompson,2025-02-03,8446.26,,,Open,,No,2025,Q1,2,February
+CLM-00209,POL-00411,Home,Wind,AB,Calgary,AGT004,David Kim,2022-04-10,29602.01,12914.37,43.6,Closed,68,No,2022,Q2,4,April
+CLM-00210,POL-00417,Commercial,Liability,ON,Ottawa,AGT014,Raj Sharma,2023-07-28,72039.03,41882.09,58.1,Closed,45,No,2023,Q3,7,July
+CLM-00211,POL-00422,Disability,Long Term,ON,Brampton,AGT001,Sarah Chen,2024-10-26,8060.38,5211.53,64.7,Closed,90,No,2024,Q4,10,October
+CLM-00212,POL-00422,Disability,Long Term,ON,Brampton,AGT001,Sarah Chen,2024-06-04,20858.17,9612.43,46.1,Closed,134,No,2024,Q2,6,June
+CLM-00213,POL-00422,Disability,Long Term,ON,Brampton,AGT001,Sarah Chen,2024-12-09,28576.02,,,Open,,No,2024,Q4,12,December
+CLM-00214,POL-00423,Disability,Long Term,NS,Dartmouth,AGT013,Emma Thompson,2023-06-16,27408.32,,,Open,,No,2023,Q2,6,June
+CLM-00215,POL-00424,Disability,Long Term,QC,Quebec City,AGT008,Pierre Tremblay,2024-09-28,24539.94,,,Open,,No,2024,Q3,9,September
+CLM-00216,POL-00427,Disability,Short Term,BC,Vancouver,AGT009,Karen Williams,2022-12-19,12210.77,6612.26,54.2,Closed,54,No,2022,Q4,12,December
+CLM-00217,POL-00429,Disability,Long Term,BC,Burnaby,AGT003,Maria Santos,2023-09-21,25753.51,18475.6,71.7,Closed,98,No,2023,Q3,9,September
+CLM-00218,POL-00435,Home,Wind,AB,Edmonton,AGT004,David Kim,2024-03-15,32708.75,,,Open,,No,2024,Q1,3,March
+CLM-00219,POL-00438,Disability,Long Term,BC,Surrey,AGT003,Maria Santos,2022-08-23,29751.59,16735.65,56.3,Closed,155,No,2022,Q3,8,August
+CLM-00220,POL-00440,Home,Theft,ON,Hamilton,AGT002,James Okafor,2024-04-10,10991.38,5564.39,50.6,Closed,8,No,2024,Q2,4,April
+CLM-00221,POL-00445,Life,Critical Illness,BC,Surrey,AGT003,Maria Santos,2023-11-13,133414.15,85313.09,63.9,Closed,98,No,2023,Q4,11,November
+CLM-00222,POL-00446,Commercial,Property Damage,BC,Vancouver,AGT003,Maria Santos,2023-11-17,171422.47,93205.39,54.4,Closed,73,No,2023,Q4,11,November
+CLM-00223,POL-00449,Commercial,Property Damage,ON,Hamilton,AGT002,James Okafor,2023-02-02,186959.41,,,Pending Review,,No,2023,Q1,2,February
+CLM-00224,POL-00450,Disability,Long Term,AB,Edmonton,AGT010,Ahmed Hassan,2023-08-13,24864.18,14436.1,58.1,Closed,82,No,2023,Q3,8,August
+CLM-00225,POL-00450,Disability,Long Term,AB,Edmonton,AGT010,Ahmed Hassan,2023-07-25,17863.99,,,Open,,No,2023,Q3,7,July
+CLM-00226,POL-00451,Commercial,Business Interruption,MB,Winnipeg,AGT012,Carlos Rivera,2024-03-05,28786.47,,,Open,,No,2024,Q1,3,March
+CLM-00227,POL-00453,Auto,Liability,QC,Laval,AGT006,Mark Johnson,2024-01-07,4610.82,4424.17,96.0,Closed,43,No,2024,Q1,1,January
+CLM-00228,POL-00453,Auto,Theft,QC,Laval,AGT006,Mark Johnson,2024-04-28,19766.08,,,Open,,No,2024,Q2,4,April
+CLM-00229,POL-00454,Auto,Theft,NS,Dartmouth,AGT013,Emma Thompson,2023-11-29,39201.37,,,Open,,No,2023,Q4,11,November
+CLM-00230,POL-00458,Life,Critical Illness,ON,London,AGT014,Raj Sharma,2023-05-27,109425.6,,,Open,,No,2023,Q2,5,May
+CLM-00231,POL-00460,Auto,Collision,AB,Red Deer,AGT004,David Kim,2022-04-20,41662.52,32395.94,77.8,Closed,42,No,2022,Q2,4,April
+CLM-00232,POL-00460,Auto,Collision,AB,Red Deer,AGT004,David Kim,2022-04-06,41776.93,25922.28,62.0,Closed,171,No,2022,Q2,4,April
+CLM-00233,POL-00461,Disability,Short Term,QC,Gatineau,AGT008,Pierre Tremblay,2023-10-08,22425.67,9854.46,43.9,Closed,121,No,2023,Q4,10,October
+CLM-00234,POL-00462,Travel,Trip Cancellation,BC,Richmond,AGT009,Karen Williams,2023-10-24,3555.3,,,Open,,No,2023,Q4,10,October
+CLM-00235,POL-00466,Disability,Short Term,MB,Brandon,AGT012,Carlos Rivera,2024-09-10,7556.87,3921.03,51.9,Closed,92,No,2024,Q3,9,September
+CLM-00236,POL-00466,Disability,Long Term,MB,Brandon,AGT012,Carlos Rivera,2024-08-24,6928.29,5767.85,83.3,Closed,50,No,2024,Q3,8,August
+CLM-00237,POL-00466,Disability,Short Term,MB,Brandon,AGT012,Carlos Rivera,2024-04-07,11631.14,,,Pending Review,,No,2024,Q2,4,April
+CLM-00238,POL-00468,Travel,Lost Baggage,ON,London,AGT011,Jennifer Lee,2025-03-10,11608.7,,,Open,,No,2025,Q1,3,March
+CLM-00239,POL-00470,Disability,Long Term,ON,Toronto,AGT014,Raj Sharma,2023-02-24,21353.32,,,Open,,No,2023,Q1,2,February
+CLM-00240,POL-00471,Disability,Long Term,ON,London,AGT014,Raj Sharma,2022-10-12,4439.01,2707.82,61.0,Closed,104,No,2022,Q4,10,October
+CLM-00241,POL-00481,Travel,Medical,ON,Brampton,AGT011,Jennifer Lee,2022-07-03,7472.6,3688.34,49.4,Closed,168,No,2022,Q3,7,July
+CLM-00242,POL-00494,Travel,Medical,NS,Halifax,AGT013,Emma Thompson,2023-12-04,4999.82,4261.1,85.2,Closed,56,No,2023,Q4,12,December
+CLM-00243,POL-00497,Commercial,Business Interruption,QC,Laval,AGT006,Mark Johnson,2023-03-05,104129.86,,,Open,,No,2023,Q1,3,March
+CLM-00244,POL-00498,Commercial,Business Interruption,BC,Burnaby,AGT003,Maria Santos,2023-05-07,115384.34,,,Open,,No,2023,Q2,5,May
+CLM-00245,POL-00498,Commercial,Property Damage,BC,Burnaby,AGT003,Maria Santos,2023-07-24,148179.23,90721.75,61.2,Closed,49,No,2023,Q3,7,July
+CLM-00246,POL-00498,Commercial,Property Damage,BC,Burnaby,AGT003,Maria Santos,2023-10-05,77460.17,33275.76,43.0,Closed,165,No,2023,Q4,10,October
+CLM-00247,POL-00500,Auto,Collision,ON,London,AGT002,James Okafor,2024-08-10,24154.98,,,Open,,No,2024,Q3,8,August
+CLM-00248,POL-00500,Auto,Theft,ON,London,AGT002,James Okafor,2024-08-19,780.92,625.83,80.1,Closed,146,No,2024,Q3,8,August
+CLM-00249,POL-00502,Home,Fire,QC,Gatineau,AGT006,Mark Johnson,2024-02-19,18360.37,11589.43,63.1,Closed,17,No,2024,Q1,2,February
+CLM-00250,POL-00504,Travel,Trip Cancellation,BC,Surrey,AGT003,Maria Santos,2023-12-30,9921.39,6267.04,63.2,Closed,73,No,2023,Q4,12,December
+CLM-00251,POL-00504,Travel,Trip Cancellation,BC,Surrey,AGT003,Maria Santos,2024-01-10,4912.62,,,Open,,No,2024,Q1,1,January
+CLM-00252,POL-00508,Travel,Lost Baggage,QC,Montreal,AGT015,Nicole Dubois,2023-03-27,5264.87,3458.8,65.7,Closed,174,No,2023,Q1,3,March
+CLM-00253,POL-00510,Home,Liability,BC,Surrey,AGT003,Maria Santos,2024-02-13,40235.44,35524.36,88.3,Closed,3,No,2024,Q1,2,February
+CLM-00254,POL-00511,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-08-13,134999.39,,,Disputed,,No,2023,Q3,8,August
+CLM-00255,POL-00513,Travel,Medical,QC,Quebec City,AGT015,Nicole Dubois,2024-05-25,8659.29,7370.26,85.1,Closed,161,No,2024,Q2,5,May
+CLM-00256,POL-00517,Disability,Long Term,ON,Brampton,AGT014,Raj Sharma,2022-10-05,27009.5,,,Open,,No,2022,Q4,10,October
+CLM-00257,POL-00518,Auto,Collision,QC,Montreal,AGT015,Nicole Dubois,2023-02-11,20987.01,12665.06,60.3,Closed,138,No,2023,Q1,2,February
+CLM-00258,POL-00521,Home,Water Damage,ON,Ottawa,AGT007,Aisha Mohammed,2024-08-07,75315.66,,,Disputed,,No,2024,Q3,8,August
+CLM-00259,POL-00522,Home,Wind,ON,London,AGT007,Aisha Mohammed,2023-06-09,26976.44,,,Pending Review,,No,2023,Q2,6,June
+CLM-00260,POL-00523,Travel,Medical,ON,Ottawa,AGT005,Lisa Patel,2023-10-15,2546.39,1914.01,75.2,Closed,9,No,2023,Q4,10,October
+CLM-00261,POL-00525,Home,Wind,ON,London,AGT007,Aisha Mohammed,2024-07-09,64163.73,36602.55,57.0,Closed,15,Yes,2024,Q3,7,July
+CLM-00262,POL-00528,Travel,Trip Cancellation,QC,Montreal,AGT006,Mark Johnson,2023-04-14,7546.89,4366.98,57.9,Closed,118,No,2023,Q2,4,April
+CLM-00263,POL-00530,Travel,Trip Cancellation,NS,Halifax,AGT013,Emma Thompson,2022-10-02,10421.27,,,Disputed,,Yes,2022,Q4,10,October
+CLM-00264,POL-00530,Travel,Medical,NS,Halifax,AGT013,Emma Thompson,2022-09-21,5424.45,4444.9,81.9,Closed,12,No,2022,Q3,9,September
+CLM-00265,POL-00536,Commercial,Business Interruption,QC,Montreal,AGT015,Nicole Dubois,2022-10-16,74828.21,55491.54,74.2,Closed,85,No,2022,Q4,10,October
+CLM-00266,POL-00539,Life,Death Benefit,AB,Edmonton,AGT004,David Kim,2022-12-24,288057.29,,,Open,,No,2022,Q4,12,December
+CLM-00267,POL-00547,Travel,Trip Cancellation,NS,Halifax,AGT013,Emma Thompson,2023-07-24,6326.42,4180.34,66.1,Closed,87,No,2023,Q3,7,July
+CLM-00268,POL-00549,Auto,Collision,BC,Kelowna,AGT009,Karen Williams,2024-05-12,35730.97,20838.71,58.3,Closed,148,No,2024,Q2,5,May
+CLM-00269,POL-00551,Disability,Long Term,ON,Ottawa,AGT002,James Okafor,2023-01-04,9722.06,6518.97,67.1,Closed,72,No,2023,Q1,1,January
+CLM-00270,POL-00551,Disability,Short Term,ON,Ottawa,AGT002,James Okafor,2022-11-04,16723.09,,,Open,,No,2022,Q4,11,November
+CLM-00271,POL-00552,Life,Disability,ON,Ottawa,AGT005,Lisa Patel,2024-03-07,239057.71,182463.96,76.3,Closed,58,No,2024,Q1,3,March
+CLM-00272,POL-00555,Life,Death Benefit,ON,Hamilton,AGT005,Lisa Patel,2023-09-14,498967.86,427190.98,85.6,Closed,18,No,2023,Q3,9,September
+CLM-00273,POL-00559,Home,Theft,BC,Kelowna,AGT003,Maria Santos,2024-08-08,16224.59,,,Open,,No,2024,Q3,8,August
+CLM-00274,POL-00559,Home,Liability,BC,Kelowna,AGT003,Maria Santos,2024-05-01,11421.02,9898.0,86.7,Closed,5,No,2024,Q2,5,May
+CLM-00275,POL-00563,Life,Death Benefit,ON,Mississauga,AGT014,Raj Sharma,2023-09-28,304958.09,272564.32,89.4,Closed,94,No,2023,Q3,9,September
+CLM-00276,POL-00563,Life,Death Benefit,ON,Mississauga,AGT014,Raj Sharma,2024-04-27,380227.49,,,Disputed,,No,2024,Q2,4,April
+CLM-00277,POL-00566,Life,Disability,AB,Red Deer,AGT004,David Kim,2023-09-07,427812.3,418531.09,97.8,Closed,113,No,2023,Q3,9,September
+CLM-00278,POL-00570,Auto,Weather Damage,ON,Ottawa,AGT001,Sarah Chen,2022-10-21,8917.29,7289.51,81.7,Closed,59,No,2022,Q4,10,October
+CLM-00279,POL-00573,Disability,Short Term,QC,Gatineau,AGT008,Pierre Tremblay,2023-01-13,7333.82,,,Disputed,,No,2023,Q1,1,January
+CLM-00280,POL-00575,Auto,Theft,ON,Ottawa,AGT007,Aisha Mohammed,2023-06-27,12297.98,6453.33,52.5,Closed,80,No,2023,Q2,6,June
+CLM-00281,POL-00583,Home,Theft,ON,Hamilton,AGT014,Raj Sharma,2023-07-19,57149.69,53624.23,93.8,Closed,74,No,2023,Q3,7,July
+CLM-00282,POL-00584,Auto,Collision,ON,Ottawa,AGT011,Jennifer Lee,2024-04-18,29275.18,28788.26,98.3,Closed,76,No,2024,Q2,4,April
+CLM-00283,POL-00584,Auto,Theft,ON,Ottawa,AGT011,Jennifer Lee,2024-03-31,44712.84,,,Open,,No,2024,Q1,3,March
+CLM-00284,POL-00588,Life,Disability,ON,Brampton,AGT001,Sarah Chen,2024-08-11,324275.88,184253.09,56.8,Closed,49,No,2024,Q3,8,August
+CLM-00285,POL-00592,Life,Death Benefit,AB,Lethbridge,AGT010,Ahmed Hassan,2023-10-11,330623.82,178624.11,54.0,Closed,37,No,2023,Q4,10,October
+CLM-00286,POL-00593,Life,Death Benefit,ON,London,AGT007,Aisha Mohammed,2023-10-31,59884.95,31042.03,51.8,Closed,115,No,2023,Q4,10,October
+CLM-00287,POL-00593,Life,Disability,ON,London,AGT007,Aisha Mohammed,2024-04-04,455406.66,396198.3,87.0,Closed,5,No,2024,Q2,4,April
+CLM-00288,POL-00594,Commercial,Business Interruption,QC,Gatineau,AGT008,Pierre Tremblay,2022-09-12,72737.82,64612.89,88.8,Closed,17,No,2022,Q3,9,September
+CLM-00289,POL-00595,Auto,Theft,QC,Laval,AGT015,Nicole Dubois,2022-12-11,41005.47,34478.62,84.1,Closed,69,No,2022,Q4,12,December
+CLM-00290,POL-00596,Auto,Theft,QC,Quebec City,AGT015,Nicole Dubois,2023-02-07,2576.67,1865.79,72.4,Closed,151,No,2023,Q1,2,February
+CLM-00291,POL-00597,Auto,Theft,ON,Ottawa,AGT005,Lisa Patel,2024-04-03,29955.32,14361.83,47.9,Closed,98,No,2024,Q2,4,April
+CLM-00292,POL-00597,Auto,Weather Damage,ON,Ottawa,AGT005,Lisa Patel,2024-05-05,29894.65,,,Open,,No,2024,Q2,5,May
+CLM-00293,POL-00600,Disability,Short Term,AB,Calgary,AGT004,David Kim,2023-07-11,19424.36,,,Disputed,,No,2023,Q3,7,July
+CLM-00294,POL-00601,Travel,Lost Baggage,BC,Burnaby,AGT003,Maria Santos,2022-09-19,3565.37,3292.4,92.3,Closed,176,No,2022,Q3,9,September
+CLM-00295,POL-00602,Home,Fire,AB,Calgary,AGT010,Ahmed Hassan,2024-10-07,15210.42,8974.07,59.0,Closed,152,No,2024,Q4,10,October
+CLM-00296,POL-00602,Home,Wind,AB,Calgary,AGT010,Ahmed Hassan,2024-06-29,32142.03,,,Open,,No,2024,Q2,6,June
+CLM-00297,POL-00608,Auto,Theft,NS,Halifax,AGT013,Emma Thompson,2022-10-27,4261.87,4209.01,98.8,Closed,120,No,2022,Q4,10,October
+CLM-00298,POL-00609,Life,Disability,NS,Halifax,AGT013,Emma Thompson,2022-04-01,298759.51,,,Open,,No,2022,Q2,4,April
+CLM-00299,POL-00611,Auto,Weather Damage,ON,Brampton,AGT011,Jennifer Lee,2022-09-29,31364.57,,,Disputed,,No,2022,Q3,9,September
+CLM-00300,POL-00611,Auto,Collision,ON,Brampton,AGT011,Jennifer Lee,2022-09-11,26655.18,20568.62,77.2,Closed,93,No,2022,Q3,9,September
+CLM-00301,POL-00614,Home,Water Damage,AB,Calgary,AGT010,Ahmed Hassan,2024-01-01,12226.29,8501.4,69.5,Closed,68,No,2024,Q1,1,January
+CLM-00302,POL-00615,Life,Critical Illness,BC,Burnaby,AGT009,Karen Williams,2024-07-14,117344.08,54892.64,46.8,Closed,176,No,2024,Q3,7,July
+CLM-00303,POL-00619,Travel,Lost Baggage,ON,Mississauga,AGT011,Jennifer Lee,2024-12-11,222.31,160.9,72.4,Closed,77,No,2024,Q4,12,December
+CLM-00304,POL-00622,Disability,Long Term,ON,Hamilton,AGT005,Lisa Patel,2024-02-07,16240.09,12148.67,74.8,Closed,72,No,2024,Q1,2,February
+CLM-00305,POL-00622,Disability,Short Term,ON,Hamilton,AGT005,Lisa Patel,2023-12-20,26085.08,20041.42,76.8,Closed,132,No,2023,Q4,12,December
+CLM-00306,POL-00625,Commercial,Liability,BC,Richmond,AGT003,Maria Santos,2022-11-01,55188.84,45320.77,82.1,Closed,112,No,2022,Q4,11,November
+CLM-00307,POL-00626,Disability,Long Term,ON,Mississauga,AGT007,Aisha Mohammed,2022-11-21,13595.22,7624.26,56.1,Closed,130,No,2022,Q4,11,November
+CLM-00308,POL-00626,Disability,Short Term,ON,Mississauga,AGT007,Aisha Mohammed,2023-02-20,27537.36,20387.1,74.0,Closed,23,No,2023,Q1,2,February
+CLM-00309,POL-00628,Commercial,Property Damage,MB,Brandon,AGT012,Carlos Rivera,2024-07-25,132553.37,,,Disputed,,No,2024,Q3,7,July
+CLM-00310,POL-00629,Travel,Trip Cancellation,NS,Halifax,AGT013,Emma Thompson,2023-12-04,3431.82,1684.96,49.1,Closed,173,No,2023,Q4,12,December
+CLM-00311,POL-00630,Travel,Lost Baggage,MB,Winnipeg,AGT012,Carlos Rivera,2024-06-24,10858.98,5348.06,49.3,Closed,162,No,2024,Q2,6,June
+CLM-00312,POL-00631,Life,Critical Illness,QC,Laval,AGT015,Nicole Dubois,2023-05-27,348460.4,269743.69,77.4,Closed,174,No,2023,Q2,5,May
+CLM-00313,POL-00632,Auto,Theft,ON,Hamilton,AGT011,Jennifer Lee,2022-09-17,29634.21,25371.92,85.6,Closed,72,No,2022,Q3,9,September
+CLM-00314,POL-00632,Auto,Theft,ON,Hamilton,AGT011,Jennifer Lee,2022-08-22,3358.34,2637.71,78.5,Closed,41,No,2022,Q3,8,August
+CLM-00315,POL-00635,Travel,Medical,ON,London,AGT007,Aisha Mohammed,2023-03-25,10726.19,,,Disputed,,No,2023,Q1,3,March
+CLM-00316,POL-00637,Life,Disability,NS,Dartmouth,AGT013,Emma Thompson,2022-11-03,99380.87,59233.98,59.6,Closed,17,No,2022,Q4,11,November
+CLM-00317,POL-00641,Travel,Lost Baggage,ON,Brampton,AGT011,Jennifer Lee,2022-09-02,13935.42,13229.45,94.9,Closed,166,No,2022,Q3,9,September
+CLM-00318,POL-00647,Commercial,Business Interruption,MB,Brandon,AGT012,Carlos Rivera,2024-01-17,65604.48,55581.0,84.7,Closed,36,No,2024,Q1,1,January
+CLM-00319,POL-00647,Commercial,Property Damage,MB,Brandon,AGT012,Carlos Rivera,2024-01-23,124050.43,102827.31,82.9,Closed,40,No,2024,Q1,1,January
+CLM-00320,POL-00648,Disability,Short Term,QC,Montreal,AGT008,Pierre Tremblay,2024-06-24,3273.22,1629.6,49.8,Closed,58,No,2024,Q2,6,June
+CLM-00321,POL-00649,Auto,Glass,BC,Surrey,AGT009,Karen Williams,2024-02-22,41308.13,,,Disputed,,No,2024,Q1,2,February
+CLM-00322,POL-00652,Commercial,Business Interruption,QC,Laval,AGT008,Pierre Tremblay,2023-06-20,123835.02,122108.58,98.6,Closed,179,No,2023,Q2,6,June
+CLM-00323,POL-00652,Commercial,Business Interruption,QC,Laval,AGT008,Pierre Tremblay,2023-11-06,141170.25,65861.03,46.7,Closed,17,No,2023,Q4,11,November
+CLM-00324,POL-00654,Life,Death Benefit,ON,Toronto,AGT005,Lisa Patel,2024-04-23,367803.67,160889.38,43.7,Closed,53,No,2024,Q2,4,April
+CLM-00325,POL-00655,Life,Death Benefit,AB,Calgary,AGT010,Ahmed Hassan,2023-04-18,51731.98,40303.61,77.9,Closed,48,No,2023,Q2,4,April
+CLM-00326,POL-00657,Auto,Theft,ON,Mississauga,AGT001,Sarah Chen,2022-03-28,41658.27,37720.35,90.5,Closed,171,No,2022,Q1,3,March
+CLM-00327,POL-00658,Life,Disability,QC,Laval,AGT008,Pierre Tremblay,2024-11-04,244488.0,,,Open,,No,2024,Q4,11,November
+CLM-00328,POL-00659,Disability,Short Term,QC,Gatineau,AGT008,Pierre Tremblay,2022-09-10,26696.4,,,Disputed,,No,2022,Q3,9,September
+CLM-00329,POL-00660,Auto,Collision,QC,Montreal,AGT015,Nicole Dubois,2024-06-29,23001.79,,,Disputed,,No,2024,Q2,6,June
+CLM-00330,POL-00661,Home,Water Damage,AB,Red Deer,AGT004,David Kim,2022-12-18,35290.22,,,Open,,Yes,2022,Q4,12,December
+CLM-00331,POL-00662,Auto,Theft,ON,Toronto,AGT005,Lisa Patel,2024-05-13,9450.07,5059.24,53.5,Closed,28,No,2024,Q2,5,May
+CLM-00332,POL-00664,Auto,Liability,BC,Richmond,AGT009,Karen Williams,2023-06-07,33304.2,27875.41,83.7,Closed,125,No,2023,Q2,6,June
+CLM-00333,POL-00664,Auto,Liability,BC,Richmond,AGT009,Karen Williams,2023-12-03,42893.71,29569.51,68.9,Closed,169,No,2023,Q4,12,December
+CLM-00334,POL-00666,Disability,Short Term,QC,Quebec City,AGT006,Mark Johnson,2025-01-02,25976.42,23065.27,88.8,Closed,22,No,2025,Q1,1,January
+CLM-00335,POL-00669,Commercial,Business Interruption,ON,Toronto,AGT001,Sarah Chen,2023-11-05,26580.45,26101.0,98.2,Closed,139,No,2023,Q4,11,November
+CLM-00336,POL-00669,Commercial,Liability,ON,Toronto,AGT001,Sarah Chen,2023-08-21,133844.53,,,Open,,No,2023,Q3,8,August
+CLM-00337,POL-00679,Auto,Weather Damage,ON,Ottawa,AGT014,Raj Sharma,2024-12-18,27945.05,,,Disputed,,No,2024,Q4,12,December
+CLM-00338,POL-00680,Commercial,Liability,MB,Brandon,AGT012,Carlos Rivera,2023-08-23,127513.54,51696.47,40.5,Closed,79,No,2023,Q3,8,August
+CLM-00339,POL-00683,Travel,Trip Cancellation,MB,Brandon,AGT012,Carlos Rivera,2024-01-24,8935.93,8919.93,99.8,Closed,115,No,2024,Q1,1,January
+CLM-00340,POL-00688,Travel,Trip Cancellation,NS,Dartmouth,AGT013,Emma Thompson,2023-06-07,8475.42,,,Disputed,,No,2023,Q2,6,June
+CLM-00341,POL-00689,Commercial,Business Interruption,QC,Laval,AGT008,Pierre Tremblay,2024-12-17,161386.62,146569.38,90.8,Closed,121,No,2024,Q4,12,December
+CLM-00342,POL-00692,Home,Liability,ON,Ottawa,AGT005,Lisa Patel,2023-03-23,64865.75,30103.59,46.4,Closed,152,No,2023,Q1,3,March
+CLM-00343,POL-00692,Home,Theft,ON,Ottawa,AGT005,Lisa Patel,2023-05-28,25966.93,22731.48,87.5,Closed,166,No,2023,Q2,5,May
+CLM-00344,POL-00694,Life,Death Benefit,BC,Vancouver,AGT009,Karen Williams,2022-07-29,123811.88,59890.85,48.4,Closed,104,No,2022,Q3,7,July
+CLM-00345,POL-00695,Disability,Long Term,AB,Lethbridge,AGT004,David Kim,2022-12-09,16969.96,9360.59,55.2,Closed,59,Yes,2022,Q4,12,December
+CLM-00346,POL-00698,Auto,Glass,QC,Montreal,AGT006,Mark Johnson,2024-01-07,25022.4,,,Open,,No,2024,Q1,1,January
+CLM-00347,POL-00702,Auto,Liability,ON,Mississauga,AGT005,Lisa Patel,2022-10-28,35579.47,33769.16,94.9,Closed,57,No,2022,Q4,10,October
+CLM-00348,POL-00702,Auto,Liability,ON,Mississauga,AGT005,Lisa Patel,2022-08-17,34309.87,22026.19,64.2,Closed,155,No,2022,Q3,8,August
+CLM-00349,POL-00703,Auto,Weather Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-01-23,17739.41,8129.17,45.8,Closed,147,No,2023,Q1,1,January
+CLM-00350,POL-00703,Auto,Glass,MB,Winnipeg,AGT012,Carlos Rivera,2023-02-25,30091.01,28235.04,93.8,Closed,117,No,2023,Q1,2,February
+CLM-00351,POL-00703,Auto,Liability,MB,Winnipeg,AGT012,Carlos Rivera,2022-09-03,41172.14,,,Open,,No,2022,Q3,9,September
+CLM-00352,POL-00706,Life,Death Benefit,ON,Ottawa,AGT001,Sarah Chen,2022-09-10,242477.06,226263.43,93.3,Closed,62,No,2022,Q3,9,September
+CLM-00353,POL-00707,Home,Water Damage,QC,Montreal,AGT008,Pierre Tremblay,2023-11-19,48514.79,46714.19,96.3,Closed,73,No,2023,Q4,11,November
+CLM-00354,POL-00707,Home,Liability,QC,Montreal,AGT008,Pierre Tremblay,2023-05-06,72288.56,,,Disputed,,No,2023,Q2,5,May
+CLM-00355,POL-00707,Home,Wind,QC,Montreal,AGT008,Pierre Tremblay,2023-11-26,12199.31,10575.23,86.7,Closed,91,No,2023,Q4,11,November
+CLM-00356,POL-00709,Auto,Theft,ON,Toronto,AGT011,Jennifer Lee,2023-02-17,8698.54,7942.33,91.3,Closed,5,No,2023,Q1,2,February
+CLM-00357,POL-00709,Auto,Weather Damage,ON,Toronto,AGT011,Jennifer Lee,2023-04-03,20061.17,8378.34,41.8,Closed,125,No,2023,Q2,4,April
+CLM-00358,POL-00712,Life,Disability,ON,Toronto,AGT011,Jennifer Lee,2023-05-09,246683.03,,,Open,,No,2023,Q2,5,May
+CLM-00359,POL-00713,Commercial,Property Damage,BC,Vancouver,AGT009,Karen Williams,2023-02-26,194042.59,,,Open,,No,2023,Q1,2,February
+CLM-00360,POL-00717,Disability,Short Term,BC,Surrey,AGT009,Karen Williams,2022-12-11,20435.54,,,Disputed,,No,2022,Q4,12,December
+CLM-00361,POL-00718,Home,Water Damage,QC,Montreal,AGT015,Nicole Dubois,2022-10-17,51031.28,34598.63,67.8,Closed,72,No,2022,Q4,10,October
+CLM-00362,POL-00718,Home,Liability,QC,Montreal,AGT015,Nicole Dubois,2022-09-08,28373.9,,,Open,,No,2022,Q3,9,September
+CLM-00363,POL-00719,Travel,Medical,ON,Hamilton,AGT002,James Okafor,2024-04-22,10282.76,,,Open,,No,2024,Q2,4,April
+CLM-00364,POL-00720,Auto,Liability,AB,Edmonton,AGT010,Ahmed Hassan,2024-01-07,16886.83,7606.17,45.0,Closed,89,No,2024,Q1,1,January
+CLM-00365,POL-00722,Life,Death Benefit,ON,Toronto,AGT002,James Okafor,2023-07-19,166246.86,111795.16,67.2,Closed,61,No,2023,Q3,7,July
+CLM-00366,POL-00724,Auto,Glass,ON,Toronto,AGT002,James Okafor,2022-10-02,33065.11,30152.24,91.2,Closed,121,No,2022,Q4,10,October
+CLM-00367,POL-00728,Commercial,Business Interruption,NS,Halifax,AGT013,Emma Thompson,2024-03-15,44619.03,26772.4,60.0,Closed,139,Yes,2024,Q1,3,March
+CLM-00368,POL-00728,Commercial,Property Damage,NS,Halifax,AGT013,Emma Thompson,2024-03-18,108320.97,,,Disputed,,No,2024,Q1,3,March
+CLM-00369,POL-00729,Commercial,Business Interruption,ON,Hamilton,AGT011,Jennifer Lee,2024-03-16,196178.59,128746.99,65.6,Closed,124,No,2024,Q1,3,March
+CLM-00370,POL-00733,Home,Water Damage,MB,Brandon,AGT012,Carlos Rivera,2023-02-20,1761.77,1579.12,89.6,Closed,83,No,2023,Q1,2,February
+CLM-00371,POL-00734,Travel,Trip Cancellation,BC,Surrey,AGT003,Maria Santos,2023-11-05,6247.19,5616.47,89.9,Closed,86,No,2023,Q4,11,November
+CLM-00372,POL-00737,Travel,Medical,QC,Quebec City,AGT015,Nicole Dubois,2025-03-05,5472.36,4439.92,81.1,Closed,74,No,2025,Q1,3,March
+CLM-00373,POL-00738,Commercial,Business Interruption,AB,Lethbridge,AGT004,David Kim,2024-03-21,78885.48,,,Open,,No,2024,Q1,3,March
+CLM-00374,POL-00740,Travel,Medical,ON,Hamilton,AGT001,Sarah Chen,2024-12-15,8897.38,,,Disputed,,No,2024,Q4,12,December
+CLM-00375,POL-00740,Travel,Trip Cancellation,ON,Hamilton,AGT001,Sarah Chen,2024-05-23,14580.7,8819.47,60.5,Closed,150,No,2024,Q2,5,May
+CLM-00376,POL-00742,Disability,Long Term,ON,Hamilton,AGT001,Sarah Chen,2024-07-13,15431.34,11518.93,74.6,Closed,62,No,2024,Q3,7,July
+CLM-00377,POL-00743,Disability,Long Term,QC,Quebec City,AGT008,Pierre Tremblay,2024-09-06,20579.99,11819.2,57.4,Closed,169,No,2024,Q3,9,September
+CLM-00378,POL-00743,Disability,Long Term,QC,Quebec City,AGT008,Pierre Tremblay,2024-12-08,19339.09,,,Open,,No,2024,Q4,12,December
+CLM-00379,POL-00750,Life,Critical Illness,ON,Brampton,AGT014,Raj Sharma,2023-03-09,389405.17,185298.86,47.6,Closed,31,No,2023,Q1,3,March
+CLM-00380,POL-00750,Life,Death Benefit,ON,Brampton,AGT014,Raj Sharma,2023-03-20,114556.65,76141.73,66.5,Closed,140,No,2023,Q1,3,March
+CLM-00381,POL-00752,Commercial,Business Interruption,MB,Winnipeg,AGT012,Carlos Rivera,2023-02-12,123645.0,,,Disputed,,No,2023,Q1,2,February
+CLM-00382,POL-00756,Auto,Collision,QC,Laval,AGT006,Mark Johnson,2023-02-07,35650.89,31261.66,87.7,Closed,130,No,2023,Q1,2,February
+CLM-00383,POL-00760,Commercial,Business Interruption,NS,Halifax,AGT013,Emma Thompson,2022-09-05,10788.56,7734.3,71.7,Closed,114,No,2022,Q3,9,September
+CLM-00384,POL-00760,Commercial,Property Damage,NS,Halifax,AGT013,Emma Thompson,2022-08-18,117733.84,,,Pending Review,,No,2022,Q3,8,August
+CLM-00385,POL-00761,Commercial,Business Interruption,MB,Brandon,AGT012,Carlos Rivera,2024-06-06,7214.52,,,Open,,No,2024,Q2,6,June
+CLM-00386,POL-00761,Commercial,Property Damage,MB,Brandon,AGT012,Carlos Rivera,2024-10-16,91832.5,68530.49,74.6,Closed,40,No,2024,Q4,10,October
+CLM-00387,POL-00764,Life,Death Benefit,AB,Edmonton,AGT004,David Kim,2022-05-06,332601.86,,,Open,,No,2022,Q2,5,May
+CLM-00388,POL-00764,Life,Disability,AB,Edmonton,AGT004,David Kim,2022-08-03,259105.75,,,Open,,No,2022,Q3,8,August
+CLM-00389,POL-00765,Travel,Lost Baggage,QC,Laval,AGT008,Pierre Tremblay,2022-08-03,11217.32,5307.1,47.3,Closed,152,No,2022,Q3,8,August
+CLM-00390,POL-00770,Home,Theft,AB,Edmonton,AGT010,Ahmed Hassan,2023-08-11,28615.38,15624.27,54.6,Closed,149,No,2023,Q3,8,August
+CLM-00391,POL-00775,Home,Water Damage,ON,Ottawa,AGT001,Sarah Chen,2023-03-10,24647.61,20427.45,82.9,Closed,20,No,2023,Q1,3,March
+CLM-00392,POL-00776,Commercial,Property Damage,ON,Ottawa,AGT005,Lisa Patel,2023-08-23,183427.46,,,Open,,No,2023,Q3,8,August
+CLM-00393,POL-00776,Commercial,Business Interruption,ON,Ottawa,AGT005,Lisa Patel,2023-02-02,52842.48,,,Open,,No,2023,Q1,2,February
+CLM-00394,POL-00786,Auto,Liability,ON,Toronto,AGT001,Sarah Chen,2022-10-27,37008.31,20119.39,54.4,Closed,50,No,2022,Q4,10,October
+CLM-00395,POL-00787,Disability,Long Term,ON,Mississauga,AGT002,James Okafor,2024-01-16,28782.53,,,Open,,No,2024,Q1,1,January
+CLM-00396,POL-00789,Travel,Medical,ON,Mississauga,AGT005,Lisa Patel,2024-02-14,8261.59,,,Open,,No,2024,Q1,2,February
+CLM-00397,POL-00790,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2022-12-17,106641.8,66824.59,62.7,Closed,20,No,2022,Q4,12,December
+CLM-00398,POL-00791,Auto,Glass,AB,Lethbridge,AGT004,David Kim,2023-04-01,44963.33,,,Disputed,,No,2023,Q2,4,April
+CLM-00399,POL-00791,Auto,Weather Damage,AB,Lethbridge,AGT004,David Kim,2023-05-02,24325.89,,,Disputed,,No,2023,Q2,5,May
+CLM-00400,POL-00792,Travel,Medical,QC,Laval,AGT006,Mark Johnson,2022-08-12,754.61,604.87,80.2,Closed,37,No,2022,Q3,8,August
+CLM-00401,POL-00793,Disability,Long Term,MB,Brandon,AGT012,Carlos Rivera,2023-09-11,7838.86,,,Disputed,,No,2023,Q3,9,September
+CLM-00402,POL-00804,Commercial,Liability,ON,London,AGT005,Lisa Patel,2022-05-24,140558.64,,,Open,,No,2022,Q2,5,May
+CLM-00403,POL-00806,Life,Critical Illness,AB,Red Deer,AGT010,Ahmed Hassan,2022-08-26,472318.02,,,Open,,No,2022,Q3,8,August
+CLM-00404,POL-00807,Disability,Long Term,AB,Calgary,AGT010,Ahmed Hassan,2022-09-23,17053.85,15956.5,93.6,Closed,128,No,2022,Q3,9,September
+CLM-00405,POL-00807,Disability,Short Term,AB,Calgary,AGT010,Ahmed Hassan,2022-07-10,2595.64,,,Open,,No,2022,Q3,7,July
+CLM-00406,POL-00814,Travel,Medical,ON,Toronto,AGT005,Lisa Patel,2023-09-14,8941.58,,,Disputed,,No,2023,Q3,9,September
+CLM-00407,POL-00819,Disability,Long Term,ON,Toronto,AGT014,Raj Sharma,2023-04-02,9951.01,6815.82,68.5,Closed,67,No,2023,Q2,4,April
+CLM-00408,POL-00822,Travel,Medical,ON,London,AGT005,Lisa Patel,2024-08-25,7787.24,6090.78,78.2,Closed,8,No,2024,Q3,8,August
+CLM-00409,POL-00822,Travel,Trip Cancellation,ON,London,AGT005,Lisa Patel,2024-07-25,2171.96,1213.48,55.9,Closed,13,No,2024,Q3,7,July
+CLM-00410,POL-00822,Travel,Lost Baggage,ON,London,AGT005,Lisa Patel,2024-12-20,12741.26,11689.01,91.7,Closed,24,No,2024,Q4,12,December
+CLM-00411,POL-00824,Disability,Long Term,ON,Hamilton,AGT002,James Okafor,2023-02-15,3855.97,,,Open,,No,2023,Q1,2,February
+CLM-00412,POL-00825,Travel,Trip Cancellation,ON,Brampton,AGT014,Raj Sharma,2022-06-02,5694.22,,,Open,,No,2022,Q2,6,June
+CLM-00413,POL-00828,Life,Death Benefit,QC,Quebec City,AGT008,Pierre Tremblay,2023-02-26,114889.27,,,Pending Review,,Yes,2023,Q1,2,February
+CLM-00414,POL-00828,Life,Death Benefit,QC,Quebec City,AGT008,Pierre Tremblay,2022-10-10,384983.96,,,Disputed,,No,2022,Q4,10,October
+CLM-00415,POL-00828,Life,Death Benefit,QC,Quebec City,AGT008,Pierre Tremblay,2022-09-30,129855.23,58029.34,44.7,Closed,79,No,2022,Q3,9,September
+CLM-00416,POL-00829,Disability,Short Term,QC,Montreal,AGT015,Nicole Dubois,2022-07-03,6826.96,3139.09,46.0,Closed,162,No,2022,Q3,7,July
+CLM-00417,POL-00830,Disability,Short Term,ON,London,AGT005,Lisa Patel,2024-12-26,21251.18,11243.31,52.9,Closed,41,No,2024,Q4,12,December
+CLM-00418,POL-00832,Disability,Short Term,ON,Ottawa,AGT011,Jennifer Lee,2022-10-04,23813.01,9979.52,41.9,Closed,63,No,2022,Q4,10,October
+CLM-00419,POL-00832,Disability,Short Term,ON,Ottawa,AGT011,Jennifer Lee,2022-03-11,3962.2,2441.64,61.6,Closed,142,No,2022,Q1,3,March
+CLM-00420,POL-00833,Disability,Long Term,QC,Laval,AGT015,Nicole Dubois,2024-05-25,2840.7,1299.53,45.7,Closed,88,No,2024,Q2,5,May
+CLM-00421,POL-00834,Disability,Long Term,ON,Brampton,AGT007,Aisha Mohammed,2024-04-12,4505.31,3836.64,85.2,Closed,118,No,2024,Q2,4,April
+CLM-00422,POL-00835,Disability,Long Term,BC,Richmond,AGT003,Maria Santos,2023-11-25,17858.41,15107.26,84.6,Closed,22,No,2023,Q4,11,November
+CLM-00423,POL-00836,Travel,Trip Cancellation,BC,Surrey,AGT003,Maria Santos,2024-05-23,4879.96,,,Open,,No,2024,Q2,5,May
+CLM-00424,POL-00838,Commercial,Property Damage,AB,Calgary,AGT004,David Kim,2023-05-22,97422.39,39336.55,40.4,Closed,65,No,2023,Q2,5,May
+CLM-00425,POL-00841,Disability,Short Term,ON,Hamilton,AGT007,Aisha Mohammed,2022-12-18,7142.68,3475.16,48.7,Closed,6,No,2022,Q4,12,December
+CLM-00426,POL-00841,Disability,Short Term,ON,Hamilton,AGT007,Aisha Mohammed,2023-02-03,27518.35,15463.3,56.2,Closed,173,No,2023,Q1,2,February
+CLM-00427,POL-00842,Commercial,Liability,ON,Mississauga,AGT007,Aisha Mohammed,2024-04-04,177243.88,110865.44,62.5,Closed,175,No,2024,Q2,4,April
+CLM-00428,POL-00842,Commercial,Liability,ON,Mississauga,AGT007,Aisha Mohammed,2024-03-08,23402.81,22320.89,95.4,Closed,23,No,2024,Q1,3,March
+CLM-00429,POL-00844,Auto,Theft,ON,Hamilton,AGT011,Jennifer Lee,2022-12-12,12530.5,,,Open,,No,2022,Q4,12,December
+CLM-00430,POL-00844,Auto,Collision,ON,Hamilton,AGT011,Jennifer Lee,2022-08-01,17510.79,8385.01,47.9,Closed,173,No,2022,Q3,8,August
+CLM-00431,POL-00844,Auto,Theft,ON,Hamilton,AGT011,Jennifer Lee,2023-01-13,36341.33,26321.86,72.4,Closed,76,No,2023,Q1,1,January
+CLM-00432,POL-00845,Commercial,Business Interruption,ON,London,AGT007,Aisha Mohammed,2023-07-03,136520.58,65003.05,47.6,Closed,18,No,2023,Q3,7,July
+CLM-00433,POL-00847,Life,Disability,AB,Lethbridge,AGT010,Ahmed Hassan,2024-02-13,387140.65,,,Open,,No,2024,Q1,2,February
+CLM-00434,POL-00852,Auto,Collision,AB,Edmonton,AGT004,David Kim,2022-10-28,18463.04,,,Open,,No,2022,Q4,10,October
+CLM-00435,POL-00859,Life,Critical Illness,ON,London,AGT001,Sarah Chen,2022-12-23,171688.56,165976.37,96.7,Closed,43,No,2022,Q4,12,December
+CLM-00436,POL-00861,Disability,Short Term,ON,Ottawa,AGT007,Aisha Mohammed,2024-02-14,6708.83,6700.26,99.9,Closed,128,No,2024,Q1,2,February
+CLM-00437,POL-00864,Auto,Theft,ON,Hamilton,AGT011,Jennifer Lee,2023-06-13,588.04,242.49,41.2,Closed,99,No,2023,Q2,6,June
+CLM-00438,POL-00864,Auto,Liability,ON,Hamilton,AGT011,Jennifer Lee,2023-03-02,20677.95,15637.62,75.6,Closed,3,No,2023,Q1,3,March
+CLM-00439,POL-00865,Travel,Medical,BC,Richmond,AGT003,Maria Santos,2023-10-07,542.51,,,Disputed,,No,2023,Q4,10,October
+CLM-00440,POL-00867,Auto,Liability,ON,Brampton,AGT001,Sarah Chen,2023-08-01,33526.32,25117.36,74.9,Closed,150,No,2023,Q3,8,August
+CLM-00441,POL-00871,Disability,Short Term,AB,Red Deer,AGT010,Ahmed Hassan,2024-02-15,28398.48,26125.48,92.0,Closed,125,No,2024,Q1,2,February
+CLM-00442,POL-00871,Disability,Short Term,AB,Red Deer,AGT010,Ahmed Hassan,2023-11-21,3137.65,1298.47,41.4,Closed,153,No,2023,Q4,11,November
+CLM-00443,POL-00871,Disability,Short Term,AB,Red Deer,AGT010,Ahmed Hassan,2024-03-16,14167.74,,,Open,,No,2024,Q1,3,March
+CLM-00444,POL-00872,Disability,Short Term,QC,Gatineau,AGT008,Pierre Tremblay,2024-05-21,10913.54,8701.27,79.7,Closed,97,No,2024,Q2,5,May
+CLM-00445,POL-00876,Home,Water Damage,ON,Toronto,AGT001,Sarah Chen,2024-06-09,51237.84,,,Open,,No,2024,Q2,6,June
+CLM-00446,POL-00876,Home,Theft,ON,Toronto,AGT001,Sarah Chen,2024-07-03,61248.49,34705.87,56.7,Closed,117,No,2024,Q3,7,July
+CLM-00447,POL-00876,Home,Theft,ON,Toronto,AGT001,Sarah Chen,2024-05-11,46978.37,,,Disputed,,No,2024,Q2,5,May
+CLM-00448,POL-00878,Commercial,Liability,ON,London,AGT014,Raj Sharma,2024-08-02,176840.74,,,Open,,No,2024,Q3,8,August
+CLM-00449,POL-00880,Commercial,Property Damage,BC,Vancouver,AGT009,Karen Williams,2023-11-04,105101.09,,,Open,,No,2023,Q4,11,November
+CLM-00450,POL-00883,Commercial,Property Damage,MB,Brandon,AGT012,Carlos Rivera,2024-06-21,101891.73,,,Disputed,,No,2024,Q2,6,June
+CLM-00451,POL-00885,Commercial,Property Damage,NS,Dartmouth,AGT013,Emma Thompson,2022-10-20,72165.96,48543.17,67.3,Closed,25,No,2022,Q4,10,October
+CLM-00452,POL-00888,Travel,Medical,ON,London,AGT014,Raj Sharma,2022-10-31,8324.49,,,Disputed,,No,2022,Q4,10,October
+CLM-00453,POL-00888,Travel,Trip Cancellation,ON,London,AGT014,Raj Sharma,2022-06-02,8554.02,,,Disputed,,No,2022,Q2,6,June
+CLM-00454,POL-00889,Travel,Medical,NS,Halifax,AGT013,Emma Thompson,2022-09-19,1019.64,668.76,65.6,Closed,24,No,2022,Q3,9,September
+CLM-00455,POL-00892,Auto,Theft,BC,Surrey,AGT009,Karen Williams,2024-07-30,9422.42,8880.14,94.2,Closed,163,No,2024,Q3,7,July
+CLM-00456,POL-00892,Auto,Collision,BC,Surrey,AGT009,Karen Williams,2024-02-07,6066.66,4810.37,79.3,Closed,139,No,2024,Q1,2,February
+CLM-00457,POL-00896,Disability,Long Term,ON,London,AGT011,Jennifer Lee,2023-02-27,10737.58,,,Pending Review,,No,2023,Q1,2,February
+CLM-00458,POL-00896,Disability,Short Term,ON,London,AGT011,Jennifer Lee,2022-12-11,29397.14,19148.63,65.1,Closed,165,No,2022,Q4,12,December
+CLM-00459,POL-00897,Auto,Theft,QC,Laval,AGT006,Mark Johnson,2023-11-06,804.54,,,Open,,No,2023,Q4,11,November
+CLM-00460,POL-00899,Commercial,Liability,BC,Burnaby,AGT009,Karen Williams,2024-05-23,50801.3,37338.98,73.5,Closed,128,No,2024,Q2,5,May
+CLM-00461,POL-00899,Commercial,Property Damage,BC,Burnaby,AGT009,Karen Williams,2024-10-18,188339.24,,,Open,,No,2024,Q4,10,October
+CLM-00462,POL-00901,Disability,Short Term,AB,Red Deer,AGT004,David Kim,2023-12-28,16262.86,,,Open,,No,2023,Q4,12,December
+CLM-00463,POL-00906,Travel,Lost Baggage,QC,Gatineau,AGT006,Mark Johnson,2024-08-23,13213.95,12293.26,93.0,Closed,142,No,2024,Q3,8,August
+CLM-00464,POL-00908,Travel,Medical,BC,Kelowna,AGT003,Maria Santos,2023-04-04,10003.39,7471.62,74.7,Closed,95,Yes,2023,Q2,4,April
+CLM-00465,POL-00910,Life,Disability,ON,Ottawa,AGT005,Lisa Patel,2022-08-07,304531.39,,,Pending Review,,No,2022,Q3,8,August
+CLM-00466,POL-00913,Home,Wind,ON,Brampton,AGT014,Raj Sharma,2023-12-20,70417.71,60019.83,85.2,Closed,31,No,2023,Q4,12,December
+CLM-00467,POL-00916,Travel,Trip Cancellation,NS,Dartmouth,AGT013,Emma Thompson,2024-06-12,2621.68,,,Open,,Yes,2024,Q2,6,June
+CLM-00468,POL-00916,Travel,Lost Baggage,NS,Dartmouth,AGT013,Emma Thompson,2024-01-11,10426.15,9181.45,88.1,Closed,25,No,2024,Q1,1,January
+CLM-00469,POL-00921,Auto,Theft,BC,Burnaby,AGT003,Maria Santos,2023-08-18,612.2,490.5,80.1,Closed,60,No,2023,Q3,8,August
+CLM-00470,POL-00927,Travel,Lost Baggage,BC,Surrey,AGT003,Maria Santos,2023-10-11,543.35,349.42,64.3,Closed,7,No,2023,Q4,10,October
+CLM-00471,POL-00927,Travel,Medical,BC,Surrey,AGT003,Maria Santos,2024-01-11,14895.86,7582.69,50.9,Closed,97,No,2024,Q1,1,January
+CLM-00472,POL-00928,Auto,Theft,BC,Vancouver,AGT003,Maria Santos,2024-03-04,38911.95,18330.58,47.1,Closed,82,No,2024,Q1,3,March
+CLM-00473,POL-00928,Auto,Liability,BC,Vancouver,AGT003,Maria Santos,2024-02-21,686.51,664.25,96.8,Closed,28,No,2024,Q1,2,February
+CLM-00474,POL-00931,Disability,Short Term,QC,Laval,AGT006,Mark Johnson,2024-04-05,4940.97,,,Open,,No,2024,Q2,4,April
+CLM-00475,POL-00932,Commercial,Property Damage,QC,Quebec City,AGT006,Mark Johnson,2023-03-02,187979.89,,,Disputed,,No,2023,Q1,3,March
+CLM-00476,POL-00932,Commercial,Property Damage,QC,Quebec City,AGT006,Mark Johnson,2023-08-28,25852.88,,,Open,,No,2023,Q3,8,August
+CLM-00477,POL-00935,Life,Disability,ON,Brampton,AGT007,Aisha Mohammed,2024-07-04,390951.68,363766.33,93.0,Closed,93,No,2024,Q3,7,July
+CLM-00478,POL-00935,Life,Disability,ON,Brampton,AGT007,Aisha Mohammed,2025-03-03,278297.04,127769.87,45.9,Closed,165,No,2025,Q1,3,March
+CLM-00479,POL-00936,Commercial,Property Damage,QC,Quebec City,AGT015,Nicole Dubois,2024-08-20,127593.83,,,Pending Review,,No,2024,Q3,8,August
+CLM-00480,POL-00939,Home,Liability,BC,Kelowna,AGT003,Maria Santos,2024-04-28,42750.28,39344.66,92.0,Closed,3,No,2024,Q2,4,April
+CLM-00481,POL-00939,Home,Liability,BC,Kelowna,AGT003,Maria Santos,2023-09-16,61075.77,50633.97,82.9,Closed,109,No,2023,Q3,9,September
+CLM-00482,POL-00945,Home,Liability,ON,Mississauga,AGT002,James Okafor,2023-08-23,70450.11,,,Pending Review,,No,2023,Q3,8,August
+CLM-00483,POL-00950,Commercial,Business Interruption,ON,Ottawa,AGT001,Sarah Chen,2024-04-29,173341.78,162906.98,94.0,Closed,76,No,2024,Q2,4,April
+CLM-00484,POL-00950,Commercial,Liability,ON,Ottawa,AGT001,Sarah Chen,2024-03-23,95776.81,94068.95,98.2,Closed,46,No,2024,Q1,3,March
+CLM-00485,POL-00951,Commercial,Property Damage,QC,Gatineau,AGT008,Pierre Tremblay,2023-11-16,175886.1,172087.89,97.8,Closed,34,No,2023,Q4,11,November
+CLM-00486,POL-00951,Commercial,Liability,QC,Gatineau,AGT008,Pierre Tremblay,2024-06-25,122480.64,105094.64,85.8,Closed,119,No,2024,Q2,6,June
+CLM-00487,POL-00952,Auto,Weather Damage,AB,Edmonton,AGT010,Ahmed Hassan,2024-04-05,3450.05,2662.91,77.2,Closed,150,No,2024,Q2,4,April
+CLM-00488,POL-00952,Auto,Theft,AB,Edmonton,AGT010,Ahmed Hassan,2023-12-15,4480.2,1939.71,43.3,Closed,107,No,2023,Q4,12,December
+CLM-00489,POL-00954,Life,Death Benefit,ON,Mississauga,AGT001,Sarah Chen,2024-04-02,138931.23,,,Disputed,,No,2024,Q2,4,April
+CLM-00490,POL-00954,Life,Critical Illness,ON,Mississauga,AGT001,Sarah Chen,2023-09-05,451754.62,,,Open,,No,2023,Q3,9,September
+CLM-00491,POL-00958,Travel,Lost Baggage,ON,Brampton,AGT014,Raj Sharma,2023-11-30,1176.18,487.12,41.4,Closed,30,No,2023,Q4,11,November
+CLM-00492,POL-00958,Travel,Medical,ON,Brampton,AGT014,Raj Sharma,2024-05-03,4882.61,2622.84,53.7,Closed,97,No,2024,Q2,5,May
+CLM-00493,POL-00964,Home,Water Damage,ON,London,AGT001,Sarah Chen,2024-06-01,19255.98,17727.86,92.1,Closed,87,No,2024,Q2,6,June
+CLM-00494,POL-00964,Home,Fire,ON,London,AGT001,Sarah Chen,2024-11-17,1248.08,512.02,41.0,Closed,73,No,2024,Q4,11,November
+CLM-00495,POL-00965,Disability,Long Term,QC,Laval,AGT006,Mark Johnson,2023-09-24,16155.8,,,Open,,No,2023,Q3,9,September
+CLM-00496,POL-00965,Disability,Long Term,QC,Laval,AGT006,Mark Johnson,2023-09-01,15228.84,11133.59,73.1,Closed,31,No,2023,Q3,9,September
+CLM-00497,POL-00965,Disability,Long Term,QC,Laval,AGT006,Mark Johnson,2024-04-03,27413.01,16385.02,59.8,Closed,62,No,2024,Q2,4,April
+CLM-00498,POL-00967,Travel,Trip Cancellation,AB,Calgary,AGT004,David Kim,2025-02-14,12840.41,,,Open,,No,2025,Q1,2,February
+CLM-00499,POL-00968,Home,Fire,NS,Dartmouth,AGT013,Emma Thompson,2024-04-24,13127.15,11447.67,87.2,Closed,97,No,2024,Q2,4,April
+CLM-00500,POL-00968,Home,Wind,NS,Dartmouth,AGT013,Emma Thompson,2024-01-03,38016.54,16043.25,42.2,Closed,29,Yes,2024,Q1,1,January
+CLM-00501,POL-00969,Home,Fire,AB,Calgary,AGT010,Ahmed Hassan,2024-07-05,29570.65,,,Open,,No,2024,Q3,7,July
+CLM-00502,POL-00972,Travel,Trip Cancellation,ON,Hamilton,AGT007,Aisha Mohammed,2024-11-09,14684.76,,,Open,,No,2024,Q4,11,November
+CLM-00503,POL-00976,Home,Water Damage,NS,Dartmouth,AGT013,Emma Thompson,2022-11-01,31282.49,15553.61,49.7,Closed,69,No,2022,Q4,11,November
+CLM-00504,POL-00979,Commercial,Business Interruption,NS,Halifax,AGT013,Emma Thompson,2024-05-28,105657.91,61297.9,58.0,Closed,109,No,2024,Q2,5,May
+CLM-00505,POL-00980,Home,Wind,AB,Lethbridge,AGT004,David Kim,2024-07-28,54972.22,,,Disputed,,No,2024,Q3,7,July
+CLM-00506,POL-00982,Home,Wind,BC,Kelowna,AGT003,Maria Santos,2024-11-21,38595.15,31454.16,81.5,Closed,35,No,2024,Q4,11,November
+CLM-00507,POL-00986,Auto,Collision,ON,Ottawa,AGT011,Jennifer Lee,2024-04-20,35981.23,,,Disputed,,No,2024,Q2,4,April
+CLM-00508,POL-00986,Auto,Theft,ON,Ottawa,AGT011,Jennifer Lee,2024-06-17,3060.28,1838.51,60.1,Closed,63,No,2024,Q2,6,June
+CLM-00509,POL-00991,Auto,Liability,BC,Richmond,AGT003,Maria Santos,2024-02-20,33528.06,32662.9,97.4,Closed,118,No,2024,Q1,2,February
+CLM-00510,POL-00993,Commercial,Business Interruption,NS,Dartmouth,AGT013,Emma Thompson,2025-01-01,67725.46,,,Open,,No,2025,Q1,1,January
+CLM-00511,POL-00995,Home,Wind,ON,Mississauga,AGT001,Sarah Chen,2024-07-31,68192.53,,,Disputed,,No,2024,Q3,7,July
+CLM-00512,POL-00996,Commercial,Liability,QC,Quebec City,AGT015,Nicole Dubois,2024-07-04,45961.29,,,Open,,No,2024,Q3,7,July
+CLM-00513,POL-00996,Commercial,Property Damage,QC,Quebec City,AGT015,Nicole Dubois,2024-05-12,16629.08,,,Disputed,,No,2024,Q2,5,May
+CLM-00514,POL-00997,Commercial,Liability,NS,Dartmouth,AGT013,Emma Thompson,2023-06-24,166875.8,131956.92,79.1,Closed,158,No,2023,Q2,6,June
+CLM-00515,POL-00998,Commercial,Liability,MB,Brandon,AGT012,Carlos Rivera,2023-10-07,35734.85,33227.14,93.0,Closed,76,No,2023,Q4,10,October
+CLM-00516,POL-01000,Home,Fire,MB,Brandon,AGT012,Carlos Rivera,2023-02-11,67008.11,65213.12,97.3,Closed,152,No,2023,Q1,2,February
+CLM-00517,POL-01001,Travel,Lost Baggage,ON,Toronto,AGT005,Lisa Patel,2022-12-05,6315.49,6168.01,97.7,Closed,143,Yes,2022,Q4,12,December
+CLM-00518,POL-01001,Travel,Medical,ON,Toronto,AGT005,Lisa Patel,2022-08-03,10243.4,,,Open,,No,2022,Q3,8,August
+CLM-00519,POL-01008,Home,Wind,ON,Hamilton,AGT001,Sarah Chen,2022-09-04,71080.42,30109.85,42.4,Closed,5,No,2022,Q3,9,September
+CLM-00520,POL-01008,Home,Liability,ON,Hamilton,AGT001,Sarah Chen,2022-08-29,16664.48,,,Open,,No,2022,Q3,8,August
+CLM-00521,POL-01010,Life,Critical Illness,ON,Brampton,AGT002,James Okafor,2024-01-16,121959.36,69173.18,56.7,Closed,64,No,2024,Q1,1,January
+CLM-00522,POL-01013,Travel,Trip Cancellation,ON,Mississauga,AGT007,Aisha Mohammed,2022-12-03,4049.62,1999.56,49.4,Closed,159,No,2022,Q4,12,December
+CLM-00523,POL-01014,Home,Liability,ON,Toronto,AGT011,Jennifer Lee,2023-11-18,18764.44,12707.47,67.7,Closed,129,No,2023,Q4,11,November
+CLM-00524,POL-01015,Travel,Trip Cancellation,ON,Toronto,AGT011,Jennifer Lee,2023-04-30,3488.69,2760.71,79.1,Closed,147,No,2023,Q2,4,April
+CLM-00525,POL-01016,Home,Wind,QC,Laval,AGT006,Mark Johnson,2022-06-20,36752.44,,,Open,,No,2022,Q2,6,June
+CLM-00526,POL-01018,Home,Liability,ON,London,AGT001,Sarah Chen,2022-06-08,39650.91,30692.07,77.4,Closed,98,Yes,2022,Q2,6,June
+CLM-00527,POL-01018,Home,Liability,ON,London,AGT001,Sarah Chen,2023-02-16,68873.84,,,Open,,No,2023,Q1,2,February
+CLM-00528,POL-01018,Home,Theft,ON,London,AGT001,Sarah Chen,2022-07-30,60529.45,54954.23,90.8,Closed,14,No,2022,Q3,7,July
+CLM-00529,POL-01021,Commercial,Property Damage,BC,Richmond,AGT003,Maria Santos,2024-02-15,155471.21,,,Open,,No,2024,Q1,2,February
+CLM-00530,POL-01023,Commercial,Property Damage,QC,Laval,AGT008,Pierre Tremblay,2023-09-03,119032.41,59993.72,50.4,Closed,52,No,2023,Q3,9,September
+CLM-00531,POL-01024,Auto,Weather Damage,AB,Calgary,AGT004,David Kim,2024-08-11,3491.99,1719.38,49.2,Closed,169,No,2024,Q3,8,August
+CLM-00532,POL-01026,Travel,Lost Baggage,ON,Hamilton,AGT002,James Okafor,2024-07-15,3548.38,2138.21,60.3,Closed,177,No,2024,Q3,7,July
+CLM-00533,POL-01031,Life,Disability,BC,Richmond,AGT003,Maria Santos,2023-10-31,137138.47,118687.71,86.5,Closed,44,No,2023,Q4,10,October
+CLM-00534,POL-01031,Life,Critical Illness,BC,Richmond,AGT003,Maria Santos,2023-10-23,463611.39,350145.89,75.5,Closed,140,Yes,2023,Q4,10,October
+CLM-00535,POL-01032,Auto,Weather Damage,ON,London,AGT007,Aisha Mohammed,2024-02-26,33993.31,,,Disputed,,No,2024,Q1,2,February
+CLM-00536,POL-01032,Auto,Glass,ON,London,AGT007,Aisha Mohammed,2023-10-07,17980.57,16984.52,94.5,Closed,160,No,2023,Q4,10,October
+CLM-00537,POL-01033,Disability,Long Term,QC,Gatineau,AGT015,Nicole Dubois,2022-10-11,13241.68,5894.57,44.5,Closed,153,No,2022,Q4,10,October
+CLM-00538,POL-01034,Commercial,Property Damage,ON,Brampton,AGT007,Aisha Mohammed,2024-10-06,121083.02,111418.0,92.0,Closed,147,No,2024,Q4,10,October
+CLM-00539,POL-01035,Home,Fire,AB,Lethbridge,AGT004,David Kim,2022-11-29,47290.59,24046.64,50.8,Closed,61,No,2022,Q4,11,November
+CLM-00540,POL-01035,Home,Water Damage,AB,Lethbridge,AGT004,David Kim,2022-08-08,58081.22,27696.92,47.7,Closed,73,No,2022,Q3,8,August
+CLM-00541,POL-01035,Home,Liability,AB,Lethbridge,AGT004,David Kim,2022-12-26,50734.87,32428.97,63.9,Closed,39,No,2022,Q4,12,December
+CLM-00542,POL-01036,Life,Death Benefit,BC,Surrey,AGT003,Maria Santos,2024-12-19,61902.37,45971.74,74.3,Closed,139,No,2024,Q4,12,December
+CLM-00543,POL-01036,Life,Death Benefit,BC,Surrey,AGT003,Maria Santos,2024-11-05,171716.95,,,Open,,No,2024,Q4,11,November
+CLM-00544,POL-01039,Commercial,Business Interruption,BC,Vancouver,AGT009,Karen Williams,2024-04-14,155519.14,71573.1,46.0,Closed,79,No,2024,Q2,4,April
+CLM-00545,POL-01044,Disability,Short Term,ON,Toronto,AGT014,Raj Sharma,2023-06-16,12482.13,,,Disputed,,No,2023,Q2,6,June
+CLM-00546,POL-01046,Disability,Long Term,AB,Edmonton,AGT010,Ahmed Hassan,2023-07-20,21611.54,15642.87,72.4,Closed,49,No,2023,Q3,7,July
+CLM-00547,POL-01046,Disability,Long Term,AB,Edmonton,AGT010,Ahmed Hassan,2023-10-26,23606.5,16285.22,69.0,Closed,129,No,2023,Q4,10,October
+CLM-00548,POL-01053,Disability,Short Term,QC,Quebec City,AGT015,Nicole Dubois,2024-01-27,6646.02,4521.7,68.0,Closed,77,No,2024,Q1,1,January
+CLM-00549,POL-01053,Disability,Short Term,QC,Quebec City,AGT015,Nicole Dubois,2023-12-16,26735.77,16044.83,60.0,Closed,94,No,2023,Q4,12,December
+CLM-00550,POL-01057,Auto,Liability,ON,London,AGT011,Jennifer Lee,2023-08-16,6506.42,5680.9,87.3,Closed,133,No,2023,Q3,8,August
+CLM-00551,POL-01058,Disability,Short Term,MB,Brandon,AGT012,Carlos Rivera,2023-12-01,12147.55,,,Disputed,,No,2023,Q4,12,December
+CLM-00552,POL-01060,Home,Water Damage,ON,London,AGT005,Lisa Patel,2023-10-08,44880.48,,,Disputed,,Yes,2023,Q4,10,October
+CLM-00553,POL-01070,Life,Death Benefit,MB,Brandon,AGT012,Carlos Rivera,2022-09-14,340753.59,,,Disputed,,No,2022,Q3,9,September
+CLM-00554,POL-01070,Life,Critical Illness,MB,Brandon,AGT012,Carlos Rivera,2022-12-11,89235.28,66198.21,74.2,Closed,5,No,2022,Q4,12,December
+CLM-00555,POL-01074,Auto,Weather Damage,NS,Halifax,AGT013,Emma Thompson,2024-01-03,41375.95,,,Open,,No,2024,Q1,1,January
+CLM-00556,POL-01076,Travel,Trip Cancellation,QC,Laval,AGT008,Pierre Tremblay,2023-03-10,9775.84,4020.39,41.1,Closed,22,No,2023,Q1,3,March
+CLM-00557,POL-01078,Life,Disability,AB,Red Deer,AGT010,Ahmed Hassan,2024-02-20,328634.13,157968.27,48.1,Closed,121,No,2024,Q1,2,February
+CLM-00558,POL-01078,Life,Critical Illness,AB,Red Deer,AGT010,Ahmed Hassan,2024-01-11,433480.09,354108.45,81.7,Closed,8,No,2024,Q1,1,January
+CLM-00559,POL-01081,Travel,Medical,ON,Brampton,AGT014,Raj Sharma,2024-12-30,13867.34,,,Open,,No,2024,Q4,12,December
+CLM-00560,POL-01084,Auto,Weather Damage,AB,Lethbridge,AGT004,David Kim,2023-01-08,959.39,713.27,74.3,Closed,47,No,2023,Q1,1,January
+CLM-00561,POL-01085,Travel,Lost Baggage,QC,Montreal,AGT008,Pierre Tremblay,2023-11-05,2369.87,1264.94,53.4,Closed,53,No,2023,Q4,11,November
+CLM-00562,POL-01085,Travel,Medical,QC,Montreal,AGT008,Pierre Tremblay,2024-02-08,9715.13,8505.97,87.6,Closed,26,No,2024,Q1,2,February
+CLM-00563,POL-01086,Life,Death Benefit,ON,Mississauga,AGT001,Sarah Chen,2023-06-13,225090.23,,,Open,,No,2023,Q2,6,June
+CLM-00564,POL-01099,Life,Critical Illness,QC,Laval,AGT006,Mark Johnson,2023-09-06,445999.78,394848.6,88.5,Closed,90,No,2023,Q3,9,September
+CLM-00565,POL-01099,Life,Death Benefit,QC,Laval,AGT006,Mark Johnson,2023-04-22,499102.43,449958.84,90.2,Closed,160,No,2023,Q2,4,April
+CLM-00566,POL-01099,Life,Critical Illness,QC,Laval,AGT006,Mark Johnson,2023-06-30,363799.95,154507.96,42.5,Closed,146,No,2023,Q2,6,June
+CLM-00567,POL-01100,Home,Wind,ON,Hamilton,AGT007,Aisha Mohammed,2024-03-23,14289.24,8019.13,56.1,Closed,88,No,2024,Q1,3,March
+CLM-00568,POL-01105,Life,Critical Illness,QC,Quebec City,AGT008,Pierre Tremblay,2024-04-30,397719.89,247315.7,62.2,Closed,38,No,2024,Q2,4,April
+CLM-00569,POL-01106,Home,Water Damage,ON,Toronto,AGT002,James Okafor,2023-06-28,41741.7,35078.28,84.0,Closed,170,Yes,2023,Q2,6,June
+CLM-00570,POL-01108,Disability,Long Term,AB,Edmonton,AGT004,David Kim,2023-02-10,15487.85,14963.8,96.6,Closed,103,No,2023,Q1,2,February
+CLM-00571,POL-01108,Disability,Long Term,AB,Edmonton,AGT004,David Kim,2023-02-02,23846.44,,,Open,,Yes,2023,Q1,2,February
+CLM-00572,POL-01110,Disability,Short Term,ON,Brampton,AGT014,Raj Sharma,2023-05-13,10532.29,9561.82,90.8,Closed,27,No,2023,Q2,5,May
+CLM-00573,POL-01113,Life,Death Benefit,QC,Laval,AGT006,Mark Johnson,2023-04-07,228280.68,142699.6,62.5,Closed,118,No,2023,Q2,4,April
+CLM-00574,POL-01115,Life,Critical Illness,QC,Laval,AGT008,Pierre Tremblay,2022-06-13,109118.12,,,Open,,No,2022,Q2,6,June
+CLM-00575,POL-01117,Home,Liability,ON,Toronto,AGT002,James Okafor,2023-12-24,30448.59,21634.26,71.1,Closed,11,No,2023,Q4,12,December
+CLM-00576,POL-01120,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-10-19,156528.84,91544.21,58.5,Closed,119,No,2023,Q4,10,October
+CLM-00577,POL-01120,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-04-23,61560.91,33348.33,54.2,Closed,112,Yes,2023,Q2,4,April
+CLM-00578,POL-01121,Life,Critical Illness,MB,Winnipeg,AGT012,Carlos Rivera,2024-04-14,461681.08,348700.37,75.5,Closed,9,No,2024,Q2,4,April
+CLM-00579,POL-01123,Home,Fire,BC,Vancouver,AGT003,Maria Santos,2024-05-29,44291.5,,,Open,,No,2024,Q2,5,May
+CLM-00580,POL-01132,Travel,Lost Baggage,BC,Surrey,AGT003,Maria Santos,2024-05-30,9047.36,8105.27,89.6,Closed,55,No,2024,Q2,5,May
+CLM-00581,POL-01132,Travel,Trip Cancellation,BC,Surrey,AGT003,Maria Santos,2024-10-30,10260.11,5145.4,50.1,Closed,161,No,2024,Q4,10,October
+CLM-00582,POL-01135,Auto,Weather Damage,ON,Toronto,AGT001,Sarah Chen,2024-01-20,38243.14,34659.97,90.6,Closed,149,No,2024,Q1,1,January
+CLM-00583,POL-01135,Auto,Liability,ON,Toronto,AGT001,Sarah Chen,2024-06-13,3111.38,2454.09,78.9,Closed,22,No,2024,Q2,6,June
+CLM-00584,POL-01139,Travel,Medical,ON,Toronto,AGT005,Lisa Patel,2023-04-08,6152.84,,,Disputed,,No,2023,Q2,4,April
+CLM-00585,POL-01139,Travel,Trip Cancellation,ON,Toronto,AGT005,Lisa Patel,2023-05-12,3036.54,2689.62,88.6,Closed,133,No,2023,Q2,5,May
+CLM-00586,POL-01143,Travel,Medical,BC,Burnaby,AGT003,Maria Santos,2023-05-21,6396.46,,,Disputed,,No,2023,Q2,5,May
+CLM-00587,POL-01147,Disability,Long Term,QC,Quebec City,AGT006,Mark Johnson,2023-06-27,19100.89,9607.16,50.3,Closed,43,Yes,2023,Q2,6,June
+CLM-00588,POL-01149,Home,Theft,QC,Montreal,AGT006,Mark Johnson,2022-08-19,24896.46,24740.61,99.4,Closed,7,No,2022,Q3,8,August
+CLM-00589,POL-01149,Home,Liability,QC,Montreal,AGT006,Mark Johnson,2022-03-21,49229.17,32054.49,65.1,Closed,100,No,2022,Q1,3,March
+CLM-00590,POL-01153,Home,Liability,BC,Vancouver,AGT003,Maria Santos,2024-01-25,42909.65,41843.52,97.5,Closed,146,No,2024,Q1,1,January
+CLM-00591,POL-01155,Home,Water Damage,ON,Toronto,AGT005,Lisa Patel,2024-01-15,62841.99,,,Open,,No,2024,Q1,1,January
+CLM-00592,POL-01164,Commercial,Business Interruption,ON,Ottawa,AGT002,James Okafor,2023-11-06,173421.0,,,Disputed,,No,2023,Q4,11,November
+CLM-00593,POL-01168,Home,Liability,NS,Dartmouth,AGT013,Emma Thompson,2023-12-15,8359.14,,,Disputed,,No,2023,Q4,12,December
+CLM-00594,POL-01168,Home,Wind,NS,Dartmouth,AGT013,Emma Thompson,2024-06-02,5297.54,4023.2,75.9,Closed,164,No,2024,Q2,6,June
+CLM-00595,POL-01170,Home,Liability,BC,Burnaby,AGT003,Maria Santos,2024-05-02,3484.19,,,Disputed,,No,2024,Q2,5,May
+CLM-00596,POL-01171,Commercial,Property Damage,QC,Laval,AGT008,Pierre Tremblay,2024-12-16,122124.46,79230.86,64.9,Closed,78,No,2024,Q4,12,December
+CLM-00597,POL-01172,Life,Disability,QC,Montreal,AGT008,Pierre Tremblay,2023-09-06,432796.54,291958.47,67.5,Closed,171,No,2023,Q3,9,September
+CLM-00598,POL-01172,Life,Disability,QC,Montreal,AGT008,Pierre Tremblay,2023-03-18,132732.82,104607.73,78.8,Closed,25,No,2023,Q1,3,March
+CLM-00599,POL-01175,Commercial,Liability,BC,Kelowna,AGT003,Maria Santos,2022-10-02,172423.01,86710.55,50.3,Closed,103,No,2022,Q4,10,October
+CLM-00600,POL-01178,Home,Fire,ON,Brampton,AGT001,Sarah Chen,2022-11-11,51212.61,,,Pending Review,,No,2022,Q4,11,November
+CLM-00601,POL-01179,Auto,Glass,NS,Dartmouth,AGT013,Emma Thompson,2023-10-11,17476.09,13816.19,79.1,Closed,88,No,2023,Q4,10,October
+CLM-00602,POL-01181,Commercial,Business Interruption,ON,London,AGT005,Lisa Patel,2024-01-29,62570.84,,,Open,,No,2024,Q1,1,January
+CLM-00603,POL-01182,Life,Disability,QC,Gatineau,AGT015,Nicole Dubois,2023-04-07,90511.15,,,Pending Review,,No,2023,Q2,4,April
+CLM-00604,POL-01183,Disability,Long Term,MB,Winnipeg,AGT012,Carlos Rivera,2024-05-16,17956.53,,,Open,,No,2024,Q2,5,May
+CLM-00605,POL-01187,Disability,Short Term,AB,Lethbridge,AGT004,David Kim,2022-08-10,12512.11,,,Open,,No,2022,Q3,8,August
+CLM-00606,POL-01187,Disability,Long Term,AB,Lethbridge,AGT004,David Kim,2023-03-02,11936.07,9776.13,81.9,Closed,131,No,2023,Q1,3,March
+CLM-00607,POL-01190,Commercial,Property Damage,BC,Richmond,AGT003,Maria Santos,2023-10-19,175372.27,157175.89,89.6,Closed,133,No,2023,Q4,10,October
+CLM-00608,POL-01196,Auto,Liability,QC,Gatineau,AGT015,Nicole Dubois,2023-01-29,7276.02,3772.99,51.9,Closed,112,Yes,2023,Q1,1,January
+CLM-00609,POL-01196,Auto,Liability,QC,Gatineau,AGT015,Nicole Dubois,2022-09-11,27392.2,21227.79,77.5,Closed,75,No,2022,Q3,9,September
+CLM-00610,POL-01198,Home,Water Damage,AB,Lethbridge,AGT010,Ahmed Hassan,2023-06-08,11656.19,5015.64,43.0,Closed,157,No,2023,Q2,6,June
+CLM-00611,POL-01198,Home,Water Damage,AB,Lethbridge,AGT010,Ahmed Hassan,2023-04-12,76938.43,56796.36,73.8,Closed,101,No,2023,Q2,4,April
+CLM-00612,POL-01203,Disability,Short Term,ON,Mississauga,AGT014,Raj Sharma,2024-08-18,18463.66,,,Open,,No,2024,Q3,8,August
+CLM-00613,POL-01204,Disability,Long Term,BC,Vancouver,AGT003,Maria Santos,2024-10-09,26224.52,16780.82,64.0,Closed,129,No,2024,Q4,10,October
+CLM-00614,POL-01204,Disability,Long Term,BC,Vancouver,AGT003,Maria Santos,2024-10-02,27658.21,18262.63,66.0,Closed,66,No,2024,Q4,10,October
+CLM-00615,POL-01205,Home,Theft,ON,Ottawa,AGT005,Lisa Patel,2023-09-26,71721.81,63678.86,88.8,Closed,54,No,2023,Q3,9,September
+CLM-00616,POL-01205,Home,Liability,ON,Ottawa,AGT005,Lisa Patel,2023-07-25,7686.39,7645.08,99.5,Closed,10,Yes,2023,Q3,7,July
+CLM-00617,POL-01206,Auto,Liability,ON,Hamilton,AGT001,Sarah Chen,2024-04-06,41882.61,20441.92,48.8,Closed,20,No,2024,Q2,4,April
+CLM-00618,POL-01213,Home,Water Damage,NS,Dartmouth,AGT013,Emma Thompson,2024-10-06,41810.31,31146.47,74.5,Closed,165,No,2024,Q4,10,October
+CLM-00619,POL-01214,Travel,Lost Baggage,ON,Ottawa,AGT014,Raj Sharma,2023-05-07,6634.73,,,Open,,No,2023,Q2,5,May
+CLM-00620,POL-01215,Commercial,Business Interruption,ON,Toronto,AGT014,Raj Sharma,2022-07-02,194076.09,153199.53,78.9,Closed,49,No,2022,Q3,7,July
+CLM-00621,POL-01216,Travel,Trip Cancellation,ON,London,AGT014,Raj Sharma,2022-09-23,6535.99,6310.14,96.5,Closed,69,No,2022,Q3,9,September
+CLM-00622,POL-01216,Travel,Medical,ON,London,AGT014,Raj Sharma,2022-03-19,13747.53,,,Pending Review,,No,2022,Q1,3,March
+CLM-00623,POL-01220,Commercial,Liability,ON,London,AGT007,Aisha Mohammed,2023-07-21,133481.94,,,Disputed,,No,2023,Q3,7,July
+CLM-00624,POL-01224,Disability,Long Term,NS,Dartmouth,AGT013,Emma Thompson,2023-02-20,25788.08,10419.33,40.4,Closed,81,No,2023,Q1,2,February
+CLM-00625,POL-01226,Home,Water Damage,ON,Toronto,AGT002,James Okafor,2022-03-08,39090.79,,,Disputed,,No,2022,Q1,3,March
+CLM-00626,POL-01226,Home,Wind,ON,Toronto,AGT002,James Okafor,2022-08-08,39725.17,20572.46,51.8,Closed,130,No,2022,Q3,8,August
+CLM-00627,POL-01226,Home,Fire,ON,Toronto,AGT002,James Okafor,2022-03-05,18834.7,8507.57,45.2,Closed,172,No,2022,Q1,3,March
+CLM-00628,POL-01227,Travel,Lost Baggage,AB,Red Deer,AGT004,David Kim,2024-09-25,11214.32,,,Open,,No,2024,Q3,9,September
+CLM-00629,POL-01229,Commercial,Liability,BC,Kelowna,AGT003,Maria Santos,2023-08-09,147693.67,,,Disputed,,No,2023,Q3,8,August
+CLM-00630,POL-01230,Travel,Trip Cancellation,ON,Brampton,AGT002,James Okafor,2023-08-08,7502.06,,,Open,,No,2023,Q3,8,August
+CLM-00631,POL-01232,Home,Fire,QC,Montreal,AGT008,Pierre Tremblay,2023-05-08,55654.43,37970.88,68.2,Closed,158,No,2023,Q2,5,May
+CLM-00632,POL-01238,Auto,Theft,QC,Montreal,AGT006,Mark Johnson,2024-06-28,38942.57,29434.89,75.6,Closed,93,No,2024,Q2,6,June
+CLM-00633,POL-01239,Travel,Lost Baggage,AB,Red Deer,AGT010,Ahmed Hassan,2023-09-02,11962.83,8437.74,70.5,Closed,142,No,2023,Q3,9,September
+CLM-00634,POL-01239,Travel,Trip Cancellation,AB,Red Deer,AGT010,Ahmed Hassan,2024-01-19,13448.92,9026.04,67.1,Closed,161,No,2024,Q1,1,January
+CLM-00635,POL-01240,Auto,Liability,ON,Mississauga,AGT002,James Okafor,2022-07-11,2586.65,1798.08,69.5,Closed,15,No,2022,Q3,7,July
+CLM-00636,POL-01244,Home,Liability,QC,Gatineau,AGT015,Nicole Dubois,2024-02-28,22827.02,,,Open,,No,2024,Q1,2,February
+CLM-00637,POL-01245,Home,Fire,QC,Montreal,AGT015,Nicole Dubois,2024-07-12,54796.84,41269.68,75.3,Closed,44,No,2024,Q3,7,July
+CLM-00638,POL-01245,Home,Water Damage,QC,Montreal,AGT015,Nicole Dubois,2024-11-11,41585.58,39473.16,94.9,Closed,105,No,2024,Q4,11,November
+CLM-00639,POL-01248,Disability,Short Term,BC,Burnaby,AGT009,Karen Williams,2023-08-22,6243.45,3702.48,59.3,Closed,89,No,2023,Q3,8,August
+CLM-00640,POL-01249,Commercial,Business Interruption,BC,Kelowna,AGT009,Karen Williams,2024-01-31,45296.09,23655.17,52.2,Closed,109,No,2024,Q1,1,January
+CLM-00641,POL-01253,Life,Disability,ON,Ottawa,AGT007,Aisha Mohammed,2024-05-31,455001.22,,,Open,,No,2024,Q2,5,May
+CLM-00642,POL-01259,Home,Fire,QC,Laval,AGT015,Nicole Dubois,2024-04-06,48359.33,37192.2,76.9,Closed,180,No,2024,Q2,4,April
+CLM-00643,POL-01261,Commercial,Property Damage,ON,Mississauga,AGT005,Lisa Patel,2023-05-27,163097.59,102285.58,62.7,Closed,140,No,2023,Q2,5,May
+CLM-00644,POL-01263,Commercial,Property Damage,QC,Laval,AGT008,Pierre Tremblay,2023-11-14,41361.79,19505.51,47.2,Closed,106,Yes,2023,Q4,11,November
+CLM-00645,POL-01263,Commercial,Business Interruption,QC,Laval,AGT008,Pierre Tremblay,2023-11-22,136085.97,67411.45,49.5,Closed,60,No,2023,Q4,11,November
+CLM-00646,POL-01268,Disability,Short Term,MB,Winnipeg,AGT012,Carlos Rivera,2022-10-05,26179.21,,,Open,,No,2022,Q4,10,October
+CLM-00647,POL-01269,Life,Critical Illness,ON,Mississauga,AGT011,Jennifer Lee,2024-06-24,225680.68,100215.14,44.4,Closed,89,No,2024,Q2,6,June
+CLM-00648,POL-01269,Life,Critical Illness,ON,Mississauga,AGT011,Jennifer Lee,2024-09-01,444379.65,307310.99,69.2,Closed,107,No,2024,Q3,9,September
+CLM-00649,POL-01270,Auto,Glass,ON,Toronto,AGT002,James Okafor,2022-12-16,17228.75,6920.2,40.2,Closed,6,No,2022,Q4,12,December
+CLM-00650,POL-01271,Commercial,Property Damage,ON,Brampton,AGT014,Raj Sharma,2022-12-19,30299.28,20957.92,69.2,Closed,117,Yes,2022,Q4,12,December
+CLM-00651,POL-01273,Disability,Short Term,BC,Surrey,AGT003,Maria Santos,2023-01-29,13014.38,5530.04,42.5,Closed,114,No,2023,Q1,1,January
+CLM-00652,POL-01273,Disability,Short Term,BC,Surrey,AGT003,Maria Santos,2022-12-07,5619.44,4037.8,71.9,Closed,168,No,2022,Q4,12,December
+CLM-00653,POL-01277,Commercial,Property Damage,QC,Quebec City,AGT006,Mark Johnson,2023-07-27,120511.21,119675.1,99.3,Closed,63,No,2023,Q3,7,July
+CLM-00654,POL-01279,Travel,Medical,ON,London,AGT011,Jennifer Lee,2024-08-07,10390.68,8940.51,86.0,Closed,97,No,2024,Q3,8,August
+CLM-00655,POL-01280,Disability,Short Term,ON,Toronto,AGT007,Aisha Mohammed,2023-08-05,29136.92,12383.07,42.5,Closed,139,No,2023,Q3,8,August
+CLM-00656,POL-01287,Travel,Lost Baggage,AB,Calgary,AGT004,David Kim,2024-05-08,8939.93,4311.17,48.2,Closed,145,No,2024,Q2,5,May
+CLM-00657,POL-01290,Travel,Lost Baggage,ON,Toronto,AGT007,Aisha Mohammed,2024-10-06,441.09,,,Open,,No,2024,Q4,10,October
+CLM-00658,POL-01293,Travel,Trip Cancellation,AB,Calgary,AGT010,Ahmed Hassan,2022-11-29,11478.92,7333.68,63.9,Closed,45,No,2022,Q4,11,November
+CLM-00659,POL-01293,Travel,Medical,AB,Calgary,AGT010,Ahmed Hassan,2022-09-21,2025.55,1559.51,77.0,Closed,107,No,2022,Q3,9,September
+CLM-00660,POL-01298,Home,Wind,ON,Toronto,AGT001,Sarah Chen,2025-01-22,1828.32,1223.78,66.9,Closed,110,No,2025,Q1,1,January
+CLM-00661,POL-01299,Disability,Short Term,ON,Hamilton,AGT007,Aisha Mohammed,2024-02-22,12247.23,7582.25,61.9,Closed,53,No,2024,Q1,2,February
+CLM-00662,POL-01303,Life,Death Benefit,QC,Quebec City,AGT015,Nicole Dubois,2023-05-19,192215.02,83110.15,43.2,Closed,149,No,2023,Q2,5,May
+CLM-00663,POL-01304,Commercial,Property Damage,BC,Surrey,AGT009,Karen Williams,2024-11-20,52832.52,31479.64,59.6,Closed,70,No,2024,Q4,11,November
+CLM-00664,POL-01308,Auto,Liability,NS,Dartmouth,AGT013,Emma Thompson,2024-07-15,26466.85,15657.54,59.2,Closed,149,No,2024,Q3,7,July
+CLM-00665,POL-01308,Auto,Glass,NS,Dartmouth,AGT013,Emma Thompson,2024-12-29,28856.51,20745.24,71.9,Closed,79,No,2024,Q4,12,December
+CLM-00666,POL-01312,Commercial,Liability,QC,Gatineau,AGT006,Mark Johnson,2024-02-26,144129.2,100449.07,69.7,Closed,146,No,2024,Q1,2,February
+CLM-00667,POL-01321,Disability,Short Term,ON,Toronto,AGT005,Lisa Patel,2025-01-25,24559.9,11301.41,46.0,Closed,9,No,2025,Q1,1,January
+CLM-00668,POL-01323,Commercial,Property Damage,ON,London,AGT014,Raj Sharma,2023-11-05,139589.63,106398.38,76.2,Closed,177,No,2023,Q4,11,November
+CLM-00669,POL-01323,Commercial,Liability,ON,London,AGT014,Raj Sharma,2023-07-04,55519.87,28405.41,51.2,Closed,37,No,2023,Q3,7,July
+CLM-00670,POL-01330,Home,Wind,ON,London,AGT002,James Okafor,2023-09-15,73557.25,,,Open,,No,2023,Q3,9,September
+CLM-00671,POL-01332,Disability,Short Term,QC,Gatineau,AGT015,Nicole Dubois,2023-01-23,2607.35,,,Open,,Yes,2023,Q1,1,January
+CLM-00672,POL-01334,Life,Disability,ON,Hamilton,AGT002,James Okafor,2024-03-05,175505.13,,,Pending Review,,No,2024,Q1,3,March
+CLM-00673,POL-01334,Life,Disability,ON,Hamilton,AGT002,James Okafor,2024-07-11,315945.34,154690.15,49.0,Closed,175,No,2024,Q3,7,July
+CLM-00674,POL-01336,Travel,Trip Cancellation,ON,London,AGT007,Aisha Mohammed,2023-07-08,2077.2,,,Disputed,,No,2023,Q3,7,July
+CLM-00675,POL-01339,Travel,Medical,ON,Brampton,AGT001,Sarah Chen,2024-03-30,2039.89,,,Open,,No,2024,Q1,3,March
+CLM-00676,POL-01340,Auto,Liability,AB,Red Deer,AGT010,Ahmed Hassan,2024-02-14,44683.84,37303.13,83.5,Closed,35,No,2024,Q1,2,February
+CLM-00677,POL-01342,Commercial,Business Interruption,MB,Winnipeg,AGT012,Carlos Rivera,2024-02-10,103715.25,,,Pending Review,,No,2024,Q1,2,February
+CLM-00678,POL-01344,Disability,Short Term,QC,Quebec City,AGT015,Nicole Dubois,2022-10-16,7805.39,4815.17,61.7,Closed,11,No,2022,Q4,10,October
+CLM-00679,POL-01344,Disability,Short Term,QC,Quebec City,AGT015,Nicole Dubois,2022-05-28,19469.34,17088.03,87.8,Closed,76,No,2022,Q2,5,May
+CLM-00680,POL-01347,Commercial,Liability,ON,Toronto,AGT014,Raj Sharma,2023-12-24,57698.48,,,Disputed,,No,2023,Q4,12,December
+CLM-00681,POL-01355,Travel,Medical,NS,Dartmouth,AGT013,Emma Thompson,2023-12-30,10657.51,5483.78,51.5,Closed,94,No,2023,Q4,12,December
+CLM-00682,POL-01355,Travel,Trip Cancellation,NS,Dartmouth,AGT013,Emma Thompson,2024-02-10,14198.79,11889.46,83.7,Closed,117,No,2024,Q1,2,February
+CLM-00683,POL-01357,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2024-11-22,196283.34,160832.55,81.9,Closed,127,No,2024,Q4,11,November
+CLM-00684,POL-01360,Commercial,Business Interruption,ON,Ottawa,AGT001,Sarah Chen,2024-02-16,103686.79,,,Open,,No,2024,Q1,2,February
+CLM-00685,POL-01361,Home,Water Damage,AB,Red Deer,AGT010,Ahmed Hassan,2022-04-26,12290.87,,,Disputed,,No,2022,Q2,4,April
+CLM-00686,POL-01362,Travel,Lost Baggage,QC,Laval,AGT006,Mark Johnson,2022-04-29,4007.45,2519.1,62.9,Closed,43,No,2022,Q2,4,April
+CLM-00687,POL-01365,Home,Theft,QC,Montreal,AGT008,Pierre Tremblay,2022-10-12,19010.3,,,Open,,No,2022,Q4,10,October
+CLM-00688,POL-01369,Life,Disability,AB,Calgary,AGT004,David Kim,2023-12-04,487476.08,400666.05,82.2,Closed,130,No,2023,Q4,12,December
+CLM-00689,POL-01369,Life,Critical Illness,AB,Calgary,AGT004,David Kim,2024-06-01,228961.25,154928.25,67.7,Closed,128,No,2024,Q2,6,June
+CLM-00690,POL-01373,Home,Liability,ON,Brampton,AGT002,James Okafor,2023-11-11,52265.59,,,Open,,No,2023,Q4,11,November
+CLM-00691,POL-01374,Auto,Liability,QC,Quebec City,AGT008,Pierre Tremblay,2023-04-23,31540.02,31302.52,99.2,Closed,68,No,2023,Q2,4,April
+CLM-00692,POL-01383,Travel,Trip Cancellation,AB,Calgary,AGT004,David Kim,2022-09-07,9428.28,,,Open,,No,2022,Q3,9,September
+CLM-00693,POL-01388,Auto,Collision,AB,Edmonton,AGT004,David Kim,2023-03-24,37853.78,,,Disputed,,No,2023,Q1,3,March
+CLM-00694,POL-01388,Auto,Liability,AB,Edmonton,AGT004,David Kim,2023-05-26,6392.18,2936.4,45.9,Closed,84,No,2023,Q2,5,May
+CLM-00695,POL-01390,Auto,Glass,ON,Brampton,AGT005,Lisa Patel,2023-11-16,42642.48,,,Open,,No,2023,Q4,11,November
+CLM-00696,POL-01393,Life,Critical Illness,BC,Vancouver,AGT003,Maria Santos,2024-10-28,52574.39,22679.64,43.1,Closed,89,No,2024,Q4,10,October
+CLM-00697,POL-01396,Disability,Short Term,ON,Ottawa,AGT011,Jennifer Lee,2022-07-25,13612.25,8327.16,61.2,Closed,42,No,2022,Q3,7,July
+CLM-00698,POL-01398,Auto,Glass,ON,Brampton,AGT011,Jennifer Lee,2022-09-25,27717.19,26602.18,96.0,Closed,54,No,2022,Q3,9,September
+CLM-00699,POL-01398,Auto,Glass,ON,Brampton,AGT011,Jennifer Lee,2022-10-27,44915.96,,,Open,,No,2022,Q4,10,October
+CLM-00700,POL-01404,Travel,Trip Cancellation,QC,Gatineau,AGT006,Mark Johnson,2022-10-16,2477.47,1306.36,52.7,Closed,18,No,2022,Q4,10,October
+CLM-00701,POL-01408,Life,Critical Illness,ON,Mississauga,AGT014,Raj Sharma,2023-03-09,386018.41,,,Open,,Yes,2023,Q1,3,March
+CLM-00702,POL-01408,Life,Disability,ON,Mississauga,AGT014,Raj Sharma,2022-10-08,79796.1,60999.43,76.4,Closed,150,No,2022,Q4,10,October
+CLM-00703,POL-01408,Life,Critical Illness,ON,Mississauga,AGT014,Raj Sharma,2022-12-16,201485.91,99073.43,49.2,Closed,56,No,2022,Q4,12,December
+CLM-00704,POL-01410,Home,Wind,AB,Lethbridge,AGT010,Ahmed Hassan,2023-05-21,17166.87,14628.0,85.2,Closed,179,No,2023,Q2,5,May
+CLM-00705,POL-01410,Home,Fire,AB,Lethbridge,AGT010,Ahmed Hassan,2022-09-12,46269.92,32340.79,69.9,Closed,60,No,2022,Q3,9,September
+CLM-00706,POL-01415,Auto,Collision,QC,Quebec City,AGT008,Pierre Tremblay,2023-11-15,8002.07,6163.15,77.0,Closed,169,No,2023,Q4,11,November
+CLM-00707,POL-01415,Auto,Theft,QC,Quebec City,AGT008,Pierre Tremblay,2024-03-15,43640.39,26719.46,61.2,Closed,38,No,2024,Q1,3,March
+CLM-00708,POL-01415,Auto,Glass,QC,Quebec City,AGT008,Pierre Tremblay,2024-02-17,37948.16,15579.14,41.1,Closed,82,No,2024,Q1,2,February
+CLM-00709,POL-01416,Life,Disability,ON,Mississauga,AGT014,Raj Sharma,2023-12-05,256926.35,146813.28,57.1,Closed,95,No,2023,Q4,12,December
+CLM-00710,POL-01416,Life,Disability,ON,Mississauga,AGT014,Raj Sharma,2024-07-01,188943.15,133788.98,70.8,Closed,71,No,2024,Q3,7,July
+CLM-00711,POL-01418,Life,Disability,BC,Surrey,AGT009,Karen Williams,2024-08-04,108111.4,,,Open,,No,2024,Q3,8,August
+CLM-00712,POL-01421,Disability,Short Term,ON,Toronto,AGT007,Aisha Mohammed,2024-07-04,8851.39,7611.06,86.0,Closed,112,Yes,2024,Q3,7,July
+CLM-00713,POL-01425,Home,Wind,AB,Edmonton,AGT010,Ahmed Hassan,2023-01-15,24110.31,17113.79,71.0,Closed,116,No,2023,Q1,1,January
+CLM-00714,POL-01427,Home,Fire,ON,London,AGT007,Aisha Mohammed,2023-08-01,30350.91,30018.13,98.9,Closed,26,No,2023,Q3,8,August
+CLM-00715,POL-01428,Home,Wind,ON,Mississauga,AGT007,Aisha Mohammed,2023-07-25,66042.97,58977.78,89.3,Closed,109,No,2023,Q3,7,July
+CLM-00716,POL-01428,Home,Wind,ON,Mississauga,AGT007,Aisha Mohammed,2024-03-12,74300.23,40221.68,54.1,Closed,39,No,2024,Q1,3,March
+CLM-00717,POL-01429,Commercial,Business Interruption,ON,London,AGT002,James Okafor,2022-03-12,10260.1,5036.71,49.1,Closed,123,No,2022,Q1,3,March
+CLM-00718,POL-01430,Commercial,Liability,QC,Montreal,AGT008,Pierre Tremblay,2024-08-03,66689.89,,,Open,,No,2024,Q3,8,August
+CLM-00719,POL-01430,Commercial,Property Damage,QC,Montreal,AGT008,Pierre Tremblay,2024-05-31,135864.27,,,Open,,No,2024,Q2,5,May
+CLM-00720,POL-01432,Commercial,Liability,ON,Mississauga,AGT002,James Okafor,2023-03-19,101797.92,59890.23,58.8,Closed,22,No,2023,Q1,3,March
+CLM-00721,POL-01432,Commercial,Liability,ON,Mississauga,AGT002,James Okafor,2023-11-06,151044.66,102357.13,67.8,Closed,152,No,2023,Q4,11,November
+CLM-00722,POL-01435,Auto,Glass,ON,Ottawa,AGT011,Jennifer Lee,2022-12-14,34413.7,26715.79,77.6,Closed,143,No,2022,Q4,12,December
+CLM-00723,POL-01438,Auto,Theft,AB,Lethbridge,AGT004,David Kim,2023-09-08,43197.07,35039.25,81.1,Closed,41,No,2023,Q3,9,September
+CLM-00724,POL-01440,Disability,Short Term,ON,London,AGT005,Lisa Patel,2023-01-14,19696.98,11822.99,60.0,Closed,142,No,2023,Q1,1,January
+CLM-00725,POL-01440,Disability,Long Term,ON,London,AGT005,Lisa Patel,2022-05-05,25725.37,22393.49,87.0,Closed,37,No,2022,Q2,5,May
+CLM-00726,POL-01447,Life,Critical Illness,BC,Richmond,AGT003,Maria Santos,2024-02-19,313761.37,,,Open,,No,2024,Q1,2,February
+CLM-00727,POL-01450,Commercial,Business Interruption,QC,Quebec City,AGT008,Pierre Tremblay,2023-02-01,104719.27,100302.02,95.8,Closed,80,No,2023,Q1,2,February
+CLM-00728,POL-01452,Commercial,Liability,NS,Halifax,AGT013,Emma Thompson,2023-03-07,100711.81,68095.79,67.6,Closed,135,No,2023,Q1,3,March
+CLM-00729,POL-01454,Home,Wind,QC,Gatineau,AGT015,Nicole Dubois,2022-11-19,2048.31,1417.64,69.2,Closed,28,No,2022,Q4,11,November
+CLM-00730,POL-01455,Disability,Short Term,ON,Mississauga,AGT011,Jennifer Lee,2023-04-15,21077.68,18139.01,86.1,Closed,11,No,2023,Q2,4,April
+CLM-00731,POL-01462,Commercial,Liability,ON,Brampton,AGT014,Raj Sharma,2022-09-17,196461.84,141931.29,72.2,Closed,22,No,2022,Q3,9,September
+CLM-00732,POL-01472,Commercial,Liability,QC,Laval,AGT006,Mark Johnson,2023-06-30,27197.01,21123.13,77.7,Closed,139,No,2023,Q2,6,June
+CLM-00733,POL-01479,Home,Theft,AB,Edmonton,AGT004,David Kim,2024-04-15,64539.43,50117.31,77.7,Closed,134,No,2024,Q2,4,April
+CLM-00734,POL-01482,Auto,Theft,NS,Dartmouth,AGT013,Emma Thompson,2023-04-03,36963.42,,,Disputed,,No,2023,Q2,4,April
+CLM-00735,POL-01482,Auto,Collision,NS,Dartmouth,AGT013,Emma Thompson,2023-12-03,19724.29,18986.19,96.3,Closed,125,No,2023,Q4,12,December
+CLM-00736,POL-01484,Commercial,Business Interruption,ON,London,AGT005,Lisa Patel,2024-05-29,189256.14,,,Open,,No,2024,Q2,5,May
+CLM-00737,POL-01486,Disability,Short Term,QC,Laval,AGT008,Pierre Tremblay,2024-11-26,21898.77,,,Open,,No,2024,Q4,11,November
+CLM-00738,POL-01491,Commercial,Property Damage,AB,Lethbridge,AGT010,Ahmed Hassan,2023-07-28,78303.48,77958.88,99.6,Closed,143,No,2023,Q3,7,July
+CLM-00739,POL-01495,Commercial,Property Damage,ON,London,AGT001,Sarah Chen,2024-08-10,63478.77,,,Open,,No,2024,Q3,8,August
+CLM-00740,POL-01496,Disability,Long Term,ON,Toronto,AGT002,James Okafor,2023-10-01,17253.54,,,Disputed,,No,2023,Q4,10,October
+CLM-00741,POL-01499,Auto,Theft,ON,London,AGT005,Lisa Patel,2024-08-22,3923.05,3133.11,79.9,Closed,144,No,2024,Q3,8,August
+CLM-00742,POL-01499,Auto,Collision,ON,London,AGT005,Lisa Patel,2024-10-12,10642.73,,,Open,,No,2024,Q4,10,October
+CLM-00743,POL-01501,Travel,Lost Baggage,ON,Ottawa,AGT005,Lisa Patel,2022-04-29,3210.26,2221.86,69.2,Closed,9,No,2022,Q2,4,April
+CLM-00744,POL-01504,Travel,Lost Baggage,BC,Vancouver,AGT009,Karen Williams,2024-02-12,9626.44,5244.66,54.5,Closed,10,No,2024,Q1,2,February
+CLM-00745,POL-01513,Commercial,Liability,AB,Edmonton,AGT004,David Kim,2023-01-04,78536.76,53075.76,67.6,Closed,99,No,2023,Q1,1,January
+CLM-00746,POL-01513,Commercial,Liability,AB,Edmonton,AGT004,David Kim,2022-10-08,190746.57,,,Pending Review,,No,2022,Q4,10,October
+CLM-00747,POL-01514,Home,Fire,ON,Mississauga,AGT002,James Okafor,2023-10-05,11619.75,10567.21,90.9,Closed,177,No,2023,Q4,10,October
+CLM-00748,POL-01514,Home,Theft,ON,Mississauga,AGT002,James Okafor,2024-01-17,49483.77,35951.48,72.7,Closed,56,No,2024,Q1,1,January
+CLM-00749,POL-01519,Disability,Long Term,NS,Halifax,AGT013,Emma Thompson,2023-04-17,19199.51,11451.33,59.6,Closed,73,No,2023,Q2,4,April
+CLM-00750,POL-01520,Disability,Short Term,BC,Surrey,AGT009,Karen Williams,2024-07-05,7916.09,6856.27,86.6,Closed,120,No,2024,Q3,7,July
+CLM-00751,POL-01523,Home,Wind,MB,Winnipeg,AGT012,Carlos Rivera,2023-08-05,65270.93,30417.96,46.6,Closed,128,No,2023,Q3,8,August
+CLM-00752,POL-01523,Home,Water Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-08-06,6252.27,,,Open,,No,2023,Q3,8,August
+CLM-00753,POL-01532,Travel,Lost Baggage,QC,Laval,AGT008,Pierre Tremblay,2024-08-15,865.72,,,Disputed,,No,2024,Q3,8,August
+CLM-00754,POL-01533,Life,Critical Illness,BC,Burnaby,AGT003,Maria Santos,2023-10-30,204473.78,,,Pending Review,,No,2023,Q4,10,October
+CLM-00755,POL-01536,Home,Wind,ON,Brampton,AGT002,James Okafor,2024-03-04,12113.87,8722.8,72.0,Closed,149,Yes,2024,Q1,3,March
+CLM-00756,POL-01539,Home,Theft,ON,Brampton,AGT011,Jennifer Lee,2024-06-19,30859.67,26025.88,84.3,Closed,178,No,2024,Q2,6,June
+CLM-00757,POL-01539,Home,Water Damage,ON,Brampton,AGT011,Jennifer Lee,2024-12-04,29250.25,,,Open,,No,2024,Q4,12,December
+CLM-00758,POL-01542,Home,Fire,ON,Hamilton,AGT001,Sarah Chen,2024-12-30,23871.55,17901.22,75.0,Closed,115,No,2024,Q4,12,December
+CLM-00759,POL-01545,Auto,Weather Damage,ON,Brampton,AGT005,Lisa Patel,2024-02-06,22841.16,,,Open,,No,2024,Q1,2,February
+CLM-00760,POL-01546,Commercial,Property Damage,BC,Kelowna,AGT009,Karen Williams,2024-10-10,68291.63,65764.24,96.3,Closed,113,No,2024,Q4,10,October
+CLM-00761,POL-01547,Auto,Collision,QC,Laval,AGT015,Nicole Dubois,2023-11-05,22121.89,16129.11,72.9,Closed,27,No,2023,Q4,11,November
+CLM-00762,POL-01549,Disability,Long Term,ON,Toronto,AGT007,Aisha Mohammed,2024-03-30,23307.61,21055.39,90.3,Closed,143,No,2024,Q1,3,March
+CLM-00763,POL-01550,Disability,Short Term,QC,Gatineau,AGT006,Mark Johnson,2023-05-11,8842.95,7827.61,88.5,Closed,70,No,2023,Q2,5,May
+CLM-00764,POL-01551,Disability,Short Term,AB,Lethbridge,AGT004,David Kim,2024-09-27,7466.65,3815.55,51.1,Closed,88,No,2024,Q3,9,September
+CLM-00765,POL-01553,Travel,Medical,ON,Toronto,AGT011,Jennifer Lee,2024-10-18,2689.36,2271.27,84.5,Closed,42,Yes,2024,Q4,10,October
+CLM-00766,POL-01555,Disability,Long Term,ON,London,AGT014,Raj Sharma,2024-04-22,22678.99,16778.69,74.0,Closed,105,No,2024,Q2,4,April
+CLM-00767,POL-01556,Life,Death Benefit,QC,Montreal,AGT006,Mark Johnson,2024-08-27,107926.25,98399.42,91.2,Closed,11,No,2024,Q3,8,August
+CLM-00768,POL-01556,Life,Disability,QC,Montreal,AGT006,Mark Johnson,2024-05-15,108721.27,86857.81,79.9,Closed,99,No,2024,Q2,5,May
+CLM-00769,POL-01557,Home,Liability,QC,Laval,AGT006,Mark Johnson,2024-09-16,60843.16,55379.56,91.0,Closed,56,No,2024,Q3,9,September
+CLM-00770,POL-01558,Disability,Short Term,NS,Dartmouth,AGT013,Emma Thompson,2023-03-22,8379.1,4227.97,50.5,Closed,99,No,2023,Q1,3,March
+CLM-00771,POL-01560,Commercial,Liability,ON,Mississauga,AGT011,Jennifer Lee,2024-10-13,70429.34,,,Open,,No,2024,Q4,10,October
+CLM-00772,POL-01560,Commercial,Liability,ON,Mississauga,AGT011,Jennifer Lee,2025-02-06,41205.74,,,Open,,No,2025,Q1,2,February
+CLM-00773,POL-01562,Travel,Lost Baggage,ON,Brampton,AGT005,Lisa Patel,2024-04-25,6564.72,3387.37,51.6,Closed,16,No,2024,Q2,4,April
+CLM-00774,POL-01563,Life,Disability,QC,Gatineau,AGT015,Nicole Dubois,2023-07-17,351509.43,,,Disputed,,No,2023,Q3,7,July
+CLM-00775,POL-01563,Life,Death Benefit,QC,Gatineau,AGT015,Nicole Dubois,2023-04-14,329823.71,296256.39,89.8,Closed,26,No,2023,Q2,4,April
+CLM-00776,POL-01569,Life,Critical Illness,MB,Winnipeg,AGT012,Carlos Rivera,2024-08-20,482198.53,299849.93,62.2,Closed,166,No,2024,Q3,8,August
+CLM-00777,POL-01571,Commercial,Liability,BC,Surrey,AGT009,Karen Williams,2025-01-17,47739.22,30676.83,64.3,Closed,97,No,2025,Q1,1,January
+CLM-00778,POL-01578,Life,Disability,QC,Montreal,AGT008,Pierre Tremblay,2023-09-09,360229.9,344221.29,95.6,Closed,165,No,2023,Q3,9,September
+CLM-00779,POL-01580,Commercial,Business Interruption,BC,Burnaby,AGT003,Maria Santos,2023-03-18,152220.75,,,Disputed,,No,2023,Q1,3,March
+CLM-00780,POL-01581,Life,Disability,ON,Brampton,AGT002,James Okafor,2024-02-04,255949.96,,,Disputed,,No,2024,Q1,2,February
+CLM-00781,POL-01582,Travel,Lost Baggage,BC,Vancouver,AGT003,Maria Santos,2023-01-13,4441.96,3238.71,72.9,Closed,112,No,2023,Q1,1,January
+CLM-00782,POL-01584,Travel,Medical,QC,Quebec City,AGT015,Nicole Dubois,2022-09-08,4581.32,3125.53,68.2,Closed,160,No,2022,Q3,9,September
+CLM-00783,POL-01584,Travel,Trip Cancellation,QC,Quebec City,AGT015,Nicole Dubois,2022-09-20,1623.49,,,Open,,No,2022,Q3,9,September
+CLM-00784,POL-01589,Disability,Long Term,ON,London,AGT002,James Okafor,2023-07-26,24579.29,16821.83,68.4,Closed,123,No,2023,Q3,7,July
+CLM-00785,POL-01591,Auto,Liability,ON,Hamilton,AGT002,James Okafor,2023-05-15,43172.2,40681.23,94.2,Closed,38,No,2023,Q2,5,May
+CLM-00786,POL-01593,Disability,Long Term,MB,Winnipeg,AGT012,Carlos Rivera,2022-11-02,13150.49,,,Open,,No,2022,Q4,11,November
+CLM-00787,POL-01593,Disability,Long Term,MB,Winnipeg,AGT012,Carlos Rivera,2022-06-13,7150.42,,,Open,,No,2022,Q2,6,June
+CLM-00788,POL-01593,Disability,Long Term,MB,Winnipeg,AGT012,Carlos Rivera,2022-06-26,25588.54,,,Open,,No,2022,Q2,6,June
+CLM-00789,POL-01600,Commercial,Business Interruption,ON,Hamilton,AGT014,Raj Sharma,2023-03-12,56141.57,50970.28,90.8,Closed,173,No,2023,Q1,3,March
+CLM-00790,POL-01603,Life,Disability,MB,Brandon,AGT012,Carlos Rivera,2023-03-12,234499.11,233032.25,99.4,Closed,177,No,2023,Q1,3,March
+CLM-00791,POL-01604,Auto,Collision,QC,Quebec City,AGT015,Nicole Dubois,2023-07-08,1962.34,1910.45,97.4,Closed,92,No,2023,Q3,7,July
+CLM-00792,POL-01605,Auto,Theft,ON,Mississauga,AGT002,James Okafor,2022-12-03,25762.05,14510.87,56.3,Closed,23,No,2022,Q4,12,December
+CLM-00793,POL-01605,Auto,Weather Damage,ON,Mississauga,AGT002,James Okafor,2023-04-10,43756.8,,,Disputed,,No,2023,Q2,4,April
+CLM-00794,POL-01607,Auto,Glass,MB,Brandon,AGT012,Carlos Rivera,2022-11-18,35858.18,,,Open,,No,2022,Q4,11,November
+CLM-00795,POL-01608,Commercial,Property Damage,QC,Montreal,AGT015,Nicole Dubois,2023-01-10,173670.17,120904.71,69.6,Closed,21,No,2023,Q1,1,January
+CLM-00796,POL-01609,Commercial,Liability,ON,London,AGT011,Jennifer Lee,2023-05-09,117776.67,,,Open,,No,2023,Q2,5,May
+CLM-00797,POL-01610,Travel,Medical,BC,Surrey,AGT003,Maria Santos,2022-05-29,13425.75,5681.66,42.3,Closed,109,No,2022,Q2,5,May
+CLM-00798,POL-01613,Commercial,Business Interruption,ON,London,AGT001,Sarah Chen,2024-05-08,122433.24,67077.34,54.8,Closed,54,No,2024,Q2,5,May
+CLM-00799,POL-01613,Commercial,Liability,ON,London,AGT001,Sarah Chen,2024-03-02,112935.86,,,Pending Review,,No,2024,Q1,3,March
+CLM-00800,POL-01613,Commercial,Property Damage,ON,London,AGT001,Sarah Chen,2024-01-12,87966.09,71887.24,81.7,Closed,174,No,2024,Q1,1,January
+CLM-00801,POL-01614,Disability,Short Term,MB,Winnipeg,AGT012,Carlos Rivera,2022-12-12,4235.45,3694.68,87.2,Closed,25,No,2022,Q4,12,December
+CLM-00802,POL-01615,Travel,Lost Baggage,BC,Richmond,AGT003,Maria Santos,2022-11-25,1646.86,,,Disputed,,No,2022,Q4,11,November
+CLM-00803,POL-01616,Life,Death Benefit,QC,Quebec City,AGT015,Nicole Dubois,2023-06-04,122707.39,117763.69,96.0,Closed,170,No,2023,Q2,6,June
+CLM-00804,POL-01617,Commercial,Liability,QC,Quebec City,AGT015,Nicole Dubois,2023-12-11,170961.46,99062.66,57.9,Closed,127,No,2023,Q4,12,December
+CLM-00805,POL-01617,Commercial,Business Interruption,QC,Quebec City,AGT015,Nicole Dubois,2024-05-15,46559.72,,,Open,,No,2024,Q2,5,May
+CLM-00806,POL-01618,Commercial,Business Interruption,QC,Gatineau,AGT008,Pierre Tremblay,2023-09-23,18990.78,,,Pending Review,,Yes,2023,Q3,9,September
+CLM-00807,POL-01619,Disability,Long Term,AB,Edmonton,AGT004,David Kim,2022-10-17,5419.2,4045.74,74.7,Closed,66,No,2022,Q4,10,October
+CLM-00808,POL-01619,Disability,Long Term,AB,Edmonton,AGT004,David Kim,2023-02-05,9950.85,,,Open,,No,2023,Q1,2,February
+CLM-00809,POL-01619,Disability,Short Term,AB,Edmonton,AGT004,David Kim,2022-11-20,11281.89,,,Open,,No,2022,Q4,11,November
+CLM-00810,POL-01622,Disability,Short Term,QC,Montreal,AGT008,Pierre Tremblay,2023-10-12,29953.53,,,Open,,No,2023,Q4,10,October
+CLM-00811,POL-01623,Home,Theft,AB,Edmonton,AGT010,Ahmed Hassan,2023-10-13,39438.15,,,Disputed,,No,2023,Q4,10,October
+CLM-00812,POL-01628,Home,Liability,ON,London,AGT005,Lisa Patel,2024-06-02,18451.55,8026.66,43.5,Closed,154,No,2024,Q2,6,June
+CLM-00813,POL-01630,Auto,Liability,BC,Richmond,AGT003,Maria Santos,2024-03-22,9765.22,6039.17,61.8,Closed,40,No,2024,Q1,3,March
+CLM-00814,POL-01635,Disability,Long Term,NS,Dartmouth,AGT013,Emma Thompson,2023-09-08,12274.83,,,Disputed,,No,2023,Q3,9,September
+CLM-00815,POL-01636,Home,Theft,ON,Hamilton,AGT005,Lisa Patel,2023-09-27,9787.3,,,Pending Review,,No,2023,Q3,9,September
+CLM-00816,POL-01636,Home,Water Damage,ON,Hamilton,AGT005,Lisa Patel,2023-02-25,21593.48,18839.71,87.2,Closed,29,No,2023,Q1,2,February
+CLM-00817,POL-01641,Disability,Short Term,ON,Hamilton,AGT014,Raj Sharma,2024-12-26,15604.12,11262.73,72.2,Closed,107,No,2024,Q4,12,December
+CLM-00818,POL-01643,Life,Disability,ON,Hamilton,AGT002,James Okafor,2022-11-03,122601.99,65913.41,53.8,Closed,49,No,2022,Q4,11,November
+CLM-00819,POL-01643,Life,Critical Illness,ON,Hamilton,AGT002,James Okafor,2023-02-15,55926.93,31689.92,56.7,Closed,42,No,2023,Q1,2,February
+CLM-00820,POL-01646,Life,Death Benefit,AB,Edmonton,AGT004,David Kim,2023-01-15,67556.18,57475.82,85.1,Closed,157,No,2023,Q1,1,January
+CLM-00821,POL-01651,Disability,Long Term,QC,Laval,AGT008,Pierre Tremblay,2023-05-09,7438.72,,,Disputed,,No,2023,Q2,5,May
+CLM-00822,POL-01654,Life,Critical Illness,ON,Mississauga,AGT014,Raj Sharma,2025-03-17,180170.74,,,Disputed,,No,2025,Q1,3,March
+CLM-00823,POL-01654,Life,Disability,ON,Mississauga,AGT014,Raj Sharma,2024-07-18,491244.9,372990.94,75.9,Closed,64,Yes,2024,Q3,7,July
+CLM-00824,POL-01656,Auto,Glass,QC,Quebec City,AGT006,Mark Johnson,2022-08-20,13302.58,,,Disputed,,No,2022,Q3,8,August
+CLM-00825,POL-01659,Disability,Short Term,ON,Ottawa,AGT001,Sarah Chen,2024-04-02,28035.38,15632.03,55.8,Closed,107,No,2024,Q2,4,April
+CLM-00826,POL-01659,Disability,Short Term,ON,Ottawa,AGT001,Sarah Chen,2024-02-29,17416.87,8798.51,50.5,Closed,175,No,2024,Q1,2,February
+CLM-00827,POL-01660,Life,Critical Illness,BC,Kelowna,AGT003,Maria Santos,2023-06-13,273974.85,259628.45,94.8,Closed,9,No,2023,Q2,6,June
+CLM-00828,POL-01663,Disability,Short Term,NS,Halifax,AGT013,Emma Thompson,2023-01-30,25069.41,,,Disputed,,No,2023,Q1,1,January
+CLM-00829,POL-01667,Commercial,Liability,ON,Ottawa,AGT005,Lisa Patel,2024-03-16,191775.22,,,Open,,No,2024,Q1,3,March
+CLM-00830,POL-01669,Auto,Theft,ON,London,AGT007,Aisha Mohammed,2023-04-05,26128.11,,,Open,,No,2023,Q2,4,April
+CLM-00831,POL-01669,Auto,Glass,ON,London,AGT007,Aisha Mohammed,2023-04-04,28874.66,23494.8,81.4,Closed,42,No,2023,Q2,4,April
+CLM-00832,POL-01670,Life,Death Benefit,ON,Toronto,AGT007,Aisha Mohammed,2023-01-07,224828.29,146639.12,65.2,Closed,118,No,2023,Q1,1,January
+CLM-00833,POL-01672,Life,Death Benefit,AB,Edmonton,AGT010,Ahmed Hassan,2022-11-06,249871.71,113926.52,45.6,Closed,172,No,2022,Q4,11,November
+CLM-00834,POL-01675,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2022-07-01,104845.51,,,Open,,No,2022,Q3,7,July
+CLM-00835,POL-01678,Home,Wind,ON,Ottawa,AGT002,James Okafor,2024-04-14,68914.82,,,Open,,No,2024,Q2,4,April
+CLM-00836,POL-01680,Disability,Long Term,ON,London,AGT007,Aisha Mohammed,2024-02-24,6875.05,3993.64,58.1,Closed,11,No,2024,Q1,2,February
+CLM-00837,POL-01682,Travel,Trip Cancellation,MB,Winnipeg,AGT012,Carlos Rivera,2023-12-14,3849.69,3556.59,92.4,Closed,86,No,2023,Q4,12,December
+CLM-00838,POL-01682,Travel,Trip Cancellation,MB,Winnipeg,AGT012,Carlos Rivera,2024-03-17,4370.47,,,Disputed,,No,2024,Q1,3,March
+CLM-00839,POL-01685,Home,Wind,AB,Lethbridge,AGT010,Ahmed Hassan,2022-09-03,5853.3,5841.88,99.8,Closed,171,No,2022,Q3,9,September
+CLM-00840,POL-01687,Home,Water Damage,AB,Red Deer,AGT004,David Kim,2023-04-08,68017.55,40354.48,59.3,Closed,38,No,2023,Q2,4,April
+CLM-00841,POL-01688,Disability,Short Term,MB,Brandon,AGT012,Carlos Rivera,2023-04-22,18942.82,,,Disputed,,No,2023,Q2,4,April
+CLM-00842,POL-01690,Life,Death Benefit,ON,Toronto,AGT005,Lisa Patel,2024-05-16,320107.45,287306.74,89.8,Closed,25,No,2024,Q2,5,May
+CLM-00843,POL-01693,Commercial,Liability,ON,Toronto,AGT011,Jennifer Lee,2022-12-14,79577.7,,,Disputed,,No,2022,Q4,12,December
+CLM-00844,POL-01694,Auto,Weather Damage,ON,Ottawa,AGT005,Lisa Patel,2024-02-17,33942.83,33355.82,98.3,Closed,62,No,2024,Q1,2,February
+CLM-00845,POL-01695,Auto,Weather Damage,ON,Hamilton,AGT011,Jennifer Lee,2023-06-11,837.75,411.11,49.1,Closed,174,No,2023,Q2,6,June
+CLM-00846,POL-01698,Travel,Trip Cancellation,AB,Lethbridge,AGT010,Ahmed Hassan,2023-09-17,9142.09,4121.73,45.1,Closed,17,No,2023,Q3,9,September
+CLM-00847,POL-01703,Home,Theft,ON,London,AGT014,Raj Sharma,2023-06-24,56301.1,,,Open,,No,2023,Q2,6,June
+CLM-00848,POL-01704,Home,Liability,ON,London,AGT011,Jennifer Lee,2023-12-30,65139.74,31630.29,48.6,Closed,91,No,2023,Q4,12,December
+CLM-00849,POL-01705,Travel,Trip Cancellation,QC,Montreal,AGT015,Nicole Dubois,2023-08-24,9833.17,,,Disputed,,No,2023,Q3,8,August
+CLM-00850,POL-01706,Disability,Long Term,BC,Surrey,AGT003,Maria Santos,2023-07-07,22549.67,20356.04,90.3,Closed,33,No,2023,Q3,7,July
+CLM-00851,POL-01707,Home,Fire,BC,Richmond,AGT009,Karen Williams,2024-10-09,73679.74,,,Pending Review,,No,2024,Q4,10,October
+CLM-00852,POL-01709,Home,Wind,MB,Brandon,AGT012,Carlos Rivera,2023-02-26,52200.11,44672.83,85.6,Closed,9,No,2023,Q1,2,February
+CLM-00853,POL-01714,Disability,Short Term,AB,Red Deer,AGT010,Ahmed Hassan,2022-10-11,6364.63,,,Open,,No,2022,Q4,10,October
+CLM-00854,POL-01715,Home,Wind,ON,Toronto,AGT002,James Okafor,2024-10-07,50976.28,26645.23,52.3,Closed,41,No,2024,Q4,10,October
+CLM-00855,POL-01716,Auto,Theft,AB,Lethbridge,AGT004,David Kim,2024-01-11,3686.75,,,Open,,No,2024,Q1,1,January
+CLM-00856,POL-01719,Home,Fire,MB,Brandon,AGT012,Carlos Rivera,2023-04-01,23599.29,11595.11,49.1,Closed,8,No,2023,Q2,4,April
+CLM-00857,POL-01721,Commercial,Business Interruption,MB,Winnipeg,AGT012,Carlos Rivera,2022-09-12,151706.59,,,Open,,No,2022,Q3,9,September
+CLM-00858,POL-01721,Commercial,Property Damage,MB,Winnipeg,AGT012,Carlos Rivera,2023-02-16,32924.24,21809.42,66.2,Closed,163,No,2023,Q1,2,February
+CLM-00859,POL-01723,Auto,Glass,QC,Gatineau,AGT006,Mark Johnson,2024-09-21,32255.45,,,Open,,No,2024,Q3,9,September
+CLM-00860,POL-01723,Auto,Liability,QC,Gatineau,AGT006,Mark Johnson,2024-10-05,15741.18,,,Pending Review,,No,2024,Q4,10,October
+CLM-00861,POL-01723,Auto,Theft,QC,Gatineau,AGT006,Mark Johnson,2024-07-09,2335.36,1071.97,45.9,Closed,10,No,2024,Q3,7,July
+CLM-00862,POL-01724,Travel,Trip Cancellation,ON,Hamilton,AGT005,Lisa Patel,2022-10-14,2923.04,,,Open,,No,2022,Q4,10,October
+CLM-00863,POL-01725,Home,Water Damage,QC,Quebec City,AGT015,Nicole Dubois,2023-01-18,79480.43,46857.97,59.0,Closed,66,No,2023,Q1,1,January
+CLM-00864,POL-01727,Home,Liability,BC,Vancouver,AGT009,Karen Williams,2023-07-10,38071.67,24611.04,64.6,Closed,133,No,2023,Q3,7,July
+CLM-00865,POL-01727,Home,Water Damage,BC,Vancouver,AGT009,Karen Williams,2022-12-15,14010.25,12447.93,88.8,Closed,97,No,2022,Q4,12,December
+CLM-00866,POL-01728,Auto,Weather Damage,BC,Vancouver,AGT009,Karen Williams,2023-05-14,758.7,491.61,64.8,Closed,148,No,2023,Q2,5,May
+CLM-00867,POL-01730,Travel,Lost Baggage,ON,London,AGT011,Jennifer Lee,2022-12-21,1002.7,654.78,65.3,Closed,117,No,2022,Q4,12,December
+CLM-00868,POL-01731,Travel,Lost Baggage,ON,Hamilton,AGT002,James Okafor,2022-08-30,4929.73,2036.33,41.3,Closed,58,No,2022,Q3,8,August
+CLM-00869,POL-01731,Travel,Medical,ON,Hamilton,AGT002,James Okafor,2022-04-17,1279.65,953.74,74.5,Closed,171,No,2022,Q2,4,April
+CLM-00870,POL-01732,Commercial,Liability,AB,Red Deer,AGT004,David Kim,2023-04-21,179131.02,,,Pending Review,,No,2023,Q2,4,April
+CLM-00871,POL-01732,Commercial,Liability,AB,Red Deer,AGT004,David Kim,2023-06-27,182588.02,,,Open,,No,2023,Q2,6,June
+CLM-00872,POL-01735,Travel,Trip Cancellation,ON,Hamilton,AGT002,James Okafor,2022-11-25,558.56,300.57,53.8,Closed,37,No,2022,Q4,11,November
+CLM-00873,POL-01741,Travel,Medical,ON,Ottawa,AGT005,Lisa Patel,2024-01-07,10462.55,,,Open,,No,2024,Q1,1,January
+CLM-00874,POL-01746,Commercial,Business Interruption,QC,Laval,AGT015,Nicole Dubois,2024-05-09,47843.39,,,Disputed,,No,2024,Q2,5,May
+CLM-00875,POL-01748,Auto,Theft,BC,Surrey,AGT003,Maria Santos,2025-01-20,39806.0,35636.91,89.5,Closed,15,No,2025,Q1,1,January
+CLM-00876,POL-01749,Home,Water Damage,BC,Burnaby,AGT009,Karen Williams,2024-06-13,31628.16,,,Pending Review,,No,2024,Q2,6,June
+CLM-00877,POL-01749,Home,Water Damage,BC,Burnaby,AGT009,Karen Williams,2024-11-16,34405.91,23080.01,67.1,Closed,8,No,2024,Q4,11,November
+CLM-00878,POL-01750,Life,Disability,ON,Toronto,AGT001,Sarah Chen,2024-05-21,322363.41,,,Open,,No,2024,Q2,5,May
+CLM-00879,POL-01750,Life,Critical Illness,ON,Toronto,AGT001,Sarah Chen,2024-07-01,53927.18,,,Open,,No,2024,Q3,7,July
+CLM-00880,POL-01750,Life,Critical Illness,ON,Toronto,AGT001,Sarah Chen,2024-06-28,444518.64,337672.53,76.0,Closed,97,No,2024,Q2,6,June
+CLM-00881,POL-01753,Auto,Weather Damage,ON,Hamilton,AGT005,Lisa Patel,2024-12-22,28162.61,24167.99,85.8,Closed,147,No,2024,Q4,12,December
+CLM-00882,POL-01754,Life,Death Benefit,BC,Surrey,AGT003,Maria Santos,2022-11-01,84850.37,79704.47,93.9,Closed,31,No,2022,Q4,11,November
+CLM-00883,POL-01756,Commercial,Business Interruption,ON,Brampton,AGT007,Aisha Mohammed,2024-08-01,104366.36,,,Open,,Yes,2024,Q3,8,August
+CLM-00884,POL-01756,Commercial,Business Interruption,ON,Brampton,AGT007,Aisha Mohammed,2024-10-07,18286.86,10407.19,56.9,Closed,19,No,2024,Q4,10,October
+CLM-00885,POL-01756,Commercial,Business Interruption,ON,Brampton,AGT007,Aisha Mohammed,2024-05-15,71286.44,,,Open,,No,2024,Q2,5,May
+CLM-00886,POL-01757,Life,Critical Illness,BC,Burnaby,AGT009,Karen Williams,2023-07-10,189632.43,112230.4,59.2,Closed,53,No,2023,Q3,7,July
+CLM-00887,POL-01758,Travel,Trip Cancellation,MB,Winnipeg,AGT012,Carlos Rivera,2024-01-18,5845.21,3907.1,66.8,Closed,118,No,2024,Q1,1,January
+CLM-00888,POL-01759,Home,Fire,ON,Ottawa,AGT007,Aisha Mohammed,2023-06-20,13226.65,,,Disputed,,No,2023,Q2,6,June
+CLM-00889,POL-01759,Home,Liability,ON,Ottawa,AGT007,Aisha Mohammed,2022-11-17,52021.21,,,Open,,No,2022,Q4,11,November
+CLM-00890,POL-01765,Home,Wind,QC,Quebec City,AGT015,Nicole Dubois,2022-10-29,66301.54,41851.39,63.1,Closed,136,No,2022,Q4,10,October
+CLM-00891,POL-01766,Home,Fire,ON,London,AGT011,Jennifer Lee,2023-09-01,57833.96,53143.77,91.9,Closed,140,No,2023,Q3,9,September
+CLM-00892,POL-01767,Auto,Collision,AB,Calgary,AGT004,David Kim,2023-03-08,26668.78,17419.76,65.3,Closed,41,No,2023,Q1,3,March
+CLM-00893,POL-01769,Travel,Lost Baggage,NS,Dartmouth,AGT013,Emma Thompson,2023-09-07,8980.35,7693.02,85.7,Closed,43,No,2023,Q3,9,September
+CLM-00894,POL-01770,Home,Wind,QC,Quebec City,AGT008,Pierre Tremblay,2024-03-01,27476.94,,,Open,,No,2024,Q1,3,March
+CLM-00895,POL-01770,Home,Wind,QC,Quebec City,AGT008,Pierre Tremblay,2024-01-27,34792.8,,,Disputed,,Yes,2024,Q1,1,January
+CLM-00896,POL-01771,Disability,Long Term,BC,Vancouver,AGT003,Maria Santos,2024-06-24,7726.24,7267.07,94.1,Closed,125,No,2024,Q2,6,June
+CLM-00897,POL-01771,Disability,Short Term,BC,Vancouver,AGT003,Maria Santos,2024-01-20,9141.3,4038.44,44.2,Closed,18,No,2024,Q1,1,January
+CLM-00898,POL-01774,Travel,Medical,ON,Mississauga,AGT007,Aisha Mohammed,2022-06-12,265.39,,,Open,,No,2022,Q2,6,June
+CLM-00899,POL-01782,Auto,Theft,AB,Red Deer,AGT004,David Kim,2023-09-21,42780.83,37476.64,87.6,Closed,32,No,2023,Q3,9,September
+CLM-00900,POL-01782,Auto,Weather Damage,AB,Red Deer,AGT004,David Kim,2023-07-26,6739.28,,,Open,,No,2023,Q3,7,July
+CLM-00901,POL-01783,Travel,Medical,QC,Montreal,AGT006,Mark Johnson,2023-09-13,327.58,309.38,94.4,Closed,15,No,2023,Q3,9,September
+CLM-00902,POL-01783,Travel,Medical,QC,Montreal,AGT006,Mark Johnson,2023-10-19,3063.24,2466.16,80.5,Closed,176,No,2023,Q4,10,October
+CLM-00903,POL-01789,Travel,Lost Baggage,NS,Dartmouth,AGT013,Emma Thompson,2023-10-17,13568.71,,,Open,,No,2023,Q4,10,October
+CLM-00904,POL-01790,Disability,Long Term,QC,Laval,AGT015,Nicole Dubois,2023-08-13,11796.28,,,Open,,No,2023,Q3,8,August
+CLM-00905,POL-01795,Life,Death Benefit,ON,Toronto,AGT011,Jennifer Lee,2022-10-10,57859.43,47909.92,82.8,Closed,75,No,2022,Q4,10,October
+CLM-00906,POL-01795,Life,Disability,ON,Toronto,AGT011,Jennifer Lee,2022-07-01,370690.92,191931.15,51.8,Closed,54,No,2022,Q3,7,July
+CLM-00907,POL-01796,Life,Death Benefit,ON,Ottawa,AGT001,Sarah Chen,2023-04-02,392107.57,214218.7,54.6,Closed,6,No,2023,Q2,4,April
+CLM-00908,POL-01799,Disability,Short Term,ON,London,AGT002,James Okafor,2022-09-08,11368.1,9926.11,87.3,Closed,24,No,2022,Q3,9,September
+CLM-00909,POL-01800,Disability,Short Term,ON,Ottawa,AGT014,Raj Sharma,2024-06-10,3938.8,,,Disputed,,No,2024,Q2,6,June
+CLM-00910,POL-01800,Disability,Short Term,ON,Ottawa,AGT014,Raj Sharma,2025-01-20,5767.41,3513.45,60.9,Closed,56,No,2025,Q1,1,January
+CLM-00911,POL-01805,Life,Disability,QC,Gatineau,AGT008,Pierre Tremblay,2023-02-03,275177.16,144250.51,52.4,Closed,25,No,2023,Q1,2,February
+CLM-00912,POL-01806,Disability,Short Term,AB,Red Deer,AGT004,David Kim,2023-05-03,24909.66,,,Pending Review,,No,2023,Q2,5,May
+CLM-00913,POL-01809,Commercial,Property Damage,QC,Quebec City,AGT015,Nicole Dubois,2023-04-19,9474.42,,,Disputed,,No,2023,Q2,4,April
+CLM-00914,POL-01809,Commercial,Business Interruption,QC,Quebec City,AGT015,Nicole Dubois,2023-08-27,84495.29,,,Open,,No,2023,Q3,8,August
+CLM-00915,POL-01811,Disability,Short Term,QC,Gatineau,AGT006,Mark Johnson,2024-03-27,29678.04,20740.08,69.9,Closed,3,Yes,2024,Q1,3,March
+CLM-00916,POL-01811,Disability,Short Term,QC,Gatineau,AGT006,Mark Johnson,2024-09-19,2582.15,1638.82,63.5,Closed,80,No,2024,Q3,9,September
+CLM-00917,POL-01813,Life,Disability,AB,Lethbridge,AGT010,Ahmed Hassan,2024-04-06,394560.57,,,Open,,No,2024,Q2,4,April
+CLM-00918,POL-01819,Home,Wind,ON,Toronto,AGT011,Jennifer Lee,2023-10-31,67756.24,64080.18,94.6,Closed,54,No,2023,Q4,10,October
+CLM-00919,POL-01821,Auto,Collision,BC,Richmond,AGT009,Karen Williams,2024-04-18,23921.39,18111.2,75.7,Closed,144,No,2024,Q2,4,April
+CLM-00920,POL-01824,Home,Fire,BC,Burnaby,AGT003,Maria Santos,2024-05-09,14705.72,,,Disputed,,No,2024,Q2,5,May
+CLM-00921,POL-01824,Home,Fire,BC,Burnaby,AGT003,Maria Santos,2024-01-13,27473.13,25507.94,92.8,Closed,49,No,2024,Q1,1,January
+CLM-00922,POL-01826,Auto,Theft,ON,Toronto,AGT014,Raj Sharma,2022-04-20,28684.4,18653.33,65.0,Closed,109,No,2022,Q2,4,April
+CLM-00923,POL-01826,Auto,Glass,ON,Toronto,AGT014,Raj Sharma,2022-11-13,35604.7,,,Pending Review,,No,2022,Q4,11,November
+CLM-00924,POL-01828,Life,Disability,ON,Toronto,AGT005,Lisa Patel,2023-09-18,186394.92,,,Open,,No,2023,Q3,9,September
+CLM-00925,POL-01828,Life,Death Benefit,ON,Toronto,AGT005,Lisa Patel,2023-07-24,442316.72,418792.7,94.7,Closed,25,Yes,2023,Q3,7,July
+CLM-00926,POL-01828,Life,Disability,ON,Toronto,AGT005,Lisa Patel,2023-09-05,296816.07,,,Open,,No,2023,Q3,9,September
+CLM-00927,POL-01830,Auto,Glass,QC,Laval,AGT015,Nicole Dubois,2023-05-15,13414.61,6488.71,48.4,Closed,34,No,2023,Q2,5,May
+CLM-00928,POL-01838,Auto,Liability,BC,Burnaby,AGT009,Karen Williams,2024-04-30,21812.66,20069.05,92.0,Closed,125,No,2024,Q2,4,April
+CLM-00929,POL-01838,Auto,Glass,BC,Burnaby,AGT009,Karen Williams,2024-11-21,24649.83,24031.47,97.5,Closed,63,No,2024,Q4,11,November
+CLM-00930,POL-01841,Travel,Trip Cancellation,ON,Brampton,AGT005,Lisa Patel,2022-07-12,13210.65,11485.21,86.9,Closed,105,No,2022,Q3,7,July
+CLM-00931,POL-01841,Travel,Medical,ON,Brampton,AGT005,Lisa Patel,2022-07-30,6491.69,4290.93,66.1,Closed,179,No,2022,Q3,7,July
+CLM-00932,POL-01846,Home,Liability,MB,Winnipeg,AGT012,Carlos Rivera,2024-10-17,54402.29,,,Pending Review,,Yes,2024,Q4,10,October
+CLM-00933,POL-01848,Home,Liability,AB,Lethbridge,AGT004,David Kim,2023-07-06,9387.63,5576.96,59.4,Closed,125,No,2023,Q3,7,July
+CLM-00934,POL-01849,Home,Wind,ON,Ottawa,AGT005,Lisa Patel,2022-12-13,31034.37,,,Open,,No,2022,Q4,12,December
+CLM-00935,POL-01852,Home,Theft,ON,Mississauga,AGT007,Aisha Mohammed,2022-11-10,10859.08,,,Disputed,,No,2022,Q4,11,November
+CLM-00936,POL-01852,Home,Wind,ON,Mississauga,AGT007,Aisha Mohammed,2022-11-22,44563.45,22864.73,51.3,Closed,38,No,2022,Q4,11,November
+CLM-00937,POL-01855,Commercial,Property Damage,AB,Edmonton,AGT004,David Kim,2023-05-10,131416.0,118919.4,90.5,Closed,112,Yes,2023,Q2,5,May
+CLM-00938,POL-01857,Auto,Weather Damage,BC,Richmond,AGT003,Maria Santos,2024-11-27,12504.75,10283.95,82.2,Closed,117,No,2024,Q4,11,November
+CLM-00939,POL-01858,Home,Fire,AB,Lethbridge,AGT004,David Kim,2022-11-18,50490.29,,,Open,,No,2022,Q4,11,November
+CLM-00940,POL-01859,Auto,Theft,QC,Quebec City,AGT008,Pierre Tremblay,2023-12-10,15625.35,6373.82,40.8,Closed,103,No,2023,Q4,12,December
+CLM-00941,POL-01859,Auto,Liability,QC,Quebec City,AGT008,Pierre Tremblay,2024-05-16,12748.05,,,Pending Review,,No,2024,Q2,5,May
+CLM-00942,POL-01860,Life,Death Benefit,BC,Vancouver,AGT003,Maria Santos,2023-07-27,432941.93,279180.26,64.5,Closed,33,No,2023,Q3,7,July
+CLM-00943,POL-01863,Life,Disability,ON,Brampton,AGT007,Aisha Mohammed,2023-03-02,138004.51,,,Open,,No,2023,Q1,3,March
+CLM-00944,POL-01863,Life,Disability,ON,Brampton,AGT007,Aisha Mohammed,2023-02-19,369763.55,,,Open,,No,2023,Q1,2,February
+CLM-00945,POL-01863,Life,Death Benefit,ON,Brampton,AGT007,Aisha Mohammed,2023-01-31,261308.09,228791.7,87.6,Closed,9,No,2023,Q1,1,January
+CLM-00946,POL-01866,Commercial,Liability,BC,Burnaby,AGT009,Karen Williams,2024-03-24,64489.73,,,Pending Review,,No,2024,Q1,3,March
+CLM-00947,POL-01869,Auto,Glass,QC,Gatineau,AGT015,Nicole Dubois,2024-05-28,40693.21,35541.1,87.3,Closed,80,No,2024,Q2,5,May
+CLM-00948,POL-01869,Auto,Theft,QC,Gatineau,AGT015,Nicole Dubois,2024-06-21,11820.17,9866.68,83.5,Closed,170,No,2024,Q2,6,June
+CLM-00949,POL-01872,Travel,Trip Cancellation,ON,Toronto,AGT002,James Okafor,2024-03-10,7698.81,6712.82,87.2,Closed,61,No,2024,Q1,3,March
+CLM-00950,POL-01872,Travel,Lost Baggage,ON,Toronto,AGT002,James Okafor,2023-12-31,8296.08,5453.64,65.7,Closed,109,No,2023,Q4,12,December
+CLM-00951,POL-01875,Commercial,Property Damage,ON,London,AGT001,Sarah Chen,2022-06-19,10713.21,8546.97,79.8,Closed,96,No,2022,Q2,6,June
+CLM-00952,POL-01878,Auto,Liability,BC,Richmond,AGT003,Maria Santos,2024-05-20,34829.68,26681.29,76.6,Closed,169,No,2024,Q2,5,May
+CLM-00953,POL-01884,Travel,Lost Baggage,AB,Calgary,AGT004,David Kim,2023-12-25,11898.59,7037.73,59.1,Closed,11,No,2023,Q4,12,December
+CLM-00954,POL-01886,Home,Fire,ON,Mississauga,AGT014,Raj Sharma,2022-12-22,37172.97,,,Disputed,,No,2022,Q4,12,December
+CLM-00955,POL-01886,Home,Liability,ON,Mississauga,AGT014,Raj Sharma,2023-02-21,4608.59,3135.98,68.0,Closed,128,No,2023,Q1,2,February
+CLM-00956,POL-01887,Disability,Long Term,ON,Hamilton,AGT002,James Okafor,2022-05-25,20674.72,20296.3,98.2,Closed,146,No,2022,Q2,5,May
+CLM-00957,POL-01887,Disability,Long Term,ON,Hamilton,AGT002,James Okafor,2022-06-29,5855.8,4306.69,73.5,Closed,93,Yes,2022,Q2,6,June
+CLM-00958,POL-01890,Travel,Lost Baggage,ON,Hamilton,AGT002,James Okafor,2022-05-02,2937.87,2166.37,73.7,Closed,90,No,2022,Q2,5,May
+CLM-00959,POL-01891,Commercial,Liability,QC,Laval,AGT006,Mark Johnson,2024-12-30,155496.85,,,Open,,No,2024,Q4,12,December
+CLM-00960,POL-01894,Commercial,Business Interruption,BC,Richmond,AGT009,Karen Williams,2023-10-20,146352.27,67372.13,46.0,Closed,171,No,2023,Q4,10,October
+CLM-00961,POL-01895,Auto,Liability,ON,Ottawa,AGT011,Jennifer Lee,2024-02-20,16429.65,,,Open,,No,2024,Q1,2,February
+CLM-00962,POL-01895,Auto,Liability,ON,Ottawa,AGT011,Jennifer Lee,2024-01-15,40821.93,36073.3,88.4,Closed,180,No,2024,Q1,1,January
+CLM-00963,POL-01900,Travel,Medical,BC,Vancouver,AGT009,Karen Williams,2024-04-07,4041.25,,,Pending Review,,No,2024,Q2,4,April
+CLM-00964,POL-01902,Home,Theft,ON,Mississauga,AGT005,Lisa Patel,2023-02-11,28177.58,,,Open,,No,2023,Q1,2,February
+CLM-00965,POL-01908,Travel,Medical,ON,Brampton,AGT014,Raj Sharma,2022-04-08,6745.48,,,Pending Review,,No,2022,Q2,4,April
+CLM-00966,POL-01915,Life,Death Benefit,AB,Lethbridge,AGT010,Ahmed Hassan,2022-12-20,128209.92,83924.8,65.5,Closed,137,No,2022,Q4,12,December
+CLM-00967,POL-01917,Travel,Medical,ON,Toronto,AGT007,Aisha Mohammed,2024-02-01,6473.67,3498.53,54.0,Closed,113,No,2024,Q1,2,February
+CLM-00968,POL-01923,Life,Disability,ON,Toronto,AGT002,James Okafor,2024-03-17,198468.56,152687.26,76.9,Closed,39,No,2024,Q1,3,March
+CLM-00969,POL-01927,Auto,Theft,AB,Calgary,AGT010,Ahmed Hassan,2024-01-21,42875.94,,,Open,,No,2024,Q1,1,January
+CLM-00970,POL-01927,Auto,Weather Damage,AB,Calgary,AGT010,Ahmed Hassan,2024-01-31,22842.64,20789.67,91.0,Closed,77,No,2024,Q1,1,January
+CLM-00971,POL-01928,Life,Death Benefit,NS,Halifax,AGT013,Emma Thompson,2023-04-29,230332.04,,,Disputed,,No,2023,Q2,4,April
+CLM-00972,POL-01930,Life,Death Benefit,BC,Burnaby,AGT009,Karen Williams,2022-04-14,262121.29,225493.82,86.0,Closed,122,No,2022,Q2,4,April
+CLM-00973,POL-01931,Life,Disability,QC,Quebec City,AGT008,Pierre Tremblay,2023-09-14,60927.29,34798.17,57.1,Closed,24,No,2023,Q3,9,September
+CLM-00974,POL-01933,Auto,Weather Damage,ON,Brampton,AGT001,Sarah Chen,2023-11-20,10513.56,,,Disputed,,No,2023,Q4,11,November
+CLM-00975,POL-01933,Auto,Glass,ON,Brampton,AGT001,Sarah Chen,2023-11-15,22029.5,10380.77,47.1,Closed,85,Yes,2023,Q4,11,November
+CLM-00976,POL-01935,Travel,Trip Cancellation,AB,Lethbridge,AGT010,Ahmed Hassan,2023-03-23,9153.36,,,Open,,No,2023,Q1,3,March
+CLM-00977,POL-01937,Home,Fire,AB,Edmonton,AGT010,Ahmed Hassan,2023-01-21,67506.38,32723.9,48.5,Closed,16,No,2023,Q1,1,January
+CLM-00978,POL-01938,Home,Water Damage,ON,Mississauga,AGT014,Raj Sharma,2023-01-02,8738.07,6378.5,73.0,Closed,22,No,2023,Q1,1,January
+CLM-00979,POL-01939,Travel,Trip Cancellation,ON,Hamilton,AGT007,Aisha Mohammed,2022-12-02,1885.84,784.78,41.6,Closed,134,No,2022,Q4,12,December
+CLM-00980,POL-01940,Auto,Weather Damage,ON,London,AGT007,Aisha Mohammed,2023-07-12,38344.7,,,Open,,No,2023,Q3,7,July
+CLM-00981,POL-01941,Disability,Short Term,ON,Brampton,AGT005,Lisa Patel,2024-07-06,2289.86,2273.64,99.3,Closed,168,No,2024,Q3,7,July
+CLM-00982,POL-01942,Disability,Short Term,QC,Quebec City,AGT015,Nicole Dubois,2024-06-11,26837.52,22727.77,84.7,Closed,91,No,2024,Q2,6,June
+CLM-00983,POL-01947,Life,Critical Illness,QC,Montreal,AGT015,Nicole Dubois,2024-11-26,53828.97,,,Open,,No,2024,Q4,11,November
+CLM-00984,POL-01947,Life,Disability,QC,Montreal,AGT015,Nicole Dubois,2024-11-08,206593.56,160163.77,77.5,Closed,40,No,2024,Q4,11,November
+CLM-00985,POL-01949,Commercial,Property Damage,ON,Brampton,AGT011,Jennifer Lee,2023-08-12,166870.38,133332.52,79.9,Closed,21,No,2023,Q3,8,August
+CLM-00986,POL-01950,Disability,Long Term,ON,Toronto,AGT002,James Okafor,2024-01-13,3682.98,2678.61,72.7,Closed,3,No,2024,Q1,1,January
+CLM-00987,POL-01952,Disability,Short Term,NS,Halifax,AGT013,Emma Thompson,2024-09-11,21183.96,,,Open,,No,2024,Q3,9,September
+CLM-00988,POL-01955,Life,Death Benefit,AB,Edmonton,AGT010,Ahmed Hassan,2024-12-28,291861.96,,,Open,,No,2024,Q4,12,December
+CLM-00989,POL-01955,Life,Death Benefit,AB,Edmonton,AGT010,Ahmed Hassan,2024-09-30,382225.71,290544.9,76.0,Closed,133,No,2024,Q3,9,September
+CLM-00990,POL-01958,Life,Critical Illness,QC,Laval,AGT015,Nicole Dubois,2023-03-24,108230.7,,,Open,,No,2023,Q1,3,March
+CLM-00991,POL-01962,Disability,Short Term,AB,Calgary,AGT010,Ahmed Hassan,2024-10-04,24244.76,,,Open,,No,2024,Q4,10,October
+CLM-00992,POL-01963,Commercial,Liability,ON,Toronto,AGT001,Sarah Chen,2022-08-08,20780.76,,,Open,,No,2022,Q3,8,August
+CLM-00993,POL-01965,Home,Theft,ON,Toronto,AGT002,James Okafor,2024-09-14,34204.94,23381.35,68.4,Closed,91,No,2024,Q3,9,September
+CLM-00994,POL-01969,Disability,Short Term,ON,Hamilton,AGT001,Sarah Chen,2024-06-08,21266.76,17129.05,80.5,Closed,39,No,2024,Q2,6,June
+CLM-00995,POL-01972,Disability,Long Term,ON,Hamilton,AGT002,James Okafor,2023-10-20,27862.67,18511.17,66.4,Closed,9,No,2023,Q4,10,October
+CLM-00996,POL-01973,Commercial,Business Interruption,ON,Ottawa,AGT011,Jennifer Lee,2024-03-14,169983.13,,,Open,,No,2024,Q1,3,March
+CLM-00997,POL-01974,Travel,Lost Baggage,BC,Burnaby,AGT003,Maria Santos,2023-06-17,9898.1,,,Pending Review,,No,2023,Q2,6,June
+CLM-00998,POL-01975,Home,Wind,ON,Ottawa,AGT011,Jennifer Lee,2023-12-11,14896.79,,,Open,,Yes,2023,Q4,12,December
+CLM-00999,POL-01975,Home,Fire,ON,Ottawa,AGT011,Jennifer Lee,2023-12-07,64637.35,41992.14,65.0,Closed,79,No,2023,Q4,12,December
+CLM-01000,POL-01977,Travel,Lost Baggage,AB,Red Deer,AGT010,Ahmed Hassan,2023-12-08,6072.38,4366.76,71.9,Closed,109,No,2023,Q4,12,December
+CLM-01001,POL-01985,Commercial,Business Interruption,ON,Ottawa,AGT014,Raj Sharma,2024-02-20,156984.89,84582.82,53.9,Closed,141,No,2024,Q1,2,February
+CLM-01002,POL-01987,Commercial,Liability,QC,Gatineau,AGT015,Nicole Dubois,2022-10-16,117447.36,,,Pending Review,,No,2022,Q4,10,October
+CLM-01003,POL-01987,Commercial,Business Interruption,QC,Gatineau,AGT015,Nicole Dubois,2023-01-09,130550.57,90018.87,69.0,Closed,87,No,2023,Q1,1,January
+CLM-01004,POL-01988,Disability,Short Term,ON,Mississauga,AGT011,Jennifer Lee,2024-04-30,12559.37,12081.92,96.2,Closed,27,No,2024,Q2,4,April
+CLM-01005,POL-01988,Disability,Short Term,ON,Mississauga,AGT011,Jennifer Lee,2023-10-26,5591.91,2763.11,49.4,Closed,135,No,2023,Q4,10,October
+CLM-01006,POL-01994,Disability,Long Term,AB,Calgary,AGT010,Ahmed Hassan,2025-02-14,20960.07,,,Open,,No,2025,Q1,2,February
+CLM-01007,POL-01994,Disability,Long Term,AB,Calgary,AGT010,Ahmed Hassan,2024-06-22,25313.66,17371.21,68.6,Closed,160,No,2024,Q2,6,June
+CLM-01008,POL-01995,Travel,Medical,ON,Mississauga,AGT001,Sarah Chen,2023-08-08,1775.54,842.57,47.5,Closed,107,No,2023,Q3,8,August
+CLM-01009,POL-01995,Travel,Trip Cancellation,ON,Mississauga,AGT001,Sarah Chen,2023-01-11,7848.4,3586.35,45.7,Closed,172,No,2023,Q1,1,January
