@@ -5,7 +5,7 @@ Data analytics and business intelligence portfolio projects.
 ## Project 1 — GTA Construction Project Cost & Performance Dashboard
 
 **Tools:** Excel (Pivot Tables, Charts, Slicers)  
-**Dataset:** Public construction project cost dataset  
+**Dataset:** Construction project cost dataset  
 **Industry:** Construction
 
 ### Business Problem
@@ -26,7 +26,7 @@ Identify cost overrun patterns and schedule performance trends across a GTA cons
 ## Project 2 — CPG / FMCG Sales Performance Dashboard
 
 **Tools:** Power BI · DAX  
-**Dataset:** FMCG Sales & Profit 2023–2025 (Kaggle, 18,240 rows)  
+**Dataset:** FMCG Sales & Profit 2023–2025 (18,240 rows)  
 **Industry:** Consumer Packaged Goods (CPG) / FMCG  
 
 ### Business Problem
